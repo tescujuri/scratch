@@ -12,7 +12,6 @@ def write_file(data_in):
 
 def clean_data(data_in):
     prefix_clean = re.sub(r".*: ", '', data_in)
-    prefix_clean1 = prefix_clean.split(" ")[0]
     cleaned_out = prefix_clean.replace('.bilatu.com', '').replace('.bilatu.net', '').replace('.dev', '').replace('..', ".").replace('"', '').replace("^ ", "")
     return cleaned_out
 
