@@ -14,7 +14,7 @@ with open(INPUT_FILE, 'r') as data:
       line = line.strip()
       data1 = line.replace('.abc.com', '')
       data2 = data1.replace('.abc.net', '')
-      data3 = data2.replace('.infra', '')
+      data3 = data2.replace('.subd', '')
       cleaned.append(data3)
    for clean in cleaned:
       output += clean.strip('"') + "\n"
