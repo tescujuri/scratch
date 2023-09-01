@@ -12,10 +12,8 @@ with open(INPUT_FILE, 'r') as data:
    lines = data.readlines()
    for line in lines:
       line = line.strip()
-      data1 = line.replace('.wellsfargo.com', '')
-      data2 = data1.replace('.wellsfargo.net', '')
-      data3 = data2.replace('.infra', '')
-      cleaned.append(data3)
+      cleaned_data = line.replace('.wellsfargo.com', '').replace('.wellsfargo.net', '').replace('.infra', '')
+      cleaned.append(cleaned_data)
    for clean in cleaned:
       output += clean.strip('"') + "\n"
    data.close()
