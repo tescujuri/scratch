@@ -1,13 +1,10 @@
-
 INPUT_FILE = 'data.in'
 OUTPUT_FILE = 'data.out.csv'
-
 
 def write_file(data):
    with open(OUTPUT_FILE, 'w') as data_out:
       data_out.write(data)
       data_out.close()
-
 
 cleaned = []
 output = ""
@@ -26,5 +23,3 @@ with open(INPUT_FILE, 'r') as data:
    data.close()
    
 write_file(output)
-
-
