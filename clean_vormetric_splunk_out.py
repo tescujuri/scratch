@@ -1,4 +1,4 @@
-INPUT_FILE = 'data.in'
+INPUT_FILE = 'data.in.csv'
 OUTPUT_FILE = 'data.out.csv'
 
 def write_file(data):
