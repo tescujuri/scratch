@@ -1,5 +1,5 @@
-INPUT_FILE = 'data.in.csv'
-OUTPUT_FILE = 'data.out.csv'
+INPUT_FILE = "./data.in"
+OUTPUT_FILE = "./data.out"
 
 def write_file(data):
    with open(OUTPUT_FILE, 'w') as data_out:
