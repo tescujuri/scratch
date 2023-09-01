@@ -15,10 +15,10 @@ with open(INPUT_FILE, 'r') as data:
    lines = data.readlines()
    for line in lines:
       line = line.strip()
-      data1 = line.replace('.wellsfargo.com', '')
-      data2 = data1.replace('.wellsfargo.net', '')
+      data1 = line.replace('.abc.com', '')
+      data2 = data1.replace('.abc.net', '')
       data3 = data2.replace('.infra', '')
-      data4 = data3.replace('.wellsfargo.org', '')
+      data4 = data3.replace('.abc.org', '')
       cleaned.append(data3)
          
    for clean in cleaned:
