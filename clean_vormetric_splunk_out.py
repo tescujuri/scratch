@@ -12,9 +12,9 @@ with open(INPUT_FILE, 'r') as data:
    lines = data.readlines()
    for line in lines:
       line = line.strip()
-      data1 = line.replace('.abc.com', '')
-      data2 = data1.replace('.abc.net', '')
-      data3 = data2.replace('.subd', '')
+      data1 = line.replace('.wellsfargo.com', '')
+      data2 = data1.replace('.wellsfargo.net', '')
+      data3 = data2.replace('.infra', '')
       cleaned.append(data3)
    for clean in cleaned:
       output += clean.strip('"') + "\n"
