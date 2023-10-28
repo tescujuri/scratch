@@ -1,1 +1,1356 @@
-T
+Terraform on AWS EKS IaC/SRE @UDEMY: 160. Step-03: Introduction to Provisioning AWS Admin as EKS Admin 5min 67
+Terraform on AWS EKS IaC/SRE @UDEMY: 161. Step-04: Create IAM User and AWS CLI Profile 11min 45 78
+Terraform on AWS EKS IaC/SRE @UDEMY: 162. Step-05: Update aws-auth configMap and Verify access 11mins 89
+Terraform on AWS EKS IaC/SRE @UDEMY: 166. Step-01: Introduction to Provisioning AWS Users as EKS Admins using Terraform 4min
+Terraform on AWS EKS IaC/SRE @UDEMY: 167. Step-02: Create IAM User TF Configs 10min
+Terraform on AWS EKS IaC/SRE @UDEMY: 168. Step-03: Create TF Configs for Kubernetes Provider and EKSCluster Auth DS 5min
+Terraform on AWS EKS IaC/SRE @UDEMY: 169. Step-04: Create ConfigMap Roles, Users locals block and k8s ConfigMapTF Configs 23min 32
+Terraform on AWS EKS IaC/SRE @UDEMY: 170. Step-05: Create EKS Cluster and Verify with both users 15min 47
+100 Days of Code:  18. Day 2 Goals: what we will make by the end of the day 2min
+100 Days of Code:  19. Python Primitive Data Types 8min
+100 Days of Code:  Quiz 3: Data Types Quiz 20. Type Error, Type Checking and Type Conversion 7min
+100 Days of Code:  21. [Interactive Coding Exercise] Data Types 6min
+100 Days of Code:  22. Mathematical Operations in Python 8min
+100 Days of Code:  23. [Interactive Coding Exercise] BMI Calculator 7min
+100 Days of Code:  24. Number Manipulation and F Strings in Python 8min
+100 Days of Code:  25. [Interactive Coding Exercise] Life in Weeks 6min
+100 Days of Code:  Quiz 4: Mathematical Operations Quiz
+100 Days of Code:  26. Day 2 Project: Tip Calculator 18min
+100 Days of Code:  27. You are already in the top 50% 1min
+Terraform on AWS EKS IaC/SRE @UDEMY: 171. Step-06: CleanUp EKS Cluster and AWS CLI Profiles 3min 50
+Terraform on AWS EKS IaC/SRE @UDEMY: 172. Step-01: Introduction to EKS IAM Roles 7min 57
+Terraform on AWS EKS IaC/SRE @UDEMY: 173. Step-02: Pre-requisite: Check if EKS Cluster or we need to create it 5min 62
+Terraform on AWS EKS IaC/SRE @UDEMY: 174. Step-03: Create IAM Trust Policy, IAM EKS Full Access Policy and IAM Role 8min 70
+Terraform on AWS EKS IaC/SRE @UDEMY: 175. Step-04: Create IAM Group, Group Policy and Update aws-auth config map 7min 77
+Terraform on AWS EKS IaC/SRE @UDEMY: 176. Step-05: Create AWS CLI Profile for eksadmin1 and set it as default profile 6min 83
+Terraform on AWS EKS IaC/SRE @UDEMY: 177. Step-06: Create STS Assume Role Creds, configure kubeconfig and test 8min 91
+Terraform on AWS EKS IaC/SRE @UDEMY: 178. Step-07: Test STS Assume Role using AWS Mgmt console for eksadmin1 user 5min 96
+Terraform on AWS EKS IaC/SRE @UDEMY: 179. Step-08: CleanUp EKS Cluster and CLI Profiles 6min 102
+100 Days of Code:  28. Day 3 Goals: what we will make by the end of the day 1min
+100 Days of Code:  29. Control Flow with if / else and Conditional Operators 10min
+100 Days of Code:  30. [Interactive Coding Exercise] Odd or Even? Introducing the Modulo 5min
+100 Days of Code:  31. Nested if statements and elif statements 6min
+100 Days of Code:  32. [Interactive Coding Exercise] BMI 2.0 7min
+100 Days of Code:  33. [Interactive Coding Exercise] Leap Year 11min
+100 Days of Code:  34. Multiple If Statements in Succession 9min
+100 Days of Code:  35. [Interactive Coding Exercise] Pizza Order Practice 6min
+100 Days of Code:  36. Logical Operators 6min
+100 Days of Code:  37. [Interactive Coding Exercise] Love Calculator 14min
+100 Days of Code:  38. Day 3 Project: Treasure Island 18min 32
+100 Days of Code:  39. Share and Show off your Project! 1min
+Terraform on AWS EKS IaC/SRE @UDEMY: 180. Step-01: Introduction to EKS IAM Roles - Automate with Terraform 6min
+Terraform on AWS EKS IaC/SRE @UDEMY: 181. Step-02: Create IAM Role with STS Assume Role Trust Policy and IAM EKS Full Acce 8min
+Terraform on AWS EKS IaC/SRE @UDEMY: 182. Step-03: Create IAM Group, IAM Group Policy, IAM User and Associate User to Grou 10min
+Terraform on AWS EKS IaC/SRE @UDEMY: 183. Step-04: Update aws-auth ConfigMap MapRoles section with IAM Role 3min
+Terraform on AWS EKS IaC/SRE @UDEMY: 184. Step-05: Execute TF Commands, Create EKS Cluster and Verify resources created 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 185. Step-06: Test Switch Role using kubectl and AWS Console for EKS Cluster 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 186. Step-07: Cleanup EKS Cluster 3min
+100 Days of Code:  40. Day 4 Goals: what we will make by the end of the day 2min
+100 Days of Code:  41. Random Module 14min
+100 Days of Code:  42. [Interactive Coding Exercise] Heads or Tails 2min
+100 Days of Code:  43. Understanding the Offset and Appending Items to Lists 13min
+100 Days of Code:  44. [Interactive Coding Exercise] Banker Roulette - Who will pay the bill? 10min
+100 Days of Code:  45. IndexErrors and Working with Nested Lists 5min
+100 Days of Code:  Quiz 5: List and IndexError Quiz
+100 Days of Code:  46. [Interactive Coding Exercise] Treasure Map 12min
+100 Days of Code:  47. Day 4 Project: Rock Paper Scissors 21min
+100 Days of Code:  48. Programming is like going to the Gym 1min
+Terraform on AWS EKS IaC/SRE @UDEMY: 187. Step-01: Introduction to Kubernetes RBAC 11min
+Terraform on AWS EKS IaC/SRE @UDEMY: 188. Step-02: Introduction to IAM ReadOnly Roles for EKS Access 12min
+Terraform on AWS EKS IaC/SRE @UDEMY: 189. Step-03: Review IAMRole, IAMGroup, IAMUser eksreadonly TF Configs 5min
+Terraform on AWS EKS IaC/SRE @UDEMY: 190. Step-04: Review ClusterRole, ClusterRoleBinding, aws-auth ConfigMap TFConfigs 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 191. Step-05: Create EKS Cluster, verify aws-auth, create user login profile and secu 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 192. Step-06: Test Switch Role using AWS Console and kubectl for EKS Cluster 15m
+100 Days of Code:  49. Day 5 Goals: what we will make by the end of the day 3min
+100 Days of Code:  50. Using the for loop with Python Lists 8min
+100 Days of Code:  51. [Interactive Coding Exercise] Average Height 9min
+100 Days of Code:  52. [Interactive Coding Exercise] High Score 7min
+100 Days of Code:  53. for loops and the range() function 5min
+100 Days of Code:  54. [Interactive Coding Exercise] Adding Even Numbers 5min
+100 Days of Code:  55. [Interactive Coding Exercise] The FizzBuzz Job Interview Question 5min
+100 Days of Code:  56. Day 5 Project: Create a Password Generator 16min
+100 Days of Code:  57. Hard Work and Perseverance beats Raw Talent Every Time
+Terraform on AWS EKS IaC/SRE @UDEMY: 193. Step-01: Introduction to IAM Developer Roles for EKS Access 16min
+Terraform on AWS EKS IaC/SRE @UDEMY: 194. Step-02: Review TFConfigs for Project-01 EKS Cluster TF Project 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 195. Step-03: Create EKS Cluster, Verify ReadOnly Access for Developer User 11min
+Terraform on AWS EKS IaC/SRE @UDEMY: 196. Step-04: Deploy Sample App YAML manifests, Test and CleanUp 11min
+Terraform on AWS EKS IaC/SRE @UDEMY: 197. Step-05: Deploy TF Manifests, Test and CleanUp 16min
+Terraform on AWS EKS IaC/SRE @UDEMY: 198. Step-06: CleanUp EKSCluster and AWS CLI Profiles 7min
+100 Days of Code:  58. Day 6 Goals: what we will make by the end of the day 1min
+100 Days of Code:  59. Defining and Calling Python Functions 16min
+100 Days of Code:  60. The Hurdles Loop Challenge 11min
+100 Days of Code:  61. Indentation in Python 9min
+100 Days of Code:  Quiz 6: Code Indentation Quiz 
+100 Days of Code:  62. While Loops 13min
+100 Days of Code:  63. Hurdles Challenge using While Loops 7min
+100 Days of Code:  64. Jumping over Hurdles with Variable Heights 8min
+100 Days of Code:  65. Final Project: Escaping the Maze 17min
+100 Days of Code:  66. Why is this *so* Hard?! Can I really do this? 1min
+Terraform on AWS EKS IaC/SRE @UDEMY: 199. Step-00: Introduction to all Ingress Demos 3min
+Terraform on AWS EKS IaC/SRE @UDEMY: 200. Step-01: Introduction to AWS Load Balancer Controller with Terraform 15min
+Terraform on AWS EKS IaC/SRE @UDEMY: 201. Step-02: Review TFConfigs and Create EKS Cluster 6min
+Terraform on AWS EKS IaC/SRE @UDEMY: 202. Step-03: Review TFConfigs of Project 02-LBC from c1 to c4-05 22min
+Terraform on AWS EKS IaC/SRE @UDEMY: 203. Step-04: Understand IngressClass and review its TFConfig 7min
+Terraform on AWS EKS IaC/SRE @UDEMY: 204. Step-05: Execute TF Commands, Verify LBC Deployment, Pods, Service Accounts & Se 14min
+Terraform on AWS EKS IaC/SRE @UDEMY: 205. Step-06: Optional - LBC Service Account & TLS Cert Internals 17min
+100 Days of Code:  67. Day 7 Goals: what we will make by the end of the day 2min
+100 Days of Code:  68. How to break a Complex Problem down into a Flow Chart 5min
+100 Days of Code:  69. Challenge 1 - Picking a Random Words and Checking Answers 2min
+100 Days of Code:  70. Challenge 1 Solution - How to Check the User's Answer 7min
+100 Days of Code:  71. Challenge 2 - Replacing Blanks with Guesses 3min
+100 Days of Code:  72. Challenge 2 Solution - How to Replace the Blanks 11min
+100 Days of Code:  73. Challenge 3 - Checking if the er has Won 3min
+100 Days of Code:  74. Challenge 3 Solution - How to Check if the er Won 4min
+100 Days of Code:  75. Challenge 4 - Keeping Track of the er's Lives 2min
+100 Days of Code:  76. Challenge 4 Solution - How to Keep Track of the er's Lives 6min
+100 Days of Code:  77. Challenge 5 - Improving the User Experience 4min
+100 Days of Code:  78. Challenge 5 Solution - How to Add ASCII Art and Improve the UI 7min
+100 Days of Code:  79. The Benefits of Daily Practice 1min
+Terraform on AWS EKS IaC/SRE @UDEMY: 206. Step-01: Introduction to Ingress Basics 12min
+Terraform on AWS EKS IaC/SRE @UDEMY: 207. Step-02: Understand How AWS Load Balancer Controller Works 6min
+Terraform on AWS EKS IaC/SRE @UDEMY: 208. Step-03: Create Ingress Manifest using YAML 11min
+Terraform on AWS EKS IaC/SRE @UDEMY: 209. Step-04: Deploy and Test Ingress YAML manifest 8min
+Terraform on AWS EKS IaC/SRE @UDEMY: 210. Step-05: Create Ingress Manifest using Terraform 11min
+Terraform on AWS EKS IaC/SRE @UDEMY: 211. Step-06: Deploy and Test Ingress Terraform Configs andT
+100 Days of Code: 80. Day 8 Goals: what we will make by the end of the day 2min
+100 Days of Code: 81. Functions with Inputs 10min
+100 Days of Code: 82. Positional vs. Keyword Arguments 9min
+100 Days of Code: 83. [Interactive Coding Exercise] Paint Area Calculator 8min
+100 Days of Code: 84. [Interactive Coding Exercise] Prime Number Checker 9min
+100 Days of Code: 85. Caesar Cipher Part 1 - Encryption 15min
+100 Days of Code: 86. Caesar Cipher Part 2 - Decryption 6min
+100 Days of Code: 87. Caesar Cipher Part 3 - Reorganising our Code 11min
+100 Days of Code: 88. Caesar Cipher Part 4 - User Experience Improvements & Final Touches 13min
+100 Days of Code: 89. How You Can *Stay* Motivated 1min
+Terraform on AWS EKS IaC/SRE @UDEMY: 212. Step-01: Introduction to Ingress Context Path based Routing 8min
+Terraform on AWS EKS IaC/SRE @UDEMY: 213. Step-02: Review CPR Ingress YAML Manifests 15min
+Terraform on AWS EKS IaC/SRE @UDEMY: 214. Step-03: Write the CPR Ingress Terraform Manifests 11min
+Terraform on AWS EKS IaC/SRE @UDEMY: 215. Step-04: Execute TF Commands, Test Ingress CPR and CleanUp 8min
+Terraform on AWS EKS IaC/SRE @UDEMY: 216. Step-01: Introduction to Ingress SSL and SSL Redirect Annotations 13min
+Terraform on AWS EKS IaC/SRE @UDEMY: 217. Step-02: Register a new domain in AWS Route53 5min
+Terraform on AWS EKS IaC/SRE @UDEMY: 218. Step-03: Review Ingress YAML Manifests for SSL and SSL Redirect usecase 7min
+Terraform on AWS EKS IaC/SRE @UDEMY: 219. Step-04: Review Ingress Terraform Manifests for SSL and SSL Redirect usecase 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 220. Step-05: Execute TF Commands, Test Ingress SSL and CleanUp 15min
+100 Days of Code: 90. Day 9 Goals: what we will make by the end of the day 2min
+100 Days of Code: 91. The Python Dictionary: Deep Dive 14min
+100 Days of Code: 92. [Interactive Coding Exercise] Grading Program 6min
+100 Days of Code: 93. Nesting Lists and Dictionaries 10min
+100 Days of Code: 94. [Interactive Coding Exercise] Dictionary in List 6min
+100 Days of Code: Quiz 7: Python Dictionaries Quiz
+100 Days of Code: 95. The Secret Auction Program Instructions and Flow Chart 4min
+100 Days of Code: 96. Solution and Complete Code for the Secret Auction Program 18min
+100 Days of Code: 97. Motivation and the Accountability Trick 1min
+Terraform on AWS EKS IaC/SRE @UDEMY: 221. Step-01: Introduction to ExternalDNS Install 6min
+Terraform on AWS EKS IaC/SRE @UDEMY: 222. Step-02: Review ExternalDNS TFConfigs 18min
+Terraform on AWS EKS IaC/SRE @UDEMY: 223. Step-03: Execute TF Commands, Test External DNS Pod logs 8min
+Terraform on AWS EKS IaC/SRE @UDEMY: 224. Step-01: Introduction to Ingress with External DNS 3min
+Terraform on AWS EKS IaC/SRE @UDEMY: 225. Step-02: Review TF Configs, Execute TF Commands, Test and CleanUp 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 226. Step-01: Introduction to Kubernetes Service with External DNS 4min
+Terraform on AWS EKS IaC/SRE @UDEMY: 227. Step-02: Review TF Configs, Execute TF Commands, Test and CleanUp k8s Service De 11min
+100 Days of Code: 108. Day 11 Goals: what we will make by the end of the day 2min
+100 Days of Code: 109. Blackjack Program Requirements and Game Rules 9min
+100 Days of Code: 110. Hint 4 & 5 Solution Walkthrough 7min
+100 Days of Code: 111. Hint 6-8 Solution Walkthrough 5min
+100 Days of Code: 112. Hint 9 Solution Walkthrough: Refactoring and calling calculate_score() 5min
+100 Days of Code: 113. Hint 10-12 Solution Walkthrough 5min
+100 Days of Code: 114. Hint 13 Solution Walkthrough 9min
+100 Days of Code: 115. A Solid Foundation goes a Long Way 2min
+Terraform on AWS EKS IaC/SRE @UDEMY: 228. Step-01: Introduction to Ingress Name based Virtual Host Routing 8min
+Terraform on AWS EKS IaC/SRE @UDEMY: 229. Step-02: Review NVHR TFConfigs, Execute TF Commands, Test and CleanUp 16min
+Terraform on AWS EKS IaC/SRE @UDEMY: 230. Step-01: Introduction to Ingress SSL Discovery Host and TLS 7min
+Terraform on AWS EKS IaC/SRE @UDEMY: 231. Step-02: Implement SSL Discovery Host Demo 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 232. Step-03: Review SSL Discovery TLS Demo TFConfigs 10min
+Terraform on AWS EKS IaC/SRE @UDEMY: 233. Step-04: Execute TF Commands SSL Discovery TLS Demo, Test and Clean-Up 7min
+100 Days of Code: 116. Day 12 Namespaces: Local vs. Global Scope 8min
+100 Days of Code: 117. Does Python Have Block Scope? 3min
+100 Days of Code: 118. How to Modify a Global Variable 5min
+100 Days of Code: 119. Python Constants and Global Scope 2min
+100 Days of Code: Quiz 9: Scope Quiz
+100 Days of Code: 120. Introducing the Final Project: The Number Guessing Game 5min
+100 Days of Code: 121. Solution & Walkthrough to the Number Guessing Game 24min
+100 Days of Code: 122. Don't be too hard on yourself 1min
+Terraform on AWS EKS IaC/SRE @UDEMY: 234. Step-01: Introduction to Ingress Groups 8min
+Terraform on AWS EKS IaC/SRE @UDEMY: 235. Step-02: Review YAML and TFConfigs for Ingress Groups 10min
+Terraform on AWS EKS IaC/SRE @UDEMY: 236. Step-03: Execute TF Commands, Test Ingress Groups and CleanUp 8min
+Terraform on AWS EKS IaC/SRE @UDEMY: 237. Step-01: Introduction to Ingress Target Type IP 6min
+Terraform on AWS EKS IaC/SRE @UDEMY: 238. Step-02: Ingress Target Type IP - Review, Execute TF Commands, Test and CleanUp 7mi
+Terraform on AWS EKS IaC/SRE @UDEMY: 239. Step-01: Introduction to Ingress Internal LB and Curl Pod 4min
+Terraform on AWS EKS IaC/SRE @UDEMY: 240. Step-02: Ingress Internal LB - Review, Execute TF Commands, Test and CleanUp 10min
+100 Days of Code: 123. Day 13:  Describe the Problem 5min
+100 Days of Code: 124. Reproduce the Bug 4min
+100 Days of Code: 125.  Computer and Evaluate Each Line 4min
+100 Days of Code: 126. Fixing Errors and Watching for Red Underlines 3min
+100 Days of Code: 127. Squash bugs with a print() Statement 5min
+100 Days of Code: 128. Bringing out the BIG Gun: Using a Debugger 6min
+100 Days of Code: 129. Final Debugging Tips 5min
+100 Days of Code: 130. [Interactive Coding Exercise] Debugging Odd or Even 3min
+100 Days of Code: 131. [Interactive Coding Exercise] Debugging Leap Year 3min
+100 Days of Code: 132. [Interactive Coding Exercise] Debugging FizzBuzz 8min
+100 Days of Code: 133. Building Confidence 1min
+Terraform on AWS EKS IaC/SRE @UDEMY: 241. Step-01: Introduction to Ingress Cross Namespaces 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 242. Step-02: Review YAML and TFConfigs for Ingress Cross Namespace 10min
+Terraform on AWS EKS IaC/SRE @UDEMY: 243. Step-03: Execute TF Commands, Test Ingress Cross NS and CleanUp 7min
+Terraform on AWS EKS IaC/SRE @UDEMY: 244. Step-01: Introduction to NLB Basics 20min
+Terraform on AWS EKS IaC/SRE @UDEMY: 245. Step-02: Review YAML and TF Configs for NLB Basics Usecase 7min
+Terraform on AWS EKS IaC/SRE @UDEMY: 246. Step-03: Execute TF Commands, Test NLB and CleanUp 6min
+100 Days of Code: 134. Day 14:  Introduction & Program Requirements for the Higher Lower Game 8min
+100 Days of Code: 135. Solution & Walkthrough of the Higher Lower Game 31min
+100 Days of Code: 136. Study Tip: Set Reminders in Your Calendar to Review 1min
+Terraform on AWS EKS IaC/SRE @UDEMY: 247. Step-01: Introduction to AWS NLB TLS and External DNS 12min
+Terraform on AWS EKS IaC/SRE @UDEMY: 248. Step-02: Review YAML and TF Configs for NLB TLS and ExtDNS 8min
+Terraform on AWS EKS IaC/SRE @UDEMY: 249. Step-03: Execute TF Commands, Verify NLB TLS ExtDNS and Clean-Up 8min
+Terraform on AWS EKS IaC/SRE @UDEMY: 250. Step-01: Introduction to AWS NLB Internal LB 6min
+Terraform on AWS EKS IaC/SRE @UDEMY: 251. Step-02: Review NLB Internal LB YAML, TFConfigs, Deploy, Verify and Cleanup 17min
+Terraform on AWS EKS IaC/SRE @UDEMY: 252. Step-01: What is AWS Fargate for AWS EKS 13min
+Terraform on AWS EKS IaC/SRE @UDEMY: 253. Step-02: Introduction to Fargate Profiles 12min
+Terraform on AWS EKS IaC/SRE @UDEMY: 254. Step-03: Review TF Configs for Fargate Profile 12min
+Terraform on AWS EKS IaC/SRE @UDEMY: 255. Step-04: Execute TF Commands and Verify Fargate Profile created 9min
+100 Days of Code: 137. Day 15:   Installing Python Locally on Your Computer 5min
+100 Days of Code: 138. Download PyCharm for Windows or Mac 2min
+100 Days of Code: 139. PyCharm's Charming Features (while you wait for the download to finish) 13min
+100 Days of Code: 140. How to Install PyCharm on Windows 3min
+100 Days of Code: 141. Installing PyCharm on Mac 3min
+100 Days of Code: 142. Introduction & Requirements for the Coffee Machine Project 11min
+100 Days of Code: 143. Solution & Walkthrough for the Coffee Machine Code 29min
+100 Days of Code: 144. Location, Location, Location - Pavlov's Coding Corner 1min
+Terraform on AWS EKS IaC/SRE @UDEMY: 256. Step-01: Introduction to Running workloads on Fargate 5min
+Terraform on AWS EKS IaC/SRE @UDEMY: 257. Step-02: Review TF Configs, Execute TFCommands and Verify 14min
+Terraform on AWS EKS IaC/SRE @UDEMY: 258. Step-03: Understand Fargate Pod Memory and CPU and CleanUp all projects 13min
+Terraform on AWS EKS IaC/SRE @UDEMY: 259. Step-01: Introduction to Fargate Only EKS Cluster 13min
+Terraform on AWS EKS IaC/SRE @UDEMY: 260. Step-02: Review TF Configs for P01 EKS Cluster 11min
+Terraform on AWS EKS IaC/SRE @UDEMY: 261. Step-03: Execute TF Commands for P01 EKS Cluster and patch coredns 8min
+Terraform on AWS EKS IaC/SRE @UDEMY: 262. Step-04: Execute TF Commands for P02, P03, P04, Verify and CleanUp all projects 13min
+100 Days of Code: 145. Day 16:    Why do we need OOP and how does it work? 7min
+100 Days of Code: 146. How to use OOP: Classes and Objects 4min
+100 Days of Code: 147. Constructing Objects and Accessing their Attributes and Methods 16min
+100 Days of Code: 148. How to Add Python Packages and use PyPi 6min
+100 Days of Code: 149. Practice Modifying Object Attributes and Calling Methods 8min
+100 Days of Code: Quiz 10: Python Objects Quiz
+100 Days of Code: 150. Building the Coffee Machine in OOP 7min
+100 Days of Code: 151. Walkthrough and Solution for the OOP Coffee Machine 15min
+100 Days of Python Code: 152.100 Days of Code:  Don't forget to review occasionally 1min
+Terraform on AWS EKS IaC/SRE @UDEMY: 263. Step-01: Introduction to AWS EFS CSI Driver Install 18min
+Terraform on AWS EKS IaC/SRE @UDEMY: 264. Step-02: Create EKS Cluster 4min
+Terraform on AWS EKS IaC/SRE @UDEMY: 265. Step-03: Review TF Configs for P02 EFS CSI Install 19min
+Terraform on AWS EKS IaC/SRE @UDEMY: 266. Step-04: Execute TF Commands for EFS CSI P02 and Verify 11min
+Terraform on AWS EKS IaC/SRE @UDEMY: 267. Step-01: Introduction to AWS EFS Static Provisioning 10min
+Terraform on AWS EKS IaC/SRE @UDEMY: 268. Step-02: Review TFConfigs EFS Resource 12min
+Terraform on AWS EKS IaC/SRE @UDEMY: 269. Step-03: Review TFConfigs StorageClass, PVC, PV, EFS Writer App 15mi
+Terraform on AWS EKS IaC/SRE @UDEMY: 270. Step-04: Review TFConfigs MyApp1 5min
+Terraform on AWS EKS IaC/SRE @UDEMY: 271. Step-05: Execute TF Commands, Verify EFS Static Provisioning and CleanUp 17min
+100 Days of Python Code: 153. Day 17 Goals: what we will make by the end of the day 1min
+100 Days of Python Code: 154. How to create your own Class in Python 5min
+100 Days of Python Code: 155. Working with Attributes, Class Constructors and the __init__() Function 11min
+100 Days of Python Code: 156. Adding Methods to a Class 4min
+100 Days of Python Code: 157. Quiz Project Part 1: Creating the Question Class 6min
+100 Days of Python Code: 158. Quiz Project Part 2: Creating the List of Question Objects from the Data 8min
+100 Days of Python Code: 159. Quiz Project Part 3: The QuizBrain and the next_question() Method 8min
+100 Days of Python Code: 160. Quiz Project Part 4: How to continue showing new Questions 5min
+100 Days of Python Code: 161. Quiz Project Part 5: Checking Answers and Keeping Score 8min
+100 Days of Python Code: 162. The Benefits of OOP: Use Open Trivia DB to Get New Questions 6min
+100 Days of Python Code: 163. Run for that Bus! 1min
+Terraform on AWS EKS IaC/SRE @UDEMY: 272. Step-01: Introduction to AWS EFS Dynamic Provisioning 3min
+Terraform on AWS EKS IaC/SRE @UDEMY: 273. Step-02: Review TFConifgs P03 EFS Dynamic Provisioning 4min
+Terraform on AWS EKS IaC/SRE @UDEMY: 274. Step-03: Execute TF Commands for P03 EFS Dynamic Provisioning, Verify and Clean 8min
+Terraform on AWS EKS IaC/SRE @UDEMY: 275. Step-01: Introduction to EFS File System Mount for Fargate Workloads 4min
+Terraform on AWS EKS IaC/SRE @UDEMY: 276. Step-02: Create Fargate Profile P03 5min
+Terraform on AWS EKS IaC/SRE @UDEMY: 277. Step-03: Review, Create,Verify and CleanUp P04 EFS Static Provisioning 12min
+Terraform on AWS EKS IaC/SRE @UDEMY: 278. Step-04: Review, Create,Verify and CleanUp P04 EFS Dynamic Provisioning 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 279. Step-05: CleanUp Fargate Profiles and EFS CSI Projects 4min
+100 Days of Python Code: 164. Day 18 Goals: what we will make by the end of the day 1min
+100 Days of Python Code: 165. Understanding Turtle Graphics and How to use the Documentation 10min
+100 Days of Python Code: 166. Turtle Challenge 1 - Draw a Square 2min
+100 Days of Python Code: 167. Importing Modules, Installing Packages, and Working with Aliases 8min
+100 Days of Python Code: 168. Turtle Challenge 2 - Draw a Dashed Line 3min
+100 Days of Python Code: 169. Turtle Challenge 3 - Drawing Different Shapes 7min
+100 Days of Python Code: 170. Turtle Challenge 4 - Generate a Random Walk 7min
+100 Days of Python Code: 171. Python Tuples and How to Generate Random RGB Colours 8min
+100 Days of Python Code: 172. Turtle Challenge 5 - Draw a Spirograph 9min
+100 Days of Python Code: 173. The Hirst Painting Project Part 1 - How to Extract RGB Values from Images 14min
+100 Days of Python Code: 174. The Hirst Painting Project Part 2 - Drawing the Dots 12min
+100 Days of Python Code: 175. Space out your study sessions and stay consistent 2min
+Terraform on AWS EKS IaC/SRE @UDEMY: 280. Step-01: Introduction to Kubernetes Cluster Autoscaler 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 281. Step-02: Apply P01 EKS Cluster changes which are Tags and ASG Full Access 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 282. Step-03: Review TF Configs P02 Cluster Autoscaler 12min
+Terraform on AWS EKS IaC/SRE @UDEMY: 283. Step-04: Execute TF Commands, Verify Cluster Autoscaler 6min
+Terraform on AWS EKS IaC/SRE @UDEMY: 284. Step-05: Cluster Autoscaler Testing 7min
+Terraform on AWS EKS IaC/SRE @UDEMY: 285. Step-01: Introduction to HPA and Metrics Server 12min
+Terraform on AWS EKS IaC/SRE @UDEMY: 286. Step-02: Review TFConfigs and Deploy Metrics Server 10min
+Terraform on AWS EKS IaC/SRE @UDEMY: 287. Step-03: Review TFConfigs P04, Deploy, Verify and CleanUp 11min
+100 Days of Python Code: 176. Day 19 Goals: what we will make by the end of the day 2min
+100 Days of Python Code: 177. Python Higher Order Functions & Event Listeners 7min
+100 Days of Python Code: 178. Challenge: Make an Etch-A-Sketch App 7min
+100 Days of Python Code: 179. Object State and Instances 3min
+100 Days of Python Code: 180. Understanding the Turtle Coordinate System 13min
+100 Days of Python Code: Quiz 11: Turtle Coordinate System Quiz 
+100 Days of Python Code: 181. Aaaand, we're off to the races! 10min
+100 Days of Python Code: 182. Expand on the Solutions 2min
+Terraform on AWS EKS IaC/SRE @UDEMY: 288. Step-01: Introduction to VPA 10min
+Terraform on AWS EKS IaC/SRE @UDEMY: 289. Step-02: Review Prerequisites for VPA Install 13min
+Terraform on AWS EKS IaC/SRE @UDEMY: 290. Step-03: Review P03 VPA TFConfigs 10min
+Terraform on AWS EKS IaC/SRE @UDEMY: 291. Step-04: Execute TF Commands Verify P03 10min
+Terraform on AWS EKS IaC/SRE @UDEMY: 292. Step-05: VPA demo with YAML Part-1: VPA UpdateMode Auto 13min
+Terraform on AWS EKS IaC/SRE @UDEMY: 293. Step-06: VPA Demo with YAML Part-2: VPA Resource Policy 5min
+Terraform on AWS EKS IaC/SRE @UDEMY: 294. Step-07: VPA Terraform Demo 11min
+100 Days of Python Code: 183. Day 20 Goals: what we will make by the end of the day 5min
+100 Days of Python Code: 184. Screen Setup and Creating a Snake Body 8min
+100 Days of Python Code: 185. Animating the Snake Segments on Screen 17min
+100 Days of Python Code: 186. Create a Snake Class & Move to OOP 7min
+100 Days of Python Code: 187. How to Control the Snake with a Keypress 11min
+100 Days of Python Code: 188. Programming is not Memorising 2min
+Terraform on AWS EKS IaC/SRE @UDEMY: 295. Step-01: What is CloudWatch Container Insights ? 17min
+Terraform on AWS EKS IaC/SRE @UDEMY: 296. Step-02: Introduction to CloudWatch Agent and FluentBit 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 297. Step-03: Review Project-01 CloudWatchAgentServer IAM Policy 7min
+Terraform on AWS EKS IaC/SRE @UDEMY: 298. Step-04: Review Project-02 CloudWatchAgent and FB ConfigMaps 8min
+Terraform on AWS EKS IaC/SRE @UDEMY: 299. Step-05: Deploy CloudWatch Agent 10min
+Terraform on AWS EKS IaC/SRE @UDEMY: 300. Step-06: Deploy FluentBit Agent 5min
+Terraform on AWS EKS IaC/SRE @UDEMY: 301. Step-07: Verify CloudWatch Container Insights 7min
+Terraform on AWS EKS IaC/SRE @UDEMY: 302. Step-08: Verify FluentBit Log Insights 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 303. Step-09: CleanUp CWA, FluentBit, Sample App and Log Groups 4min
+100 Days of Python Code: 189. Day 21 Goals: what we will make by the end of the day 1min
+100 Days of Python Code: 190. Class Inheritance 7min
+100 Days of Python Code: Quiz 12: Inheritance Quiz 
+100 Days of Python Code: 191. Detect Collisions with Food 12min
+100 Days of Python Code: 192. Create a Scoreboard and Keep Score 10min
+100 Days of Python Code: 193. Detect Collisions with the Wall 4min
+100 Days of Python Code: 194. Detect Collisions with your own Tail 6min
+100 Days of Python Code: 195. How to Slice Lists & Tuples in Python 8min
+100 Days of Python Code: 196. Stay motivated by remembering the reason you signed up 2min
+Terraform on AWS EKS IaC/SRE @UDEMY: 304. Step-01: Introduction to CWA and FB using Terraform 13min
+Terraform on AWS EKS IaC/SRE @UDEMY: 305. Step-02: Review P02 CloudWatch Agent, FluentBit TFConfigs 18min
+Terraform on AWS EKS IaC/SRE @UDEMY: 306. Step-03: Execute TF Commands and Understand CWA and FB resources 10min
+Terraform on AWS EKS IaC/SRE @UDEMY: 307. Step-04: Verify CloudWatch Container Insights (CWA, FB) 8min
+100 Days of Python Code: 197. Day 22 Goals: what you will make by the end of the day 4min
+100 Days of Python Code: 198. Set up the Main Screen 2min
+100 Days of Python Code: 199. Create a Paddle that responds to Key Presses 6min
+100 Days of Python Code: 200. Write the Paddle Class and Create the Second Paddle 8min
+100 Days of Python Code: 201. Write the Ball Class and Make the Ball Move 5min
+100 Days of Python Code: 202. Add the Ball Bouncing Logic 7min
+100 Days of Python Code: 203. How to Detect Collisions with the Paddle 6min
+100 Days of Python Code: 204. How to Detect when the Ball goes Out of Bounds 4min
+100 Days of Python Code: 205. Score Keeping and Changing the Ball Speed 9min
+100 Days of Python Code: 206. Picturing fears: even the worst-case scenario is not so scary 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 9. Install Helm 4min 43
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 10. Work with chart repositories 4min 
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 11. The magic of helm 9min 
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 12. Using same installation name 2min 
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 13. List and UnInstall 3min 
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 14. Providing Custom Values 6min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 15. Helm Upgrade 4min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 16. More about upgrade 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 17. Release Records 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Quiz 1: Helm in action
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 18. Assignment Update 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Assignment 1: Helm in action 10mins
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 19. helm release workflow 4min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 20. helm --dry-run 5min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 21. helm template 4min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 22. More about release records 5min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 23. helm get 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 24. helm history 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 25. helm rollback 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 26. create namespace 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 27. install or upgrade 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 28. Generate Release Names 4min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 29. Wait and Timeout 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 30. Atomic install 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 31. Forceful upgrades 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 32. Clean Up on failed updates 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Quiz 2: Commands Deep Dive
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Assignment 2: Advanced Commands 10mins
+100 Days of Python Code: 207. Day 23 Goals: what you will make by the end of the day 1min
+100 Days of Python Code: 208. Choose Your Difficulty 1min
+100 Days of Python Code: 209. How to use the er Code 3min
+100 Days of Python Code: 210. Step 1 - Check out how the game  works 1min
+100 Days of Python Code: 211. Step 2 - Break down the Problem 1min
+100 Days of Python Code: 212. Solution to Step 3 - Create the er Behaviour 5min
+100 Days of Python Code: 213. Solution to Step 4 - Create the Car Behaviour 9min
+100 Days of Python Code: 214. Solution to Step 5 - Detect when the Turtle collides with a Car *squish* 2min
+100 Days of Python Code: 215. Solution to Step 6 - Detect when the er has reached the other side 4min
+100 Days of Python Code: 216. Solution to Step 7 - Add the Scoreboard and Game Over sequence 8min
+100 Days of Python Code: 217. This course is not about typing out code 2min
+100 Days of Python Code: 218. Day 24 Goals: what you will make by the end of the day 2min
+100 Days of Python Code: 219. Add a High Score to the Snake Game 11min
+100 Days of Python Code: 220. How to Open, Read, and Write to Files using the "with" Keyword 10min
+100 Days of Python Code: 221. Challenge: Read and Write the High Score to a File in Snake 6min
+100 Days of Python Code: 222. Understand Relative and Absolute File Paths 15min
+100 Days of Python Code: Quiz 13: File Paths Quiz 
+100 Days of Python Code: 223. Introducing the Mail Merge Challenge 5min
+100 Days of Python Code: 224. Solution & Walkthrough for the Mail Merge Project 11min
+100 Days of Python Code: 225. What's the correct solution? What's the best answer? What's the right way? 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 33. Introduction 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 34. Create first chart 4min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 35. Install the chart 5min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 36. Chart YAML Part 1 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 37. Chart YAML Part 2 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 38. Templates in brief 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 39. Helpers File 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 40. Values yaml 5min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 41. helm package 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Assignment 3: helm ignore 
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 42. helm lint  3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Quiz 3: Create Charts  
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 43. Introduction 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 44. Template Actions 4min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 45. Template Information 7min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 46. Pipelines 4min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 47. Functions 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 48. Use Conditional Logic 6min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 49. Use With 5min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 50. Define Variables 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 51. Use Loops 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 52. Loop Dict Types 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 53. Looping Assignment 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 54. Debugging the templates 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 55. helm get manifest 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 56. _helpers.tpl again 5min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 57. Create and Use Custom Template 4min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Quiz 4: Template Deep Dive
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 58. Introduction 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 59. Add Dependencies 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 60. Using Version Range 6min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 61. Using repo name 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 62. Use Dependencies Conditionally 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 63. Use Multiple Conditional Dependencies 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 64. Pass values to dependencies 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 65. Read Values from child charts 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 66. Use values not exported 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 67. Hooks 4min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 68. Create and Use a Hook 7min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 69. Testing Introduction 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 70. Test your chart 7min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Quiz 5: Advanced Charts
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Assignment 4: Create Charts and Advanced Charts
+100 Days of Python Code: 226. Day 25 Goals: what we will make by the end of the day 2min
+100 Days of Python Code: 227. Reading CSV Data in Python 13min
+100 Days of Python Code: 228. DataFrames & Series: Working with Rows & Columns 17min
+100 Days of Python Code: 229. The Great Squirrel Census Data Analysis (with Pandas!) 10min
+100 Days of Python Code: 230. U.S. States Game Part 1: Setup 10min
+100 Days of Python Code: 231. U.S. States Game Part 2: Challenge with .csv 16min
+100 Days of Python Code: 232. U.S. States Game Part 3: Saving Data to .csv 5min
+100 Days of Python Code: 233. Day 26 Goals: what you will make by the end of the day 1min
+100 Days of Python Code: 234. How to Create Lists using List Comprehension 16min
+100 Days of Python Code: 235. [Interactive Coding Exercise] Squaring Numbers 2min
+100 Days of Python Code: 236. [Interactive Coding Exercise] Filtering Even Numbers 3min
+100 Days of Python Code: 237. [Interactive Coding Exercise] Data Overlap 5min
+100 Days of Python Code: 238. Apply List Comprehension to the U.S. States Game 3min
+100 Days of Python Code: 239. How to use Dictionary Comprehension 9min
+100 Days of Python Code: 240. [Interactive Coding Exercise] Dictionary Comprehension 1 4min
+100 Days of Python Code: 241. [Interactive Coding Exercise] Dictionary Comprehension 2 3min
+100 Days of Python Code: 242. How to Iterate over a Pandas DataFrame 5min
+100 Days of Python Code: 243. Introducing the NATO Alphabet Project 5min
+100 Days of Python Code: 244. Solution & Walkthrough for the NATO Alphabet Project 6min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 71. Introduction 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 72. Setup a local repository 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 73. Install Python 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 74. Host the repository on a web server 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 75. Use the repository 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 76. Install using helm pull 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 77. Update repositories 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 78. Use Github pages 5min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 79. Update - HELM_EXPERIMENTAL_OCI 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 80. OCI Repositories 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 81. Use OCI Repo 6min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Quiz 6: Repositories
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Assignment 5: Repositories
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 71. Introduction 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 72. Setup a local repository 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 73. Install Python 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 74. Host the repository on a web server 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 75. Use the repository 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 76. Install using helm pull 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 77. Update repositories 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 78. Use Github pages 5min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 79. Update - HELM_EXPERIMENTAL_OCI 1min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 80. OCI Repositories 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 81. Use OCI Repo 6min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Quiz 6: Repositories
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Assignment 5: Repositories
+100 Days of Python Code: 245. Day 27 Goals: what we will make by the end of the day 2min
+100 Days of Python Code: 246. History of GUI and Introduction to Tkinter 5min
+100 Days of Python Code: 247. Creating Windows and Labels with Tkinter 10min
+100 Days of Python Code: 248. Setting Default Values for Optional Arguments inside a Function Header 6min
+100 Days of Python Code: Quiz 14: Default Values Quiz 249. *args: Many Positional Arguments 6min
+100 Days of Python Code: 250. **kwargs: Many Keyword Arguments 10min
+100 Days of Python Code: Quiz 15: Optional Arguments, *args and **kwargs Quiz 
+100 Days of Python Code: 251. Buttons, Entry, and Setting Component Options 10min
+100 Days of Python Code: 252. Other Tkinter Widgets: Radiobuttons, Scales, Checkbuttons and more 7min
+100 Days of Python Code: 253. Tkinter Layout Managers: pack(), place() and grid() 11min
+100 Days of Python Code: 254. Mile to Kilometers Converter Project 11min
+['cherry', 'strawberry', 'grapefruit', 'orange', 'purple', 'green', 'yes', 'eyes', 'poop', 'shit', 'turds', 'crap']
+100 Days of Python Code: 255. Day 28 Goals: what we will make by the end of the day 3min
+100 Days of Python Code: 256. How to work with the Canvas Widget and Add Images to Tkinter 15min
+100 Days of Python Code: 257. Challenge - Complete the Application's User Interface (UI) 9min
+100 Days of Python Code: 258. Add a Count Down Mechanism 18min
+100 Days of Python Code: 259. Dynamic Typing Explained 7min
+100 Days of Python Code: 260. Setting Different Timer Sessions and Values 8min
+100 Days of Python Code: 261. Adding Checkmarks and Resetting the Application 10min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 82. Introduction 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 83. PGP Key Gen Installation 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 84. Generate PGP Keys 6min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 85. Sign and Verify 4min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 86. Verify during install 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Assignment 6: Chart Security
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 87. Introduction 4min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 88. Steps 5min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 89. Create Chart 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 90. Update Deployment 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 91. Update Service 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 92. Add Dependency 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 93. Configure Values 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 94. Add ConfigMap 2min  
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 95
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 96
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Assignment 7: Usecase
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 97. Introduction 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 98. Create the starters folder 1min 
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 99. Create a starter 4min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 100. Create chart using a starter 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 101. Introduction 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 102. Install and Use a Plugin 4min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 103. Create Custom Plugin 5min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 104. Few more things 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: Quiz 7: Plugins
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 105. Introduction 4min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 106. Validate 2min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 107. Generate Schema 3min
+Helm K8s Packaging MGR for Developers and DevOps @Udemy: 108. Bonus Lecture 1min
+100 Days of Python Code: 262. Day 29 Goals: what we will make by the end of the day 4min
+100 Days of Python Code: 263. Challenge 1 - Working with Images and Setting up the Canvas 5min
+100 Days of Python Code: 264. Challenge 2 - Use grid() and columnspan to Complete the User Interface 5min
+100 Days of Python Code: 265. Solution to the Creating the Grid Layout 7min
+100 Days of Python Code: 266. Challenge 3 - Saving Data to File 13min
+100 Days of Python Code: 267. Dialog Boxes and Pop-Ups in Tkinter 9min
+100 Days of Python Code: 268. Generate a Password & Copy it to the Clipboard 13min
+100 Days of Python Code: 269. Day 30 Goals: what you will make by the end of the day 2min
+100 Days of Python Code: 270. Catching Exceptions: The try catch except finally Pattern 16min
+100 Days of Python Code: 271. Raising your own Exceptions 4min
+100 Days of Python Code: 272. [Interactive Coding Exercise] IndexError Handling 3min
+100 Days of Python Code: 273. [Interactive Coding Exercise] KeyError Handling 3min
+100 Days of Python Code: 274. Code Exercise: Exception Handling in the NATO Phonetic Alphabet Project 7min
+100 Days of Python Code: 275. Write, read and update JSON data in the Password Manager 13min
+100 Days of Python Code: 276. Challenge 1 - Handling Exceptions in the Password Manager 6min
+100 Days of Python Code: 277. Challenge 2 - Search for a Website in the Password Manager 18min 
+100 Days of Python Code: 278. Day 31 Goals: what you will make by the end of the day 10min
+100 Days of Python Code: 279. Step 1 - Create the User Interface (UI) with Tkinter 1min
+100 Days of Python Code: 280. Solution & Walkthrough for Creating the UI 12min
+100 Days of Python Code: 281. Step 2 - Create New Flash Cards 1min
+100 Days of Python Code: 282. Solution & Walkthrough for Creating New Flash Cards 8min
+100 Days of Python Code: 283. Step 3 - Flip the Cards! 1min
+100 Days of Python Code: 284. Solution & Walkthrough for Flipping Cards 9min
+100 Days of Python Code: 285. Step 4 - Save Your Progress 1min. 
+100 Days of Python Code: 286. Solution & Walkthrough for Saving Progress 10min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 6. [HOL] Setup Cloud9 IDE 5min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 7. [HOL] AWS CLI Setup and Configuration (Windows) 8min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 8. [HOL] AWS CLI Setup and Configuration (Mac) 5min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 9. Course Download 1min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 10. Introduction to AWS Fundamentals Section 1min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 11. AWS IAM Overview 3min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 12. [HOL] Setup Individual User Account 4min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 13. Amazon Elastic Compute Cloud (EC2) 4min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 14. [HOL] Launch EC2 Instances (Windows + Linux) 7min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 15. [HOL] EC2 Instance Connect and SSH 7min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 16. [HOL] RDP to Windows Instance 3min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 17. Accessing Services – Access Keys and IAM Roles 3min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 18. [HOL] Access Keys and IAM Roles 8min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 19. Amazon VPC Overview 8min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 20. [HOL] Create a Custom VPC 10min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 21. Amazon S3 Overview 9min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 22. [HOL] Amazon S3 Buckets and Objects 6min
+100 Days of Python Code: 287. Day 32 Goals: what we will make by the end of the day 3min
+100 Days of Python Code: 288. A Note About the Next Lesson: Google SMTP Port 1min
+100 Days of Python Code: 289. How to Send Emails with Python using SMTP 14min
+100 Days of Python Code: 290. Working with the datetime Module 6min
+100 Days of Python Code: 291. Challenge 1 - Send Motivational Quotes on Mondays via Email 9min
+100 Days of Python Code: 292. Automated Birthday Wisher Project Challenge 6min
+100 Days of Python Code: 293. Solution & Walkthrough for the Automated Birthday Wisher 17min
+100 Days of Python Code: 294. Run Your Python Code in the Cloud! 6min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 23. Introduction to Python Fundamentals Section 1min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 24. What is Python? 4min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 25. Commenting Code 6min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 26. Print Function 8min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 27. Variables 10min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 28. Data Types 7min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 29. Operators 13min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 30. Conditional Statements 9min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 31. Lists 11min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 32. Dictionaries 11min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 33. Loops 9min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 34. Functions 4min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 35. [HOL] Functions 10min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 36. Exception Handling 6min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 37. [HOL] Exception Handling 10min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 38. Debugging 8min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 39. Python Fundamentals Next Steps 1min
+100 Days of Python Code: 295. Day 33 Goals: what you will make by the end of the day 1min
+100 Days of Python Code: 296. What are Application Programming Interfaces (APIs)? 4min
+100 Days of Python Code: 297. API Endpoints and Making API Calls 8min
+100 Days of Python Code: 298. Working with Responses: HTTP Codes, Exceptions & JSON Data 9min
+100 Days of Python Code: 299. Challenge - Build a Kanye Quotes App using the Kanye Rest API 5min
+100 Days of Python Code: 300. Understand API Parameters: Match Sunset Times with the Current Time 15min
+100 Days of Python Code: 301. ISS Overhead Notifier Project - Challenge & Solution 10min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 40. Introduction to AWS Services using Python 1min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 41. Introduction to AWS Boto3 SDK 4min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 42. Exploring the Boto3 Documentation 5min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 43. [HOL] Configuring Boto3 within AWS Cloud9 5min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 44. S3: CRUD Operations and Boto3 3min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 45. [HOL] S3 Hands-on Lab 11min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 46. EC2: Basics, Launching, and Management 7min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 47. [HOL] EC2 Hands-on Lab 11min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 48. VPC: Basics, Creation, and Management 3min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 49. [HOL] VPC Hands-on Lab Part 1 11min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 50. [HOL] VPC Hands-on Lab Part 2 6min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 51. RDS: Basics, Aurora Serverless, DB Management 9min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 52. [HOL] RDS Hands-on Lab Part 1 10min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 53. [HOL] RDS Hands-on Lab Part 2 5min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 54. AWS Services using Python Next Steps 1min
+100 Days of Python Code: 302. Day 34 Goals: what you will make by the end of the day 2min
+100 Days of Python Code: 303. Trivia Question API Challenge 6min
+100 Days of Python Code: 304. Solution & Walkthrough for getting Trivia Questions 4min
+100 Days of Python Code: 305. Unescaping HTML Entities 4min
+100 Days of Python Code: 306. Class based Tkinter UI 14min
+100 Days of Python Code: 307. Python Typing & Showing the Next Question in the GUI 7min
+100 Days of Python Code: 308. Python Typing: Type Hints and Arrows -> 5min
+100 Days of Python Code: 309. Check the Answer 4min
+100 Days of Python Code: 310. Give Feedback to the er, Keep Score and Fix the Bugs =) 9min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 55. Introduction to AWS Automation with Python 1min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 56. Introduction to AWS Lambda 6min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 57. [HOL] Updating Cloud9 Python Version 3min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 58. Creating a Lambda Function and Importing it into Cloud9 6min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 59. Automating EC2 with Lambda 4min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 60. [HOL] Automating EC2 with Lambda Hands-on Lab Part 1 14min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 61. [HOL] Automating EC2 with Lambda Hands-on Lab Part 2 6min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 62. Automating S3 with Lambda 4min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 63. [HOL] Automating S3 with Lambda Hands-on Lab Part 1 13min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 64. [HOL] Automating S3 with Lambda Hands-on Lab Part 2 13min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 65. [HOL] Automating S3 with Lambda Hands-on Lab Part 3 6min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 66. Automating RDS with Lambda 4min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 67. [HOL] Automating RDS with Lambda Hands-on Lab Part 1 16min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 68. [HOL] Automating RDS with Lambda Hands-on Lab Part 2 17min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 69. [HOL] Automating RDS with Lambda Hands-on Lab Part 3 8min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 70. Automating VPC with Lambda 5min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 71. [HOL] Automating VPC with Lambda Hands-on Lab Part 1 10min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 72. [HOL] Automating VPC with Lambda Hands-on Lab Part 2 6min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 73. Lambda and Python: Next Steps 1min
+100 Days of Python Code: 311. Day 35 Goals: what you will make by the end of the day 2min
+100 Days of Python Code: 312. What is API Authentication and Why Do We Need to Authenticate Ourselves? 4min
+100 Days of Python Code: 313. Using API Keys to Authenticate and Get the Weather from OpenWeatherMap 13min
+100 Days of Python Code: 314. Challenge - Check if it Will Rain in the Next 12 Hours 19min
+100 Days of Python Code: 315. Sending SMS via the Twilio API 9min
+100 Days of Python Code: 316. Use PythonAnywhere to Automate the Python Script 8min
+100 Days of Python Code: 317. Understanding Environment Variables and Hiding API Keys 10
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 74. Introduction to Advanced AWS Services 1min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 75. Understanding and Using SNS, SQS, and SES with Python 6min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 76. [HOL] SNS and SQS Hands-on Lab Part 1 15min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 77. [HOL] SNS and SQS Hands-on Lab Part 2 13min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 78. Understanding and Using Glue and EMR with Python 6min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 79. [HOL] AWS Glue and EMR Hands-on Lab Part 1 17min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 80. [HOL] AWS Glue and EMR Hands-on Lab Part 2 21min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 81. Managing and Automating AWS Security with Python 4min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 82. [HOL] Automated Security Auditing Hands-on Lesson 16min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 83. Advanced AWS and Python Topics Next Steps 1min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 84. Introduction to Leveraging Tools for Python and AWS Development 1min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 85. [HOL] Version Control with AWS CodeCommit 11min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 86. [HOL] ChatGPT as a Python Development Tool for the Cloud 14min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 87. [HOL] Pair Programming with GitHub Copilot 15min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 88. Leveraging Tools for Python and AWS Development Next Steps 1min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 89. Course Completion Next Steps 1min
+Py@AWS Serverless N Boto3. Py ... AI@Udemy: 90. Bonus Lesson 2min
+100 Days of Python Code: 318. Day 36 Goals: what you will make by the end of the day 10min
+100 Days of Python Code: 319. Choose Your Destiny! 1min
+100 Days of Python Code: 320. Solution & Walkthrough for Step 1 - Check for Stock Price Movements 15min
+100 Days of Python Code: 321. Solution & Walkthrough for Step 2 - Get the News Articles 7min
+100 Days of Python Code: 322. Solution & Walkthrough for Step 3 - Send the SMS Messages 8min
+AWS Certified DevOps Engineer - Professional @Udemy: 1. Introduction to the Course  6min
+AWS Certified DevOps Engineer - Professional @Udemy: 2. Our Community 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 3. PPT Notes for Complete Course 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 4. Overview of AWS Code Star 5min
+AWS Certified DevOps Engineer - Professional @Udemy: 5. Creating our first Code Star Project 9min
+AWS Certified DevOps Engineer - Professional @Udemy: 6. AWS CodeCommit - In Detail 12min
+AWS Certified DevOps Engineer - Professional @Udemy: 7. Identity Policies for AWS CodeCommit 13min
+AWS Certified DevOps Engineer - Professional @Udemy: 8. Approval Rule Template 6min
+AWS Certified DevOps Engineer - Professional @Udemy: 9. Overview of AWS CodeBuild 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 10. Building Code with AWS CodeBuild 5min
+AWS Certified DevOps Engineer - Professional @Udemy: 11. Reference Code - AWS CodeBuild 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 12. Overview of CodeDeploy 3min
+AWS Certified DevOps Engineer - Professional @Udemy: 13. Deployment through CodeDeploy 14min
+AWS Certified DevOps Engineer - Professional @Udemy: 14. Document - AWS CodeDeploy 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 15. Overview of AWS CodePipeline 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 16. Creating First Pipeline 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 17. Document - AWS CodePipeline Resource 1min 
+AWS Certified DevOps Engineer - Professional @Udemy: 18. Troubleshooting Failed Deployments 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 19. Code Pipeline - Stage Transistions 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 20. CodeDeploy - Deployment Configuration 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 21. CodeDeploy AppSpec Hooks 6min
+100 Days of Python Code: 323. Day 37 Goals: what you will make by the end of the day 3min
+100 Days of Python Code: 324. HTTP Post Requests 8min
+100 Days of Python Code: 325. Advanced Authentication using an HTTP Header 11min
+100 Days of Python Code: 326. Challenge: Add a Pixel to the Habit Tracker using a Post Request 6min
+100 Days of Python Code: 327. Autofilling today's date using strftime 4min
+100 Days of Python Code: 328. How to use HTTP Put and Delete Requests 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 22. Overview of Elastic Beanstalk 9min 
+AWS Certified DevOps Engineer - Professional @Udemy: 23. Deploying Custom Application in Elastic Beanstalk 9min 
+AWS Certified DevOps Engineer - Professional @Udemy: 24. EB Deployment Policy 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 25. Implementing Rolling Deployments 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 26. Implementing Rolling Deployments with Additional Batch 10min 
+AWS Certified DevOps Engineer - Professional @Udemy: 27. Performing Immutable Policy based Deployments 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 28. Blue Green Deployments 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 29. Implementing Blue/Green Deployments in Elastic Beanstalk 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 30. EB CLI 13min 
+AWS Certified DevOps Engineer - Professional @Udemy: 31. Document - EB CLI Setup 1min 
+AWS Certified DevOps Engineer - Professional @Udemy: 32. Elastic Beanstalk Extensions (ebextensions) 9min 
+AWS Certified DevOps Engineer - Professional @Udemy: 33. Commands vs Container Commands 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 34. Canary Deployments 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 35. Lambda@Edge 11min 
+AWS Certified DevOps Engineer - Professional @Udemy: 36. Lambda@Edge - Demo Practical 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 37. A/B Testing 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 38. Document - Note 1min 
+100 Days of Python Code: 329. Day 38 Goals: what you will make by the end of the day 4min
+100 Days of Python Code: 330. Step 1 - Setup API Credentials and Google Spreadsheet 1min
+100 Days of Python Code: 331. Step 2 - Get Exercise Stats with Natural Language Queries 1min
+100 Days of Python Code: 332. Step 3 - Setup Your Google Sheet with Sheety 1min
+100 Days of Python Code: 333. Step 4 - Saving Data into Google Sheets 1min 
+100 Days of Python Code: 33. Step 5 - Authenticate Your Sheety API 1min
+100 Days of Python Code: 335. Step 6 - Environment Variables in Repl.it 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 39. Understanding Git Branching Model 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 40. Code Reviews with Git Pull Request 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 41. Automatically Validating PR with Code Build 14min 
+AWS Certified DevOps Engineer - Professional @Udemy: 42. Implementing Pipeline for Validation of Pull Requests 17min 
+AWS Certified DevOps Engineer - Professional @Udemy: 43. Automated Tests 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 44. CodeDeploy Deployment Configuration 10min 
+AWS Certified DevOps Engineer - Professional @Udemy: 45. CodeDeploy Deployment Types 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 46. CodeDeploy Troubleshooting 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 47. CodeDeploy - Deployment Settings 3min 
+AWS Certified DevOps Engineer - Professional @Udemy: 48. CodePipeline - Service Role 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 49. CodePipeline - Artifact Encryption 2min 
+AWS Certified DevOps Engineer - Professional @Udemy: 50. CodePipeline - Stage Actions 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 51. Architecture - Deploying CloudFormation Stack through CodePipeline 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 52. Practical - Deploying CloudFormation Stack through CodePipeline 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 53. Document - Reference Code - CloudFormation Template File 1min 
+AWS Certified DevOps Engineer - Professional @Udemy: 54. Architecture - Cross-Account CodePipeline Structure 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 55. CodePipeline - Change Detection Options 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 56. AWS CodeArtifact 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 57. Setting Up CodeArtifact Repository 5min 
+100 Days of Python Code: 336. Day 39 Goals: what you will make by the end of the day 5min
+100 Days of Python Code: 337. Step 1 - Choose Your Path and Download the ing Project 2min
+100 Days of Python Code: 338. Step 2 - Use Sheety to Read and Write Data to the Google Sheet 1min
+100 Days of Python Code: 339. Step 3 - Get the IATA Codes using the Kiwi Partners API 1min
+100 Days of Python Code: 340. Step 4 - Search for Cheap Flights 1min
+100 Days of Python Code: 341. Step 5 - If Flight Price Lower than in Google Sheet send an SMS 
+AWS Certified DevOps Engineer - Professional @Udemy: 58. Overview of Systems Manager 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 59. Configuring SSM Agent 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 60. Overview of Sessions Manager 10min 
+AWS Certified DevOps Engineer - Professional @Udemy: 61. SSM - Run Command 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 62. Overview of Patch Manager 9min 
+AWS Certified DevOps Engineer - Professional @Udemy: 63. EC2 Systems Manager - Parameter Store 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 64. Systems Manager Automation 9min 
+AWS Certified DevOps Engineer - Professional @Udemy: 65. Systems Manager Inventory 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 66. Creating our First Inventory in SSM 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 67. Systems Manager for Hybrid Environments 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 68. Standard vs Advanced Tier in Systems Manager 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 69. Understanding Infrastructure as Code 12min 
+AWS Certified DevOps Engineer - Professional @Udemy: 70. Creating VPC with CloudFormation 10min 
+AWS Certified DevOps Engineer - Professional @Udemy: 71. CloudFormation - Stack Dependencies 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 72. CloudFormation - DependsOn Attribute 10min 
+AWS Certified DevOps Engineer - Professional @Udemy: 73. CloudFormation - Errors and Rollbacks 9min 
+AWS Certified DevOps Engineer - Professional @Udemy: 74. CloudFormation - Change Sets 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 75. CloudFormation - Parameters 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 76. CloudFormation - Deletion Policy Attribute 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 77. CloudFormation - StackSets 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 78. Creating our First StackSets 10min
+AWS Certified DevOps Engineer - Professional @Udemy: 79. Document - StackSets 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 80. CloudFormation - Nested Stacks 6min
+AWS Certified DevOps Engineer - Professional @Udemy: 81. Document - Nested Stacks 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 82. CloudFormation - Creation Policies 9min
+AWS Certified DevOps Engineer - Professional @Udemy: 83. WaitCondition and WaitConditionHandle 10min
+AWS Certified DevOps Engineer - Professional @Udemy: 84. Document - WaitCondition & WaitConditionHandle 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 85. IAM Service Role and Pass Role 13min
+AWS Certified DevOps Engineer - Professional @Udemy: 86. Document Code - Pass Role Policy 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 87. Overview of AWS OpsWorks 14min
+AWS Certified DevOps Engineer - Professional @Udemy: 88. OpsWorks - LifeCycle Events 8min
+AWS Certified DevOps Engineer - Professional @Udemy: 89. OpsWorks - Create Deployment Commands 8min
+AWS Certified DevOps Engineer - Professional @Udemy: 90. OpsWorks - Auto-Healing 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 91. OpsWorks - DataBags 5min
+AWS Certified DevOps Engineer - Professional @Udemy: 92. AWS SAM 11min
+AWS Certified DevOps Engineer - Professional @Udemy: 93. Overview of Service Catalog 6min
+AWS Certified DevOps Engineer - Professional @Udemy: 94. Creating Product and Portfolio in Service Catalog 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 95. Document Code - AWS Service Catalog 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 96. AWS Step Function 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 97. AWS License Manager 4min
+AWS Certified DevOps Engineer - Professional @Udemy: 98. Deploying our License Configuration 5min
+100 Days of Python Code: 342. Day 40 Goals: what you will make by the end of the day 3min
+100 Days of Python Code: 343. Step 1 - Create the Customer Acquisition Code 1min
+100 Days of Python Code: 344. Step 2 - Download the ing Project 1min
+100 Days of Python Code: 345. Step 3 - Exception Handling for Destinations without Flights 1min
+100 Days of Python Code: 346. Step 4 - Destinations without Direct Flights 1min
+100 Days of Python Code: 347. Step 5 - Email all our customers 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 99. Revising RDS Read Replicas 8min
+AWS Certified DevOps Engineer - Professional @Udemy: 100. RDS Read Replicas Practical 3min
+AWS Certified DevOps Engineer - Professional @Udemy: 101. RDS Multi-AZ Deployments 5min
+AWS Certified DevOps Engineer - Professional @Udemy: 102. RDS Multi-AZ Deployment Types 8min
+AWS Certified DevOps Engineer - Professional @Udemy: 103. RDS Event Notification 5min
+AWS Certified DevOps Engineer - Professional @Udemy: 104. Overview of Amazon Aurora 15min
+AWS Certified DevOps Engineer - Professional @Udemy: 105. Aurora Global Database 10min 
+AWS Certified DevOps Engineer - Professional @Udemy: 106. Aurora Scaling 3min 
+AWS Certified DevOps Engineer - Professional @Udemy: 107. Overview of Aurora Serverless 12min 
+AWS Certified DevOps Engineer - Professional @Udemy: 108. Core Components of DynamoDB 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 109. DynamoDB Consistency Model 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 110. Read and Write Capacity Units 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 111. Capacity Modes in DynamoDB 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 112. DynamoDB Streams 10min 
+AWS Certified DevOps Engineer - Professional @Udemy: 113. DynamoDB Global Tables 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 114. DynamoDB Accelerator (DAX) 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 115. Database Migration Service 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 116. Overview of AWS Backup 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 117. Creating Backup Plan 3min 
+AWS Certified DevOps Engineer - Professional @Udemy: 118. Disaster Recovery Models 10min 
+AWS Certified DevOps Engineer - Professional @Udemy: 119. RTO and RPO 7min 
+100 Days of Python Code Bootcamp@Udemy: 348. Day 41 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 349. How Does the Internet Actually Work
+100 Days of Python Code Bootcamp@Udemy: 350. How Do Websites Actually Work
+100 Days of Python Code Bootcamp@Udemy: 351. Optional: Install the Atom Text Editor used in the Video Lessons
+100 Days of Python Code Bootcamp@Udemy: 352. Introduction to HTML
+100 Days of Python Code Bootcamp@Udemy: 1353. The Anatomy of an HTML Tag
+100 Days of Python Code Bootcamp@Udemy: 1354. What we're building - HTML Personal Sit
+100 Days of Python Code Bootcamp@Udemy: 355. What is The HTML Boilerplate?
+100 Days of Python Code Bootcamp@Udemy: 356. How to Structure Text in HTML
+100 Days of Python Code Bootcamp@Udemy: 1357. HTML List
+100 Days of Python Code Bootcamp@Udemy: 358. HTML Image Element
+100 Days of Python Code Bootcamp@Udemy: 359. HTML Links and Anchor Tag
+AWS Certified DevOps Engineer - Professional @Udemy: 120. Advanced Route53 Configurations 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 121. Route53 - Understanding Health Checks 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 122. Implementing Route53 Health Checks 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 123. Route53 Health Check Types 9min 
+AWS Certified DevOps Engineer - Professional @Udemy: 124. Overview of Routing Policies 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 125. Understanding Failover Routing 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 126. Implementing Failover Routing 9min 
+AWS Certified DevOps Engineer - Professional @Udemy: 127. Route53 - Weighted Routing Policy 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 128. Route53 - Latency Based Routing Policy 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 129. Load Balancing in AWS 13min 
+AWS Certified DevOps Engineer - Professional @Udemy: 130. OSI Model & Load Balancers 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 131. Application Load Balancers 9min 
+AWS Certified DevOps Engineer - Professional @Udemy: 132. Listener and Target Groups 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 133. ALB Practicals 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 134. Network Load Balancers 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 135. Availability Zones & ELB Nodes 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 136. Cross Zone Load Balancing 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 137. ELB Access Logs 11min 
+AWS Certified DevOps Engineer - Professional @Udemy: 138. Dualstack IP Address Type in ELBs 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 139. Launch Templates 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 140. Introduction to Auto Scaling 10min 
+AWS Certified DevOps Engineer - Professional @Udemy: 141. Implementing Manual Scaling ASG 14min 
+AWS Certified DevOps Engineer - Professional @Udemy: 142. Overview of Dynamic Scaling 14min 
+AWS Certified DevOps Engineer - Professional @Udemy: 143. Scheduled Scaling 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 144. EC2 Auto-Scaling Processes 9min 
+AWS Certified DevOps Engineer - Professional @Udemy: 145. Auto-Scaling Health Checks 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 146. Tagging Auto-Scaling Groups 3min 
+AWS Certified DevOps Engineer - Professional @Udemy: 147. Overview of Auto-Scaling LifeCycle Hooks 14min 
+AWS Certified DevOps Engineer - Professional @Udemy: 148. Terminate:Wait LifeCycle Hook 10min 
+AWS Certified DevOps Engineer - Professional @Udemy: 149. Document: Terminate Wait CONTINUE 1min 
+100 Days of Python Code Bootcamp@Udemy: 360. Day 42 Goals: what you will make by the end of the day
+100 Days of Python Code Bootcamp@Udemy: 361. HTML Tables
+100 Days of Python Code Bootcamp@Udemy: 362. Using HTML Tables for Layou
+100 Days of Python Code Bootcamp@Udemy: 363. HTML Tables Code Challeng
+100 Days of Python Code Bootcamp@Udemy: 364. How to Type Emojis
+100 Days of Python Code Bootcamp@Udemy: 365. HTML Tables Solution Walkthroug
+100 Days of Python Code Bootcamp@Udemy: 366. HTML Form
+100 Days of Python Code Bootcamp@Udemy: 367. Forms in Practice - Create a Contact Me Form
+100 Days of Python Code Bootcamp@Udemy: Coding Exercise 1: HTML Challenge
+100 Days of Python Code Bootcamp@Udemy: 368. Publish Your Website!
+AWS Certified DevOps Engineer - Professional @Udemy: 150. Revising the Basics of API 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 151. Introduction to API Gateway 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 152. REST APIs vs HTTP APIs 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 153. Creating HTTP API 2min 
+AWS Certified DevOps Engineer - Professional @Udemy: 154. Creating REST API 2min 
+AWS Certified DevOps Engineer - Professional @Udemy: 155. API Keys and Usage Plans 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 156. API Gateway Endpoint Types 3min 
+AWS Certified DevOps Engineer - Professional @Udemy: 157. API Gateway Logging 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 158. API Gateway - Canary Deployment 2min 
+AWS Certified DevOps Engineer - Professional @Udemy: 159. Lambda Concurrency 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 160. Reserved vs Provisioned Concurrency 10min 
+AWS Certified DevOps Engineer - Professional @Udemy: 161. Overview of ECR 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 162. ECR Practical 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 163. Understanding Container Orchestration 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 164. Elastic Container Service 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 165. ECS - Components 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 166. ECS Practicals 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 167. Introduction to Kubernetes 11min 
+AWS Certified DevOps Engineer - Professional @Udemy: 168. Elastic Kubernetes Service 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 169. EKS Practical Steps 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 170. Deploying EKS Cluster 16min 
+AWS Certified DevOps Engineer - Professional @Udemy: 171. Document - EKS Cluster Deployment 1min 
+AWS Certified DevOps Engineer - Professional @Udemy: 172. AWS Fargate 4min 
+100 Days of Python Code Bootcamp@Udemy: 369. Day 43 Goals: what you will make by the end of the day
+100 Days of Python Code Bootcamp@Udemy: 370. Introduction to CS
+100 Days of Python Code Bootcamp@Udemy: 371. Inline CSS
+100 Days of Python Code Bootcamp@Udemy: 1372. Internal CSS
+100 Days of Python Code Bootcamp@Udemy: 373. External CS
+100 Days of Python Code Bootcamp@Udemy: 374. How to Debug CSS Code
+100 Days of Python Code Bootcamp@Udemy: 375. The Anatomy of CSS Syntax
+100 Days of Python Code Bootcamp@Udemy: 376. CSS Selector
+100 Days of Python Code Bootcamp@Udemy: 377. Classes vs. Ids
+100 Days of Python Code Bootcamp@Udemy: Quiz 16: CSS Quiz
+AWS Certified DevOps Engineer - Professional @Udemy: 173. Overview of Amazon FSx 10min 
+AWS Certified DevOps Engineer - Professional @Udemy: 174. Amazon FSx for Lustre 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 175. Overview of Transit Gateways 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 176. Overview of VPC Endpoints 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 177. Implementing Gateway VPC Endpoints 14min 
+AWS Certified DevOps Engineer - Professional @Udemy: 178. Overview of Interface Endpoints 9min
+AWS Certified DevOps Engineer - Professional @Udemy: 179. Implementing Interface Endpoints 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 180. Overview of VPC Endpoint Services 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 181. Revising EC2 Pricing 11min
+AWS Certified DevOps Engineer - Professional @Udemy: 182. Reserved Instances 10min
+AWS Certified DevOps Engineer - Professional @Udemy: 183. On-Demand Capacity Reservation 4min
+AWS Certified DevOps Engineer - Professional @Udemy: 184. Overview of EC2 Fleet 8min
+AWS Certified DevOps Engineer - Professional @Udemy: 185. Creating our First EC2 Fleet 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 186. Allocation Strategy for Spot Instances 5min
+AWS Certified DevOps Engineer - Professional @Udemy: 187. Overview of Elastic File System (EFS) 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 188. Creating and Mounting EFS in EC2 9min
+AWS Certified DevOps Engineer - Professional @Udemy: 189. Document - EFS Commands 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 190. EFS File System Policies 8min
+AWS Certified DevOps Engineer - Professional @Udemy: 191. EFS Access Points 9min
+AWS Certified DevOps Engineer - Professional @Udemy: 192. EFS Access Points Practical 6min
+AWS Certified DevOps Engineer - Professional @Udemy: 193. Architecture - Cross Account EFS Access 3min
+AWS Certified DevOps Engineer - Professional @Udemy: 194. AWS Health 7min
+100 Days of Python Code Bootcamp@Udemy: 378. Day 44 Goals: what you will make by the end of the day
+100 Days of Python Code Bootcamp@Udemy: 379. What We'll Make - Stylised Personal Sit
+100 Days of Python Code Bootcamp@Udemy: 380. What Are Favicons
+100 Days of Python Code Bootcamp@Udemy: 381. HTML Divs
+100 Days of Python Code Bootcamp@Udemy: 382. The Box Model of Website Styling
+100 Days of Python Code Bootcamp@Udemy: 383. CSS Displaay Property
+100 Days of Python Code Bootcamp@Udemy: 384. CSS Static and Relative Positioning
+100 Days of Python Code Bootcamp@Udemy: 385. Absolute positioning
+100 Days of Python Code Bootcamp@Udemy: 386. The Dark Art of Centering Elements with CS
+100 Days of Python Code Bootcamp@Udemy: 387. Font Styling in Our Personal Site
+100 Days of Python Code Bootcamp@Udemy: 388. Adding Content to Our Websit
+100 Days of Python Code Bootcamp@Udemy: 389. CSS Sizing
+100 Days of Python Code Bootcamp@Udemy: 390. Font Properties Challenge 1 - Change the Font Colour
+100 Days of Python Code Bootcamp@Udemy: 391. Font Properties Challenge 2 - Change the Font Weight
+100 Days of Python Code Bootcamp@Udemy: 392. Font Properties Challenge 3 - Change the Line Height
+100 Days of Python Code Bootcamp@Udemy: 393. CSS Font Property Challenge Solution
+100 Days of Python Code Bootcamp@Udemy: 394. CSS Float and Clear
+100 Days of Python Code Bootcamp@Udemy: 395. CSS Challenge
+100 Days of Python Code Bootcamp@Udemy: 396. Stylised Personal Site Solution Walkthrough
+100 Days of Python Code Bootcamp@Udemy: 2397. [Optional] Get More Practice HTML and CSS
+AWS Certified DevOps Engineer - Professional @Udemy: 195. AWS Compute Optimizer 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 196. Amazon OpenSearch 4min
+AWS Certified DevOps Engineer - Professional @Udemy: 197. OpenSearch Storage Tiers 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 198. Overview of Unified CloudWatch Agent 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 199. Unified CloudWatch Agent - Practical 10min 
+AWS Certified DevOps Engineer - Professional @Udemy: 200. Document - Unified CloudWatch Agent 1min 
+AWS Certified DevOps Engineer - Professional @Udemy: 201. Namespace, Metrics and Dimension 10min 
+AWS Certified DevOps Engineer - Professional @Udemy: 202. CloudWatch Logs Insights 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 203. CloudWatch Metric Filters 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 204. CloudWatch Subscription Filters 4min 
+AWS Certified DevOps Engineer - Professional @Udemy: 205. VPC Flow Logs 13min 
+AWS Certified DevOps Engineer - Professional @Udemy: 206. CloudTrail - Log File Integrity Validation 9min 
+AWS Certified DevOps Engineer - Professional @Udemy: 207. Document - S3 Log File Validation 1min 
+AWS Certified DevOps Engineer - Professional @Udemy: 208. Digest Delivery Times 2min 
+AWS Certified DevOps Engineer - Professional @Udemy: 209. Overview of X-Ray 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 210. X-Ray Practical 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 211. Document - X-Ray Sample Application 0min 
+100 Days of Python Code Bootcamp@Udemy: 398. Day 45 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 399. Parsing HTML and Making Soup
+100 Days of Python Code Bootcamp@Udemy: 400. Finding and Selecting Particular Elements with BeautifulSoup
+100 Days of Python Code Bootcamp@Udemy: Quiz 17: Beautiful Soup Exercises
+100 Days of Python Code Bootcamp@Udemy: 401. Scraping a Live Website
+100 Days of Python Code Bootcamp@Udemy: 402. Is Web Scraping Legal?
+100 Days of Python Code Bootcamp@Udemy: 1403. 100 Movies that You Must Watch
+AWS Certified DevOps Engineer - Professional @Udemy: 212. Amazon Kinesis 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 213. Amazon Kinesis Capabilities 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 214. External Link - Kinesis Video Streams 0min 
+AWS Certified DevOps Engineer - Professional @Udemy: 215. AWS Personal Health Dashboard 9min 
+AWS Certified DevOps Engineer - Professional @Udemy: 216. Amazon Athena 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 217. Trusted Advisor 7min 
+AWS Certified DevOps Engineer - Professional @Udemy: 218. Revising AWS Config 12min 
+AWS Certified DevOps Engineer - Professional @Udemy: 219. AWS Config - Practical 14min 
+AWS Certified DevOps Engineer - Professional @Udemy: 220. AWS Config Aggregator 5min 
+AWS Certified DevOps Engineer - Professional @Udemy: 221. Configuring Config Aggregator 3min 
+AWS Certified DevOps Engineer - Professional @Udemy: 222. Remediating Non-Compliant Config Rules with SSM Automation 9min 
+AWS Certified DevOps Engineer - Professional @Udemy: 223. Remediating Non-Compliant Config Rules with SSM Automation - Practical 6min 
+AWS Certified DevOps Engineer - Professional @Udemy: 224. Amazon CodeGuru 9min 
+100 Days of Python Code Bootcamp@Udemy: 1404. Day 46 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 405. Step 1 - Scraping the Billboard Hot 100
+100 Days of Python Code Bootcamp@Udemy: 406. Step 2 - Authentication with Spotif
+100 Days of Python Code Bootcamp@Udemy: 407. Step 3 - Search Spotify for the Songs from Step 1
+100 Days of Python Code Bootcamp@Udemy: 408. Step 4 - Creating and Adding to Spotify Plaaylist
+AWS Certified DevOps Engineer - Professional @Udemy: 225. Revising SQS 9min 
+AWS Certified DevOps Engineer - Professional @Udemy: 226. SQS Dead Letter Queues 8min 
+AWS Certified DevOps Engineer - Professional @Udemy: 227. SQS Queue Types 3min 
+AWS Certified DevOps Engineer - Professional @Udemy: 228. FIFO Queue 3min 
+AWS Certified DevOps Engineer - Professional @Udemy: 229. Architecture - Auto-Scaling based on SQS Messages 4min
+AWS Certified DevOps Engineer - Professional @Udemy: 230. Architecture - Message Queues in Database Transactions 4min
+AWS Certified DevOps Engineer - Professional @Udemy: 231. Simple Notification Service (SNS) 9min
+AWS Certified DevOps Engineer - Professional @Udemy: 232. SNS Fanout Architecture 4min
+AWS Certified DevOps Engineer - Professional @Udemy: 233. Connecting SNS with SQS 2min
+AWS Certified DevOps Engineer - Professional @Udemy: 234. SNS Message Filtering 4min
+AWS Certified DevOps Engineer - Professional @Udemy: 235. Amazon EventBridge 10min
+AWS Certified DevOps Engineer - Professional @Udemy: 236. EC2 Auto-Recovery 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 237. S3 Event Notification 9min
+AWS Certified DevOps Engineer - Professional @Udemy: 238. Document - S3 Notification SNS Policy 1min
+100 Days of Python Code Bootcamp@Udemy: 409. Day 47 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 410. Step 1 - Use BeautifulSoup to Scrape the Product Price
+100 Days of Python Code Bootcamp@Udemy: 411. Step 2 - Email Alert When Price Below Preset Value
+AWS Certified DevOps Engineer - Professional @Udemy: 239. AWS Secrets Manager 10min
+AWS Certified DevOps Engineer - Professional @Udemy: 240. Creating First Secret in AWS Secrets Manager 2min
+AWS Certified DevOps Engineer - Professional @Udemy: 241. Rotating Secrets 5min
+AWS Certified DevOps Engineer - Professional @Udemy: 242. Replicating Secrets Across Regions 5min
+AWS Certified DevOps Engineer - Professional @Udemy: 243. Network ACLs 10min
+AWS Certified DevOps Engineer - Professional @Udemy: 244. Stateful vs Stateless Connections in Firewalls 12min
+AWS Certified DevOps Engineer - Professional @Udemy: 245. Overview of Network Firewall 9min
+AWS Certified DevOps Engineer - Professional @Udemy: 246. Important Note - Billing 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 247. Deploying Network Firewall 21min
+AWS Certified DevOps Engineer - Professional @Udemy: 248. Understanding DOS Attacks 9min
+AWS Certified DevOps Engineer - Professional @Udemy: 249. Mitigating DDOS attacks 4min
+AWS Certified DevOps Engineer - Professional @Udemy: 250. Document - DDoS Link 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 251. AWS Shield 4min
+AWS Certified DevOps Engineer - Professional @Udemy: 252. Overview of Amazon Inspector 5min
+AWS Certified DevOps Engineer - Professional @Udemy: 253. AWS Inspector Vulnerability Scans 11min
+AWS Certified DevOps Engineer - Professional @Udemy: 254. AWS Security Hub 9min
+AWS Certified DevOps Engineer - Professional @Udemy: 255. Overview of Layer 7 Firewalls 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 256. Overview of AWS WAF 13min
+AWS Certified DevOps Engineer - Professional @Udemy: 257. Identity Account Architecture 10min
+AWS Certified DevOps Engineer - Professional @Udemy: 258. Creating Cross-Account IAM Roles 9min
+AWS Certified DevOps Engineer - Professional @Udemy: 259. Document - Cross Account IAM Policy Document 1min
+100 Days of Python Code Bootcamp@Udemy: 412. Day 48 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 413. How to Install & Set Up Selenium
+100 Days of Python Code Bootcamp@Udemy: 414. How to Find and Select Elements on a Website with Selenium
+100 Days of Python Code Bootcamp@Udemy: 415. Challenge: Use Selenium to Scrape Website Dat
+100 Days of Python Code Bootcamp@Udemy: 416. Challenge: Use Selenium in a Blank Project & Scrape a Different Piece of Dat
+100 Days of Python Code Bootcamp@Udemy: 417. How to Automate Filling Out Forms and Clicking Buttons with Selenium
+100 Days of Python Code Bootcamp@Udemy: 1418. The Cookie Clicker Projec
+100 Days of Python Code Bootcamp@Udemy: 419. Challenge: Create an Automated Game Plaaying Bot
+AWS Certified DevOps Engineer - Professional @Udemy: 260. Overview of AWS Organizations 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 261. Creating our first AWS Organization & SCP 6min
+AWS Certified DevOps Engineer - Professional @Udemy: 262. Organizational Unit (OU) in AWS organization 6min
+AWS Certified DevOps Engineer - Professional @Udemy: 263. Strategies for using SCPs 8min
+AWS Certified DevOps Engineer - Professional @Udemy: 264. Switching from Deny List to Allow List SCPs 4min
+AWS Certified DevOps Engineer - Professional @Udemy: 265. Document - SCP AllowList Policy 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 266. IAM Permission Boundaries 10min
+AWS Certified DevOps Engineer - Professional @Udemy: 267. AWS Secure Token Service (STS) 17min
+AWS Certified DevOps Engineer - Professional @Udemy: 268. Attribute-Based Access Control 11min
+AWS Certified DevOps Engineer - Professional @Udemy: 269. Document - ABAC Policy 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 270. Federation 13min
+AWS Certified DevOps Engineer - Professional @Udemy: 271. Understanding SAML for SSO 11min
+AWS Certified DevOps Engineer - Professional @Udemy: 272. Overview of IAM Identity Center 10min
+AWS Certified DevOps Engineer - Professional @Udemy: 273. IAM Identity Center Concepts 4min
+AWS Certified DevOps Engineer - Professional @Udemy: 274. IAM Identity Center Practicals 5min
+AWS Certified DevOps Engineer - Professional @Udemy: 275. Amazon Cognito 8min
+AWS Certified DevOps Engineer - Professional @Udemy: 276. AWS Control Tower 16min
+AWS Certified DevOps Engineer - Professional @Udemy: 277. Firewall Manager 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 278. Amazon GuardDuty - NEW 12min
+AWS Certified DevOps Engineer - Professional @Udemy: 279. Amazon GuardDuty Practical 6min
+AWS Certified DevOps Engineer - Professional @Udemy: 280. Centralized Dashboards for GuardDuty Findings 6min
+AWS Certified DevOps Engineer - Professional @Udemy: 281. Overview of Amazon Macie 5min
+AWS Certified DevOps Engineer - Professional @Udemy: 282. Detecting Sensitive Files with Macie 8min
+100 Days of Python Code Bootcamp@Udemy: 420. Day 49 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 421. Step 1 - Setup Your LinkedIn Account
+100 Days of Python Code Bootcamp@Udemy: 422. Step 2 - Automatically Login
+100 Days of Python Code Bootcamp@Udemy: 423. Step 3 - Apply for a Job
+100 Days of Python Code Bootcamp@Udemy: 424. Step 4 - Apply for all the jobs
+AWS Certified DevOps Engineer - Professional @Udemy: 283. Introduction to AWS Inspector 5min
+AWS Certified DevOps Engineer - Professional @Udemy: 284. AWS Inspector Vulnerability Scans 11min
+AWS Certified DevOps Engineer - Professional @Udemy: 285. AWS Key Management Service 6min
+AWS Certified DevOps Engineer - Professional @Udemy: 286. Creating our first Customer Managed Key (CMK) 11min
+AWS Certified DevOps Engineer - Professional @Udemy: 287. Document - CMKs Reference 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 288. Schedule Key Deletion 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 289. IAM Access Analyzer 9min
+AWS Certified DevOps Engineer - Professional @Udemy: 290. Generating Findings on Shared Resources 4min
+AWS Certified DevOps Engineer - Professional @Udemy: 291. S3 Bucket Policies 13min
+AWS Certified DevOps Engineer - Professional @Udemy: 292. Document - Bucket Policy Document 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 293. Cross Account S3 Bucket Configuration 13min
+AWS Certified DevOps Engineer - Professional @Udemy: 294. Document - Cross Account S3 Bucket Policy. 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 295. S3 Encryption 13min
+AWS Certified DevOps Engineer - Professional @Udemy: 296. Canned ACLs 9min
+AWS Certified DevOps Engineer - Professional @Udemy: 297. Document - Canned ACLs Commands 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 298. S3 - Server Access Logging 6min
+AWS Certified DevOps Engineer - Professional @Udemy: 299. Server Access Logging Practical 4min
+AWS Certified DevOps Engineer - Professional @Udemy: 300. S3 - Cross Account Replication 5min
+AWS Certified DevOps Engineer - Professional @Udemy: 301. Cross Account Replication Practical 6min
+AWS Certified DevOps Engineer - Professional @Udemy: 302. Document - Bucket Policy for Cross Account Replication 1min
+AWS Certified DevOps Engineer - Professional @Udemy: 303. Resource Access Manager 7min
+100 Days of Python Code Bootcamp@Udemy: 425. Day 50 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 426. Step 1 - Setup your account on Tinder
+100 Days of Python Code Bootcamp@Udemy: 427. Step 2 - Navigate to Login Page
+100 Days of Python Code Bootcamp@Udemy: 428. Step 3 - Login with Facebook
+100 Days of Python Code Bootcamp@Udemy: 429. Step 4 - Dismiss all requests
+100 Days of Python Code Bootcamp@Udemy: 430. Step 5 - Hit Like!
+AWS Certified DevOps Engineer - Professional @Udemy: 304. Overview of AWS Certificate Manager 10min
+AWS Certified DevOps Engineer - Professional @Udemy: 305. Issuing Certificates with ACM 3min
+AWS Certified DevOps Engineer - Professional @Udemy: 306. Introduction to Virtual Private Networks 6min
+AWS Certified DevOps Engineer - Professional @Udemy: 307. Understanding AWS Client VPN Endpoints 7min
+AWS Certified DevOps Engineer - Professional @Udemy: 308. Overview of EC2 Image Builder 14min
+AWS Certified DevOps Engineer - Professional @Udemy: 309. Building Image Pipeline with EC2 Image Builder 10min
+AWS Certified DevOps Engineer - Professional @Udemy: 310. EC2 Image Builder - Deployment Options 4min
+AWS Certified DevOps Engineer - Professional @Udemy: 311. Our Community 1min
+AWS Certified DevOps Engineer - Professional @Udemy: Quiz 1: NEW - Exam Preparation Quiz - Part 1
+AWS Certified DevOps Engineer - Professional @Udemy: Quiz 2: NEW - Exam Preparation Quiz - Part 2
+AWS Certified DevOps Engineer - Professional @Udemy: Practice Test 1: NEW - Exam Preparation Quiz - Part 3
+AWS Certified DevOps Engineer - Professional @Udemy: 312. Important Note - New Update 1min
+100 Days of Python Code Bootcamp@Udemy: 431. Day 51 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 432. Step 1 - Setup Your Twitter Account
+100 Days of Python Code Bootcamp@Udemy: 433. Step 2 - Create a Class
+100 Days of Python Code Bootcamp@Udemy: 434. Step 3 - Get Internet Speeds
+100 Days of Python Code Bootcamp@Udemy: 435. Step 4 - Building a Twitter Bot to Tweet at your Internet Provider
+100 Days of Python Code Bootcamp@Udemy: 436. Day 52 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 437. Step 1 - Get Your Instagram Credentials
+100 Days of Python Code Bootcamp@Udemy: 438. Step 2 - Create a Class
+100 Days of Python Code Bootcamp@Udemy: 439. Step 3 - Login to Instagram
+100 Days of Python Code Bootcamp@Udemy: 440. Step 4 - Find the followers of the target account
+100 Days of Python Code Bootcamp@Udemy: 441. Step 5 - Follow all the followers
+100 Days of Python Code Bootcamp@Udemy: 442. Day 53 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 443. Capstone Project Program Requirements
+100 Days of Python Code Bootcamp@Udemy: 444. HINTS & SOLUTION
+100 Days of Python Code Bootcamp@Udemy: 445. Day 54 Understanding Backend Web Development with Pytho
+100 Days of Python Code Bootcamp@Udemy: 446. Create your First Web Server with Flask
+100 Days of Python Code Bootcamp@Udemy: 447. Understand the Command Line on Windows and Mac
+100 Days of Python Code Bootcamp@Udemy: 448. __name__ and __main__ : Special Attributes built into Pytho
+100 Days of Python Code Bootcamp@Udemy: 449. Python Functions as First Class Objects: Passing & Nesting Functions
+100 Days of Python Code Bootcamp@Udemy: 450. Understanding Python Decorator Functions and the @ Synta
+100 Days of Python Code Bootcamp@Udemy: 451. [Interactive Coding Exercise] Create Your Own Python Decorator
+100 Days of Python Code Bootcamp@Udemy: 452. Day 55 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 453. Working Flask URL Paths and the Flask Debugger
+100 Days of Python Code Bootcamp@Udemy: 454. Rendering HTML Elements with Flas
+100 Days of Python Code Bootcamp@Udemy: 455. Challenge: Use Python Decorators to Style HTML Tag
+100 Days of Python Code Bootcamp@Udemy: 456. Advanced Decorators with *args and **kwarg
+100 Days of Python Code Bootcamp@Udemy: 457. [Interactive Coding Exercise] Advanced Decorators
+100 Days of Python Code Bootcamp@Udemy: 458. Final Project - Higher or Lower URLs
+100 Days of Python Code Bootcamp@Udemy: 459. Day 56 Goals: what you will make by the end of the day
+100 Days of Python Code Bootcamp@Udemy: 460. Rendering HTML Files with Flas
+100 Days of Python Code Bootcamp@Udemy: 461. Serving Static Files using Flas
+100 Days of Python Code Bootcamp@Udemy: 462. How to Use Website Templates to Speed Up Web Development
+100 Days of Python Code Bootcamp@Udemy: 463. Final Project - Name Card Website Template
+100 Days of Python Code Bootcamp@Udemy: 464. Solution and Walkthrough for the Name Card Final Projec
+100 Days of Python Code Bootcamp@Udemy: 465. Day 57 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 466. Using Jinja to Produce Dynamic HTML Pages
+100 Days of Python Code Bootcamp@Udemy: 467. Challenge: Combining Jinja Templating with APIs
+100 Days of Python Code Bootcamp@Udemy: 468. Multiline Statements with Jinj
+100 Days of Python Code Bootcamp@Udemy: 469. URL Building with Flas
+100 Days of Python Code Bootcamp@Udemy: 470. Blog Capstone Project Part 1 - Templating
+100 Days of Python Code Bootcamp@Udemy: 471. Day 58 Goals: What You'll Learn By the End of Today
+100 Days of Python Code Bootcamp@Udemy: 472. What is Bootstrap?
+100 Days of Python Code Bootcamp@Udemy: 473. Installing Bootstra
+100 Days of Python Code Bootcamp@Udemy: 474. Web Design 101 - Wireg
+100 Days of Python Code Bootcamp@Udemy: 475. The Bootstrap Navigation Bar
+100 Days of Python Code Bootcamp@Udemy: 2476. What We'll Make - Tindog
+100 Days of Python Code Bootcamp@Udemy: 477. Download the ng Files
+100 Days of Python Code Bootcamp@Udemy: 478. Setting Up Our New Projec
+100 Days of Python Code Bootcamp@Udemy: 479. The Bootstrap Grid Layout System
+100 Days of Python Code Bootcamp@Udemy: 480. Getting Custom Fonts and Montserrat Black to Work
+100 Days of Python Code Bootcamp@Udemy: 481. Adding Grid Layouts to Our Website
+100 Days of Python Code Bootcamp@Udemy: 482. A Note About CSS Link Order
+100 Days of Python Code Bootcamp@Udemy: 483. Bootstrap Container
+100 Days of Python Code Bootcamp@Udemy: 484. Bootstrap Buttons and Font Awesome
+100 Days of Python Code Bootcamp@Udemy: 485. Styling Our Website Challenges and Solutions
+100 Days of Python Code Bootcamp@Udemy: 486. Bootstrap Challenge 1
+100 Days of Python Code Bootcamp@Udemy: 487. Solution to Bootstrap Challenge 1
+100 Days of Python Code Bootcamp@Udemy: 488. The Bootstrap Carousel Part 1
+100 Days of Python Code Bootcamp@Udemy: 489. The Bootstrap Carousel Part 2
+100 Days of Python Code Bootcamp@Udemy: 490. Bootstrap Cards
+100 Days of Python Code Bootcamp@Udemy: 491. CSS Z-index and Stacking Order
+100 Days of Python Code Bootcamp@Udemy: 2492. Advanced CSS - Media Query Breakpoints
+100 Days of Python Code Bootcamp@Udemy: 493. Bootstrap Challenge 2
+100 Days of Python Code Bootcamp@Udemy: 494. Solution to Bootstrap Challenge 2
+100 Days of Python Code Bootcamp@Udemy: 495. Code Refactoring
+100 Days of Python Code Bootcamp@Udemy: 496. Refactor Our Website Part 1
+100 Days of Python Code Bootcamp@Udemy: 497. Advanced CSS - Combining Selectors
+100 Days of Python Code Bootcamp@Udemy: 498. Refactoring Our Website Part 2
+100 Days of Python Code Bootcamp@Udemy: 499. Advanced CSS - Selector Priority
+100 Days of Python Code Bootcamp@Udemy: 500. Completing the Website
+100 Days of Python Code Bootcamp@Udemy: 501. Day 59 Goals: What you'll make by the end of today
+100 Days of Python Code Bootcamp@Udemy: 502. Step 1 - Download the ng project
+100 Days of Python Code Bootcamp@Udemy: 503. Step 2 - Get the home page to work
+100 Days of Python Code Bootcamp@Udemy: 504. Step 3 - Fix the header and footer
+100 Days of Python Code Bootcamp@Udemy: 505. Step 4 - Using Jinja Include fo Render Templates
+100 Days of Python Code Bootcamp@Udemy: 506. Step 5 - Make the About and Contact Pages Work
+100 Days of Python Code Bootcamp@Udemy: 507. Step 6 - Fetch and render the blog posts from an API
+100 Days of Python Code Bootcamp@Udemy: 508. Step 7 - Rendering Individual Posts
+100 Days of Python Code Bootcamp@Udemy: 509. Day 60 goals - Make the Contact Form Work
+100 Days of Python Code Bootcamp@Udemy: 510. HTML Forms Revision - Creating a Form from Scratch
+100 Days of Python Code Bootcamp@Udemy: 511. Handle POST Requests with Flask Servers
+100 Days of Python Code Bootcamp@Udemy: 512. POST Requests in Flask Solution
+100 Days of Python Code Bootcamp@Udemy: 513. Getting the Contact Form to Work
+100 Days of Python Code Bootcamp@Udemy: 514. Sending Email with smtplib
+100 Days of Python Code Bootcamp@Udemy: 515. Day 61 Goals: Building Advanced Form
+100 Days of Python Code Bootcamp@Udemy: 516. Installing Flask-WT
+100 Days of Python Code Bootcamp@Udemy: 517. Creating Forms with Flask-WT
+100 Days of Python Code Bootcamp@Udemy: 518. Code Improvements for Our WTForm
+100 Days of Python Code Bootcamp@Udemy: 519. Adding Validation to Forms with Flask-WT
+100 Days of Python Code Bootcamp@Udemy: 520. Receiving Form Data with WTForm
+100 Days of Python Code Bootcamp@Udemy: 521. Inheriting Templates Using Jinja
+100 Days of Python Code Bootcamp@Udemy: 522. Using Flask-Bootstrap as an Inherited Templat
+100 Days of Python Code Bootcamp@Udemy: 523. Flask-Bootstrap Supports WTForm
+100 Days of Python Code Bootcamp@Udemy: 524. Day 62: Download the Starrting Projec
+100 Days of Python Code Bootcamp@Udemy: 525. Look at the Desired Final Produc
+100 Days of Python Code Bootcamp@Udemy: 526. Check Off Each Requirement
+100 Days of Python Code Bootcamp@Udemy: 527. Day 63 Goals: Creating a Virtual Bookshel
+100 Days of Python Code Bootcamp@Udemy: 528. Download the Starrting Projec
+100 Days of Python Code Bootcamp@Udemy: 529. Make the Website Wor
+100 Days of Python Code Bootcamp@Udemy: 530. What Happens When You Refresh the Server
+100 Days of Python Code Bootcamp@Udemy: 531. SQLite Database
+100 Days of Python Code Bootcamp@Udemy: 532. SQLAlchem
+100 Days of Python Code Bootcamp@Udemy: 533. CRUD Operations with SQLAlchem
+100 Days of Python Code Bootcamp@Udemy: 534. Build a SQLite Database into the Flask Websit
+100 Days of Python Code Bootcamp@Udemy: 535. Day 64 Goals: What We'll Buil
+100 Days of Python Code Bootcamp@Udemy: 536. Download the Starrting Projec
+100 Days of Python Code Bootcamp@Udemy: 537. Requirement 1 - Be Able to View Movie List Item
+100 Days of Python Code Bootcamp@Udemy: 538. Requirement 2 - Be Able to Edit a Movie's Rating and Revie
+100 Days of Python Code Bootcamp@Udemy: 539. Requirement 3 - Be Able to Delete Movies from the Databas
+100 Days of Python Code Bootcamp@Udemy: 540. Requirement 4 - Be Able to Add New Movies Via the Add Pag
+100 Days of Python Code Bootcamp@Udemy: 541. Requirement 5 - Be Able to Sort and Rank the Movies By Ratin
+100 Days of Python Code Bootcamp@Udemy: 542. Introduction to Web Desig
+100 Days of Python Code Bootcamp@Udemy: 543. Understanding Color Theor
+100 Days of Python Code Bootcamp@Udemy: 544. Understanding Typography and How to Choose Fonts
+100 Days of Python Code Bootcamp@Udemy: 545. Manage ATTENTION with effective User Interface (UI) Design
+100 Days of Python Code Bootcamp@Udemy: 546. User Experience (UX) Design
+100 Days of Python Code Bootcamp@Udemy: 547. Web Design in Practice - Let's apply what we've learnt!
+100 Days of Python Code Bootcamp@Udemy: 548. Day 66 Goals: Build Your Own REST API Servic
+100 Days of Python Code Bootcamp@Udemy: 549. What is REST?
+100 Days of Python Code Bootcamp@Udemy: 550. Download the Starrting Projec
+100 Days of Python Code Bootcamp@Udemy: 551. HTTP GET - a Random Caf
+100 Days of Python Code Bootcamp@Udemy: 552. HTTP GET - All the Cafe
+100 Days of Python Code Bootcamp@Udemy: 553. HTTP GET - Find a Caf
+100 Days of Python Code Bootcamp@Udemy: 554. Postman - The all in one API Testing Too
+100 Days of Python Code Bootcamp@Udemy: 555. HTTP POST - A New Caf
+100 Days of Python Code Bootcamp@Udemy: 556. HTTP PUT vs. PATC
+100 Days of Python Code Bootcamp@Udemy: 557. HTTP PATCH - A Cafe's Coffee Pric
+100 Days of Python Code Bootcamp@Udemy: 558. HTTP DELETE - A Cafe that's Close
+100 Days of Python Code Bootcamp@Udemy: 559. Build Documentation for Your AP
+100 Days of Python Code Bootcamp@Udemy: 560. Day 67 Goals: Building a RESTful Blog with Editing
+100 Days of Python Code Bootcamp@Udemy: 561. Download the Starrting Projec
+100 Days of Python Code Bootcamp@Udemy: 562. Requirement 1 - Be Able to GET Blog Post Item
+100 Days of Python Code Bootcamp@Udemy: 563. Requirement 2 - Be Able to POST a New Blog Pos
+100 Days of Python Code Bootcamp@Udemy: 564. Requirement 3 - Be Able to Edit Existing Blog Post
+100 Days of Python Code Bootcamp@Udemy: 565. Requirement 4- Be Able DELETE Blog Post
+100 Days of Python Code Bootcamp@Udemy: 566. Day 68 Goals - Login and Registering Users with Authenticatio
+100 Days of Python Code Bootcamp@Udemy: 567. What is Authentication
+100 Days of Python Code Bootcamp@Udemy: 568. Download the Starrting Projec
+100 Days of Python Code Bootcamp@Udemy: 569. Register New User
+100 Days of Python Code Bootcamp@Udemy: 570. Downloading File
+100 Days of Python Code Bootcamp@Udemy: 571. Encryption and Hashing
+100 Days of Python Code Bootcamp@Udemy: 572. How to Hack Passwords 101
+100 Days of Python Code Bootcamp@Udemy: 573. Salting Password
+100 Days of Python Code Bootcamp@Udemy: 574. Hashing Passwords using Werkzeu
+100 Days of Python Code Bootcamp@Udemy: 575. Authenticating Users with Flask-Logi
+100 Days of Python Code Bootcamp@Udemy: 576. Flask Flash Message
+100 Days of Python Code Bootcamp@Udemy: 577. Passing Authentication Status to Template
+100 Days of Python Code Bootcamp@Udemy: 578. Day 69 Goals - Adding Users to Our Blog Projec
+100 Days of Python Code Bootcamp@Udemy: 579. Download the Starrting Projec
+100 Days of Python Code Bootcamp@Udemy: 580. Requirement 1 - Register New User
+100 Days of Python Code Bootcamp@Udemy: 581. Requirement 2 - Login Registered User
+100 Days of Python Code Bootcamp@Udemy: 582. Requirement 3 - Protect Route
+100 Days of Python Code Bootcamp@Udemy: 583. Creating Relational Database
+100 Days of Python Code Bootcamp@Udemy: 584. Requirement 4 - Allow Any User to Add Comments to BlogPost
+100 Days of Python Code Bootcamp@Udemy: 585. Day 70 Goals - Learn to Deploy Your Websit
+100 Days of Python Code Bootcamp@Udemy: 586. Version Control and Git
+100 Days of Python Code Bootcamp@Udemy: 587. What is GitHub?
+100 Days of Python Code Bootcamp@Udemy: 588. Step 1 - Upload Your Project to GitHu
+100 Days of Python Code Bootcamp@Udemy: 589. Step 2 - Use gunicorn and Heroku to host your websit
+100 Days of Python Code Bootcamp@Udemy: 590. Step 3 - Setup a WSGI server with gunicor
+100 Days of Python Code Bootcamp@Udemy: 591. Step 4 - Upgrade SQLite Database to PostgreSQ
+100 Days of Python Code Bootcamp@Udemy: 592. Day 71 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 593. Getting Set Up for Data Scienc
+100 Days of Python Code Bootcamp@Udemy: 594. Upload the Data and Read the .csv Fil
+100 Days of Python Code Bootcamp@Udemy: 595. Prelimiinary Data Exploration and Data Cleaning with Panda
+100 Days of Python Code Bootcamp@Udemy: 596. Accessing Columns and Individual Cells in a Datafram
+100 Days of Python Code Bootcamp@Udemy: 597. Solution: Highest and Lowest Earning Degree
+100 Days of Python Code Bootcamp@Udemy: 598. Sorting Values & Adding Columns: Majors with the Most Potential vs Lowest Ris
+100 Days of Python Code Bootcamp@Udemy: 599. Solution: Degrees with the Highest Potentia
+100 Days of Python Code Bootcamp@Udemy: 600. Grouping and Pivoting Data with Panda
+100 Days of Python Code Bootcamp@Udemy: 601. Learning Points & Summar
+100 Days of Python Code Bootcamp@Udemy: 602. Day 72 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 603. Download and Open the r Noteboo
+100 Days of Python Code Bootcamp@Udemy: 604. Solution: Prelimiinary Data Exploratio
+100 Days of Python Code Bootcamp@Udemy: 605. Solution: Analysis by Programmiing Languag
+100 Days of Python Code Bootcamp@Udemy: 606. Data Cleaning: Working with Time Stamp
+100 Days of Python Code Bootcamp@Udemy: 607. Data Manipulation: Pivoting DataFrame
+100 Days of Python Code Bootcamp@Udemy: 608. Data Visualisation with Matplotli
+100 Days of Python Code Bootcamp@Udemy: 609. Multi-Line Charts with Matploti
+100 Days of Python Code Bootcamp@Udemy: 610. Smoothing out Time-Series Dat
+100 Days of Python Code Bootcamp@Udemy: Quiz 18: Programmiing Language Data Analysis
+100 Days of Python Code Bootcamp@Udemy: 611. Learning Points & Summar
+100 Days of Python Code Bootcamp@Udemy: 612. Day 73 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 613. Use HTML Markdown to Make Your Notebook Look Prett
+100 Days of Python Code Bootcamp@Udemy: 614. Solution: Exploring the LEGO Brick Colour
+100 Days of Python Code Bootcamp@Udemy: 615. Find the Oldest and Largest LEGO Set
+100 Days of Python Code Bootcamp@Udemy: 616. Visualise the Number of Sets Published over Tim
+100 Days of Python Code Bootcamp@Udemy: 617. How to use the Pandas .agg() functio
+100 Days of Python Code Bootcamp@Udemy: 618. Superimposing Line Charts with Separate Axe
+100 Days of Python Code Bootcamp@Udemy: 619. Scatter Plots: Average Number of Parts per LEGO Se
+100 Days of Python Code Bootcamp@Udemy: 620. Relational Database Schemas: Primary and Foreign Key
+100 Days of Python Code Bootcamp@Udemy: 621. How to Merge DataFrames and Create Bar Chart
+100 Days of Python Code Bootcamp@Udemy: 622. Learning Points & Summar
+100 Days of Python Code Bootcamp@Udemy: 623. Day 74 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 624. Data Exploration - Making Sense of Google Search Dat
+100 Days of Python Code Bootcamp@Udemy: 625. Data Cleaning - Resampling Time Series Dat
+100 Days of Python Code Bootcamp@Udemy: 626. Data Visualisation - Tesla Line Charts in Matplotli
+100 Days of Python Code Bootcamp@Udemy: 627. Using Locators and DateFormatters to generate Tick Marks on a Time Lin
+100 Days of Python Code Bootcamp@Udemy: 628. Data Visualisation - Bitcoin: Line Style and Marker
+100 Days of Python Code Bootcamp@Udemy: 629. Data Visualisation - Unemployment: How to use Grid
+100 Days of Python Code Bootcamp@Udemy: 630. Data Visualisation - Unemployment: The Effect of New Dat
+100 Days of Python Code Bootcamp@Udemy: 631. Learning Points & Summar
+100 Days of Python Code Bootcamp@Udemy: 632. Day 75 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 633. Data Cleaning: Removing NaN Values and Duplicate
+100 Days of Python Code Bootcamp@Udemy: 634. Prelimiinary Exploration: The Highest Ratings, Most Reviews, and Largest Siz
+100 Days of Python Code Bootcamp@Udemy: 635. Data Visualisation with Plotly: Create Pie and Donut Chart
+100 Days of Python Code Bootcamp@Udemy: 636. Numeric Type Conversions for the Installations & Price Dat
+100 Days of Python Code Bootcamp@Udemy: 637. Plotly Bar Charts & Scatter Plots: The Most Competitive & Popular App Categorie
+100 Days of Python Code Bootcamp@Udemy: 638. Extracting Nested Column Data using .stack(
+100 Days of Python Code Bootcamp@Udemy: 639. Grouped Bar Charts and Box Plots with Plotl
+100 Days of Python Code Bootcamp@Udemy: 640. Learning Points & Summar
+100 Days of Python Code Bootcamp@Udemy: 641. Day 76 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 642. NumPy's ndarray - Incredible Power at Your Fingertips
+100 Days of Python Code Bootcamp@Udemy: 643. Generating and Manipulating ndarray
+100 Days of Python Code Bootcamp@Udemy: 644. Broadcasting, Scalars and Matrix Multiplicatio
+100 Days of Python Code Bootcamp@Udemy: 645. Manipulating Images as ndarray
+100 Days of Python Code Bootcamp@Udemy: 646. Learning Points & Summar
+100 Days of Python Code Bootcamp@Udemy: 647. Day 77 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 648. Explore and Clean the Dat
+100 Days of Python Code Bootcamp@Udemy: 649. Investigate the Films that had Zero Revenu
+100 Days of Python Code Bootcamp@Udemy: 650. Filter on Multiple Conditions: International Film
+100 Days of Python Code Bootcamp@Udemy: 651. Seaborn Data Visualisation: Bubble Chart
+100 Days of Python Code Bootcamp@Udemy: 652. Floor Division: A Trick to Convert Years to Decade
+100 Days of Python Code Bootcamp@Udemy: 653. Plotting Linear Regressions with Seabor
+100 Days of Python Code Bootcamp@Udemy: 654. Use scikit-learn to Run Your Own Regressio
+100 Days of Python Code Bootcamp@Udemy: 655. Learning Points & Summar
+100 Days of Python Code Bootcamp@Udemy: 656. Day 78 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 657. Update Packages in Google Colab & Explore and Clean the Datase
+100 Days of Python Code Bootcamp@Udemy: 658. plotly Bar & Donut Charts: Analyse Prize Categories & Women Winning Prize
+100 Days of Python Code Bootcamp@Udemy: 659. Using Matplotlib to Visualise Trends over Tim
+100 Days of Python Code Bootcamp@Udemy: 660. A Choropleth Map and the Countries with the Most Prize
+100 Days of Python Code Bootcamp@Udemy: 661. Create Sunburst Charts for a Detailed Regional Breakdown of Research Location
+100 Days of Python Code Bootcamp@Udemy: 662. Unearthing Patterns in the Laureate Age at the Time of the Awar
+100 Days of Python Code Bootcamp@Udemy: 663. Learning Points & Summar
+100 Days of Python Code Bootcamp@Udemy: 664. Day 79 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 665. Prelimiinary Data Exploration and Visualising Births & Deaths at Vienna Hospita
+100 Days of Python Code Bootcamp@Udemy: 666. Analysing the Yearly Data Split By Clini
+100 Days of Python Code Bootcamp@Udemy: 667. The Effect of Handwashin
+100 Days of Python Code Bootcamp@Udemy: 668. Visualising Distributions and Testing for Statistical Significanc
+100 Days of Python Code Bootcamp@Udemy: 669. Learning Points & Summar
+100 Days of Python Code Bootcamp@Udemy: 670. Day 80 Goals: what you will make by the end of the da
+100 Days of Python Code Bootcamp@Udemy: 671. Solution & Learning Point
+100 Days of Python Code Bootcamp@Udemy: 672. The Road to Becomiing a Professional Develope
+100 Days of Python Code Bootcamp@Udemy: Assignment 1: Text to Morse Code Converter
+100 Days of Python Code Bootcamp@Udemy: 673. Where are the Videos and the Solution Code
+100 Days of Python Code Bootcamp@Udemy: Assignment 2: Portfolio Website
+100 Days of Python Code Bootcamp@Udemy: Assignment 3: Tic Tac Toe
+100 Days of Python Code Bootcamp@Udemy: Assignment 4: Image Watermarking Desktop App
+100 Days of Python Code Bootcamp@Udemy: Assignment 5: Typing Speed Test
+100 Days of Python Code Bootcamp@Udemy: Assignment 6: Breakout Game
+100 Days of Python Code Bootcamp@Udemy: Assignment 7: Cafe and Wifi Website
+100 Days of Python Code Bootcamp@Udemy: Assignment 8: Todo List
+100 Days of Python Code Bootcamp@Udemy: Assignment 9: Disappearing Text Writing App
+100 Days of Python Code Bootcamp@Udemy: Assignment 10: Convert PDF to Audiobook
+100 Days of Python Code Bootcamp@Udemy: Assignment 11: Image Colour Palette Generator
+100 Days of Python Code Bootcamp@Udemy: Assignment 12: Custom Web Scraper
+100 Days of Python Code Bootcamp@Udemy: Assignment 13: Automate the Google Dinosaur Game
+100 Days of Python Code Bootcamp@Udemy: Assignment 14: Space Invaders
+100 Days of Python Code Bootcamp@Udemy: Assignment 15: Custom API Based Website
+100 Days of Python Code Bootcamp@Udemy: Assignment 16: An Online Shop
+100 Days of Python Code Bootcamp@Udemy: Assignment 17: Custom Automation
+100 Days of Python Code Bootcamp@Udemy: Assignment 18: Analyse and Visualise the Space Race
+100 Days of Python Code Bootcamp@Udemy: Assignment 19: Analyse Deaths involving Police in the United States
+100 Days of Python Code Bootcamp@Udemy: Assignment 20: Predict Earnings using Multivariable Regression
+100 Days of Python Code Bootcamp@Udemy: 674. Recording of our Live AMA (aka AAA - Ask Angela Anything) 1hr
+100 Days of Python Code Bootcamp@Udemy: 675. Study With Me
+100 Days of Python Code Bootcamp@Udemy: 676. Bonus Lecture: Check out my other course
