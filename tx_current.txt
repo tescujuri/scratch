@@ -1,0 +1,63 @@
+Monday 11.27
+100 Days of Code: 85. Caesar Cipher Part 1 - Encryption 15min
+100 Days of Code: 86. Caesar Cipher Part 2 - Decryption 6min 21
+100 Days of Code: 87. Caesar Cipher Part 3 - Reorganising our Code 11min 32
+100 Days of Code: 88. Caesar Cipher Part 4 - User Experience Improvements & Final Touches 13min 45
+100 Days of Code: 89. How You Can *Stay* Motivated 1min 46
+100 Days of Code: 90. Day 9 Goals: what we will make by the end of the day 2min 48
+100 Days of Code: 91. The Python Dictionary: Deep Dive 14min 60
+100 Days of Code: 92. [Interactive Coding Exercise] Grading Program 6min 66
+100 Days of Code: 93. Nesting Lists and Dictionaries 10min 76
+100 Days of Code: 94. [Interactive Coding Exercise] Dictionary in List 6min
+100 Days of Code: Quiz 7: Python Dictionaries Quiz
+100 Days of Code: 95. The Secret Auction Program Instructions and Flow Chart 4min
+100 Days of Code: 96. Solution and Complete Code for the Secret Auction Program 18min
+100 Days of Code: 97. Motivation and the Accountability Trick 1min
+
+Tuesday 11.28
+Terraform on AWS EKS IaC/SRE @UDEMY: 166. Step-01: Introduction to Provisioning AWS Users as EKS Admins using Terraform 4min 32
+Terraform on AWS EKS IaC/SRE @UDEMY: 167. Step-02: Create IAM User TF Configs 10min 42
+Terraform on AWS EKS IaC/SRE @UDEMY: 168. Step-03: Create TF Configs for Kubernetes Provider and EKSCluster Auth DS 5min 47
+Terraform on AWS EKS IaC/SRE @UDEMY: 169. Step-04: Create ConfigMap Roles, Users locals block and k8s ConfigMapTF Configs 23min 70
+Terraform on AWS EKS IaC/SRE @UDEMY: 170. Step-05: Create EKS Cluster and Verify with both users 15min 85
+Terraform on AWS EKS IaC/SRE @UDEMY: 171. Step-06: CleanUp EKS Cluster and AWS CLI Profiles 3min 50
+Terraform on AWS EKS IaC/SRE @UDEMY: 172. Step-01: Introduction to EKS IAM Roles 7min 10
+Terraform on AWS EKS IaC/SRE @UDEMY: 173. Step-02: Pre-requisite: Check if EKS Cluster or we need to create it 5min 62
+Terraform on AWS EKS IaC/SRE @UDEMY: 174. Step-03: Create IAM Trust Policy, IAM EKS Full Access Policy and IAM Role 8min 23
+Terraform on AWS EKS IaC/SRE @UDEMY: 175. Step-04: Create IAM Group, Group Policy and Update aws-auth config map 7min 30
+Terraform on AWS EKS IaC/SRE @UDEMY: 176. Step-05: Create AWS CLI Profile for eksadmin1 and set it as default profile 6min 36
+Terraform on AWS EKS IaC/SRE @UDEMY: 177. Step-06: Create STS Assume Role Creds, configure kubeconfig and test 8min 44
+Terraform on AWS EKS IaC/SRE @UDEMY: 178. Step-07: Test STS Assume Role using AWS Mgmt console for eksadmin1 user 5min 96
+Terraform on AWS EKS IaC/SRE @UDEMY: 179. Step-08: CleanUp EKS Cluster and CLI Profiles 6min 102
+
+Wednesday 11.29
+100 Days of Code: 98. Day 10 Goals: what we will make by the end of the day 2min
+100 Days of Code: 99. Functions with Outputs 13min
+100 Days of Code: 100. Multiple return values 4min
+100 Days of Code: 101. [Interactive Coding Exercise] Days in Month 7min
+100 Days of Code: 102. Docstrings 4min
+100 Days of Code: Quiz 8: Functions Quiz
+100 Days of Code: 103. Calculator Part 1: Combining Dictionaries and Functions 9min
+100 Days of Code: 104. Print vs. Return 5min
+100 Days of Code: 105. While Loops, Flags and Recursion 8min
+100 Days of Code: 106. Calculator Finishing Touches and Bug Fixes 4min
+100 Days of Code: 107. How to Get a Good Night's Sleep 2min
+
+Thursday 11.30
+Terraform on AWS EKS IaC/SRE @UDEMY: 180. Step-01: Introduction to EKS IAM Roles - Automate with Terraform 6min
+Terraform on AWS EKS IaC/SRE @UDEMY: 181. Step-02: Create IAM Role with STS Assume Role Trust Policy and IAM EKS Full Acce 8min
+Terraform on AWS EKS IaC/SRE @UDEMY: 182. Step-03: Create IAM Group, IAM Group Policy, IAM User and Associate User to Grou 10min
+Terraform on AWS EKS IaC/SRE @UDEMY: 183. Step-04: Update aws-auth ConfigMap MapRoles section with IAM Role 3min
+Terraform on AWS EKS IaC/SRE @UDEMY: 184. Step-05: Execute TF Commands, Create EKS Cluster and Verify resources created 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 185. Step-06: Test Switch Role using kubectl and AWS Console for EKS Cluster 9min
+Terraform on AWS EKS IaC/SRE @UDEMY: 186. Step-07: Cleanup EKS Cluster 3min
+
+Friday 12.1
+100 Days of Code: 108. Day 11 Goals: what we will make by the end of the day 2min
+100 Days of Code: 109. Blackjack Program Requirements and Game Rules 9min
+100 Days of Code: 110. Hint 4 & 5 Solution Walkthrough 7min
+100 Days of Code: 111. Hint 6-8 Solution Walkthrough 5min
+100 Days of Code: 112. Hint 9 Solution Walkthrough: Refactoring and calling calculate_score() 5min
+100 Days of Code: 113. Hint 10-12 Solution Walkthrough 5min
+100 Days of Code: 114. Hint 13 Solution Walkthrough 9min
+100 Days of Code: 115. A Solid Foundation goes a Long Way 2min
