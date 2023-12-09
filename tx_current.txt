@@ -1,577 +1,205 @@
-----------------------------------------------------------------------------------------------------
-Monday 12.27
-----------------------------------------------------------------------------------------------------
-100 Days of Code: 99. Functions with Outputs 13min
-100 Days of Code: 100. Multiple return values 4min
-100 Days of Code: 101. [Interactive Coding Exercise] Days in Month 7min
-100 Days of Code: 102. Docstrings 4min 28
-100 Days of Code: Quiz 8: Functions Quiz 33
-100 Days of Code: 103. Calculator Part 1: Combining Dictionaries and Functions 9min 42
-100 Days of Code: 104. Print vs. Return 5min 47
-100 Days of Code: 105. While Loops, Flags and Recursion 8min 55
-100 Days of Code: 106. Calculator Finishing Touches and Bug Fixes 4min 59
-100 Days of Code: 107. How to Get a Good Night's Sleep 2min 61
-100 Days of Code: 108. Day 11 Goals: what we will make by the end of the day 2min 63
-100 Days of Code: 109. Blackjack Program Requirements and Game Rules 9min 72
-100 Days of Code: 110. Hint 4 & 5 Solution Walkthrough 7min
-100 Days of Code: 111. Hint 6-8 Solution Walkthrough 5min
-100 Days of Code: 112. Hint 9 Solution Walkthrough: Refactoring and calling calculate_score() 5min
-100 Days of Code: 113. Hint 10-12 Solution Walkthrough 5min 22
-100 Days of Code: 114. Hint 13 Solution Walkthrough 9min 31
-100 Days of Code: 115. A Solid Foundation goes a Long Way 2min 33
-100 Days of Code: 116. Day 12 Namespaces: Local vs. Global Scope 8min 41
-100 Days of Code: 117. Does Python Have Block Scope? 3min 44
-100 Days of Code: 118. How to Modify a Global Variable 5min
-100 Days of Code: 119. Python Constants and Global Scope 2min
-100 Days of Code: Quiz 9: Scope Quiz 56
-100 Days of Code: 120. Introducing the Final Project: The Number Guessing Game 5min 61
-100 Days of Code: 121. Solution & Walkthrough to the Number Guessing Game 24min
-100 Days of Code: 122. Don't be too hard on yourself 1min
-100 Days of Code: 123. Day 13:  Describe the Problem 5min
-100 Days of Code: 124. Reproduce the Bug 4min
-100 Days of Code: 125.  Computer and Evaluate Each Line 4min
-100 Days of Code: 126. Fixing Errors and Watching for Red Underlines 3min
-100 Days of Code: 127. Squash bugs with a print() Statement 5min
-100 Days of Code: 128. Bringing out the BIG Gun: Using a Debugger 6min
-100 Days of Code: 129. Final Debugging Tips 5min 32
-100 Days of Code: 130. [Interactive Coding Exercise] Debugging Odd or Even 3min
-100 Days of Code: 131. [Interactive Coding Exercise] Debugging Leap Year 3min
-100 Days of Code: 132. [Interactive Coding Exercise] Debugging FizzBuzz 8min 
-100 Days of Code: 133. Building Confidence 1min
-100 Days of Code: 134. Day 14:  Introduction & Program Requirements for the Higher Lower Game 8min
-100 Days of Code: 135. Solution & Walkthrough of the Higher Lower Game 31min
-100 Days of Code: 136. Study Tip: Set Reminders in Your Calendar to Review 1min
-100 Days of Code: 137. Day 15:   Installing Python Locally on Your Computer 5min
-100 Days of Code: 138. Download PyCharm for Windows or Mac 2min
-100 Days of Code: 139. PyCharm's Charming Features (while you wait for the download to finish) 13min
-100 Days of Code: 140. How to Install PyCharm on Windows 3min
-100 Days of Code: 141. Installing PyCharm on Mac 3min
-100 Days of Code: 142. Introduction & Requirements for the Coffee Machine Project 11min
-100 Days of Code: 143. Solution & Walkthrough for the Coffee Machine Code 29min
-100 Days of Code: 144. Location, Location, Location - Pavlov's Coding Corner 1min
-----------------------------------------------------------------------------------------------------
-Monday 12.4
-----------------------------------------------------------------------------------------------------
-100 Days of Code: 145. Day 16:    Why do we need OOP and how does it work? 7min
-100 Days of Code: 146. How to use OOP: Classes and Objects 4min
-100 Days of Code: 147. Constructing Objects and Accessing their Attributes and Methods 16min
-100 Days of Code: 148. How to Add Python Packages and use PyPi 6min
-100 Days of Code: 149. Practice Modifying Object Attributes and Calling Methods 8min
-100 Days of Code: Quiz 10: Python Objects Quiz
-100 Days of Code: 150. Building the Coffee Machine in OOP 7min
-100 Days of Code: 151. Walkthrough and Solution for the OOP Coffee Machine 15min
-100 Days of Python Code: 152. Don't forget to review occasionally 1min
-100 Days of Python Code: 153. Day 17 Goals: what we will make by the end of the day 1min
-100 Days of Python Code: 154. How to create your own Class in Python 5min
-100 Days of Python Code: 155. Working with Attributes, Class Constructors and the __init__() Function 11min
-100 Days of Python Code: 156. Adding Methods to a Class 4min
-100 Days of Python Code: 157. Quiz Project Part 1: Creating the Question Class 6min
-100 Days of Python Code: 158. Quiz Project Part 2: Creating the List of Question Objects from the Data 8min
-100 Days of Python Code: 159. Quiz Project Part 3: The QuizBrain and the next_question() Method 8min
-100 Days of Python Code: 160. Quiz Project Part 4: How to continue showing new Questions 5min
-100 Days of Python Code: 161. Quiz Project Part 5: Checking Answers and Keeping Score 8min
-100 Days of Python Code: 162. The Benefits of OOP: Use Open Trivia DB to Get New Questions 6min
-100 Days of Python Code: 163. Run for that Bus! 1min
-100 Days of Python Code: 164. Day 18 Goals: what we will make by the end of the day 1min
-100 Days of Python Code: 165. Understanding Turtle Graphics and How to use the Documentation 10min
-100 Days of Python Code: 166. Turtle Challenge 1 - Draw a Square 2min
-100 Days of Python Code: 167. Importing Modules, Installing Packages, and Working with Aliases 8min
-100 Days of Python Code: 168. Turtle Challenge 2 - Draw a Dashed Line 3min
-100 Days of Python Code: 169. Turtle Challenge 3 - Drawing Different Shapes 7min
-100 Days of Python Code: 170. Turtle Challenge 4 - Generate a Random Walk 7min
-100 Days of Python Code: 171. Python Tuples and How to Generate Random RGB Colours 8min
-100 Days of Python Code: 172. Turtle Challenge 5 - Draw a Spirograph 9min
-100 Days of Python Code: 173. The Hirst Painting Project Part 1 - How to Extract RGB Values from Images 14min
-100 Days of Python Code: 174. The Hirst Painting Project Part 2 - Drawing the Dots 12min
-100 Days of Python Code: 175. Space out your study sessions and stay consistent 2min
-100 Days of Python Code: 176. Day 19 Goals: what we will make by the end of the day 2min
-100 Days of Python Code: 177. Python Higher Order Functions & Event Listeners 7min
-100 Days of Python Code: 178. Challenge: Make an Etch-A-Sketch App 7min
-100 Days of Python Code: 179. Object State and Instances 3min
-100 Days of Python Code: 180. Understanding the Turtle Coordinate System 13min
-100 Days of Python Code: Quiz 11: Turtle Coordinate System Quiz 
-100 Days of Python Code: 181. Aaaand, we're off to the races! 10min
-100 Days of Python Code: 182. Expand on the Solutions 2min
-100 Days of Python Code: 183. Day 20 Goals: what we will make by the end of the day 5min
-100 Days of Python Code: 184. Screen Setup and Creating a Snake Body 8min
-100 Days of Python Code: 185. Animating the Snake Segments on Screen 17min
-100 Days of Python Code: 186. Create a Snake Class & Move to OOP 7min
-100 Days of Python Code: 187. How to Control the Snake with a Keypress 11min
-100 Days of Python Code: 188. Programming is not Memorising 2min
-----------------------------------------------------------------------------------------------------
-Monday 12.11
-----------------------------------------------------------------------------------------------------
-100 Days of Python Code: 189. Day 21 Goals: what we will make by the end of the day 1min
-100 Days of Python Code: 190. Class Inheritance 7min
-100 Days of Python Code: Quiz 12: Inheritance Quiz 
-100 Days of Python Code: 191. Detect Collisions with Food 12min
-100 Days of Python Code: 192. Create a Scoreboard and Keep Score 10min
-100 Days of Python Code: 193. Detect Collisions with the Wall 4min
-100 Days of Python Code: 194. Detect Collisions with your own Tail 6min
-100 Days of Python Code: 195. How to Slice Lists & Tuples in Python 8min
-100 Days of Python Code: 196. Stay motivated by remembering the reason you signed up 2min
-100 Days of Python Code: 197. Day 22 Goals: what you will make by the end of the day 4min
-100 Days of Python Code: 198. Set up the Main Screen 2min
-100 Days of Python Code: 199. Create a Paddle that responds to Key Presses 6min
-100 Days of Python Code: 200. Write the Paddle Class and Create the Second Paddle 8min
-100 Days of Python Code: 201. Write the Ball Class and Make the Ball Move 5min
-100 Days of Python Code: 202. Add the Ball Bouncing Logic 7min
-100 Days of Python Code: 203. How to Detect Collisions with the Paddle 6min
-100 Days of Python Code: 204. How to Detect when the Ball goes Out of Bounds 4min
-100 Days of Python Code: 205. Score Keeping and Changing the Ball Speed 9min
-100 Days of Python Code: 206. Picturing fears: even the worst-case scenario is not so scary 2min
-100 Days of Python Code: 207. Day 23 Goals: what you will make by the end of the day 1min
-100 Days of Python Code: 208. Choose Your Difficulty 1min
-100 Days of Python Code: 209. How to use the er Code 3min
-100 Days of Python Code: 210. Step 1 - Check out how the game  works 1min
-100 Days of Python Code: 211. Step 2 - Break down the Problem 1min
-100 Days of Python Code: 212. Solution to Step 3 - Create the er Behaviour 5min
-100 Days of Python Code: 213. Solution to Step 4 - Create the Car Behaviour 9min
-100 Days of Python Code: 214. Solution to Step 5 - Detect when the Turtle collides with a Car *squish* 2min
-100 Days of Python Code: 215. Solution to Step 6 - Detect when the er has reached the other side 4min
-100 Days of Python Code: 216. Solution to Step 7 - Add the Scoreboard and Game Over sequence 8min
-100 Days of Python Code: 217. This course is not about typing out code 2min
-100 Days of Python Code: 218. Day 24 Goals: what you will make by the end of the day 2min
-100 Days of Python Code: 219. Add a High Score to the Snake Game 11min
-100 Days of Python Code: 220. How to Open, Read, and Write to Files using the "with" Keyword 10min
-100 Days of Python Code: 221. Challenge: Read and Write the High Score to a File in Snake 6min
-100 Days of Python Code: 222. Understand Relative and Absolute File Paths 15min
-100 Days of Python Code: Quiz 13: File Paths Quiz 
-100 Days of Python Code: 223. Introducing the Mail Merge Challenge 5min
-100 Days of Python Code: 224. Solution & Walkthrough for the Mail Merge Project 11min
-100 Days of Python Code: 225. What's the correct solution? What's the best answer? What's the right way? 3min
-100 Days of Python Code: 226. Day 25 Goals: what we will make by the end of the day 2min
-100 Days of Python Code: 227. Reading CSV Data in Python 13min
-100 Days of Python Code: 228. DataFrames & Series: Working with Rows & Columns 17min
-100 Days of Python Code: 229. The Great Squirrel Census Data Analysis (with Pandas!) 10min
-100 Days of Python Code: 230. U.S. States Game Part 1: Setup 10min
-100 Days of Python Code: 231. U.S. States Game Part 2: Challenge with .csv 16min
-100 Days of Python Code: 232. U.S. States Game Part 3: Saving Data to .csv 5min
-----------------------------------------------------------------------------------------------------
-Monday 12.18
-----------------------------------------------------------------------------------------------------
-100 Days of Python Code: 233. Day 26 Goals: what you will make by the end of the day 1min
-100 Days of Python Code: 234. How to Create Lists using List Comprehension 16min
-100 Days of Python Code: 235. [Interactive Coding Exercise] Squaring Numbers 2min
-100 Days of Python Code: 236. [Interactive Coding Exercise] Filtering Even Numbers 3min
-100 Days of Python Code: 237. [Interactive Coding Exercise] Data Overlap 5min
-100 Days of Python Code: 238. Apply List Comprehension to the U.S. States Game 3min
-100 Days of Python Code: 239. How to use Dictionary Comprehension 9min
-100 Days of Python Code: 240. [Interactive Coding Exercise] Dictionary Comprehension 1 4min
-100 Days of Python Code: 241. [Interactive Coding Exercise] Dictionary Comprehension 2 3min
-100 Days of Python Code: 242. How to Iterate over a Pandas DataFrame 5min
-100 Days of Python Code: 243. Introducing the NATO Alphabet Project 5min
-100 Days of Python Code: 244. Solution & Walkthrough for the NATO Alphabet Project 6min
-100 Days of Python Code: 245. Day 27 Goals: what we will make by the end of the day 2min
-100 Days of Python Code: 246. History of GUI and Introduction to Tkinter 5min
-100 Days of Python Code: 247. Creating Windows and Labels with Tkinter 10min
-100 Days of Python Code: 248. Setting Default Values for Optional Arguments inside a Function Header 6min
-100 Days of Python Code: Quiz 14: Default Values Quiz 249. *args: Many Positional Arguments 6min
-100 Days of Python Code: 250. **kwargs: Many Keyword Arguments 10min
-100 Days of Python Code: Quiz 15: Optional Arguments, *args and **kwargs Quiz 
-100 Days of Python Code: 251. Buttons, Entry, and Setting Component Options 10min
-100 Days of Python Code: 252. Other Tkinter Widgets: Radiobuttons, Scales, Checkbuttons and more 7min
-100 Days of Python Code: 253. Tkinter Layout Managers: pack(), place() and grid() 11min
-100 Days of Python Code: 254. Mile to Kilometers Converter Project 11min
-['cherry', 'strawberry', 'grapefruit', 'orange', 'purple', 'green', 'yes', 'eyes', 'poop', 'shit', 'turds', 'crap']
-100 Days of Python Code: 255. Day 28 Goals: what we will make by the end of the day 3min
-100 Days of Python Code: 256. How to work with the Canvas Widget and Add Images to Tkinter 15min
-100 Days of Python Code: 257. Challenge - Complete the Application's User Interface (UI) 9min
-100 Days of Python Code: 258. Add a Count Down Mechanism 18min
-100 Days of Python Code: 259. Dynamic Typing Explained 7min
-100 Days of Python Code: 260. Setting Different Timer Sessions and Values 8min
-100 Days of Python Code: 261. Adding Checkmarks and Resetting the Application 10min
-100 Days of Python Code: 262. Day 29 Goals: what we will make by the end of the day 4min
-100 Days of Python Code: 263. Challenge 1 - Working with Images and Setting up the Canvas 5min
-100 Days of Python Code: 264. Challenge 2 - Use grid() and columnspan to Complete the User Interface 5min
-100 Days of Python Code: 265. Solution to the Creating the Grid Layout 7min
-100 Days of Python Code: 266. Challenge 3 - Saving Data to File 13min
-100 Days of Python Code: 267. Dialog Boxes and Pop-Ups in Tkinter 9min
-100 Days of Python Code: 268. Generate a Password & Copy it to the Clipboard 13min
-100 Days of Python Code: 269. Day 30 Goals: what you will make by the end of the day 2min
-100 Days of Python Code: 270. Catching Exceptions: The try catch except finally Pattern 16min
-100 Days of Python Code: 271. Raising your own Exceptions 4min
-100 Days of Python Code: 272. [Interactive Coding Exercise] IndexError Handling 3min
-100 Days of Python Code: 273. [Interactive Coding Exercise] KeyError Handling 3min
-100 Days of Python Code: 274. Code Exercise: Exception Handling in the NATO Phonetic Alphabet Project 7min
-100 Days of Python Code: 275. Write, read and update JSON data in the Password Manager 13min
-100 Days of Python Code: 276. Challenge 1 - Handling Exceptions in the Password Manager 6min
-100 Days of Python Code: 277. Challenge 2 - Search for a Website in the Password Manager 18min
-----------------------------------------------------------------------------------------------------
-Monday 12.25
-----------------------------------------------------------------------------------------------------
-100 Days of Python Code: 278. Day 31 Goals: what you will make by the end of the day 10min
-100 Days of Python Code: 279. Step 1 - Create the User Interface (UI) with Tkinter 1min
-100 Days of Python Code: 280. Solution & Walkthrough for Creating the UI 12min
-100 Days of Python Code: 281. Step 2 - Create New Flash Cards 1min
-100 Days of Python Code: 282. Solution & Walkthrough for Creating New Flash Cards 8min
-100 Days of Python Code: 283. Step 3 - Flip the Cards! 1min
-100 Days of Python Code: 284. Solution & Walkthrough for Flipping Cards 9min
-100 Days of Python Code: 285. Step 4 - Save Your Progress 1min. 
-100 Days of Python Code: 286. Solution & Walkthrough for Saving Progress 10min
-100 Days of Python Code: 287. Day 32 Goals: what we will make by the end of the day 3min
-100 Days of Python Code: 288. A Note About the Next Lesson: Google SMTP Port 1min
-100 Days of Python Code: 289. How to Send Emails with Python using SMTP 14min
-100 Days of Python Code: 290. Working with the datetime Module 6min
-100 Days of Python Code: 291. Challenge 1 - Send Motivational Quotes on Mondays via Email 9min
-100 Days of Python Code: 292. Automated Birthday Wisher Project Challenge 6min
-100 Days of Python Code: 293. Solution & Walkthrough for the Automated Birthday Wisher 17min
-100 Days of Python Code: 294. Run Your Python Code in the Cloud! 6min
-100 Days of Python Code: 295. Day 33 Goals: what you will make by the end of the day 1min
-100 Days of Python Code: 296. What are Application Programming Interfaces (APIs)? 4min
-100 Days of Python Code: 297. API Endpoints and Making API Calls 8min
-100 Days of Python Code: 298. Working with Responses: HTTP Codes, Exceptions & JSON Data 9min
-100 Days of Python Code: 299. Challenge - Build a Kanye Quotes App using the Kanye Rest API 5min
-100 Days of Python Code: 300. Understand API Parameters: Match Sunset Times with the Current Time 15min
-100 Days of Python Code: 301. ISS Overhead Notifier Project - Challenge & Solution 10min
-100 Days of Python Code: 302. Day 34 Goals: what you will make by the end of the day 2min
-100 Days of Python Code: 303. Trivia Question API Challenge 6min
-100 Days of Python Code: 304. Solution & Walkthrough for getting Trivia Questions 4min
-100 Days of Python Code: 305. Unescaping HTML Entities 4min
-100 Days of Python Code: 306. Class based Tkinter UI 14min
-100 Days of Python Code: 307. Python Typing & Showing the Next Question in the GUI 7min
-100 Days of Python Code: 308. Python Typing: Type Hints and Arrows -> 5min
-100 Days of Python Code: 309. Check the Answer 4min
-100 Days of Python Code: 310. Give Feedback to the er, Keep Score and Fix the Bugs =) 9min
-100 Days of Python Code: 311. Day 35 Goals: what you will make by the end of the day 2min
-100 Days of Python Code: 312. What is API Authentication and Why Do We Need to Authenticate Ourselves? 4min
-100 Days of Python Code: 313. Using API Keys to Authenticate and Get the Weather from OpenWeatherMap 13min
-100 Days of Python Code: 314. Challenge - Check if it Will Rain in the Next 12 Hours 19min
-100 Days of Python Code: 315. Sending SMS via the Twilio API 9min
-100 Days of Python Code: 316. Use PythonAnywhere to Automate the Python Script 8min
-100 Days of Python Code: 317. Understanding Environment Variables and Hiding API Keys 10
-----------------------------------------------------------------------------------------------------
-Monday 1.1.24
-----------------------------------------------------------------------------------------------------
-100 Days of Python Code: 318. Day 36 Goals: what you will make by the end of the day 10min
-100 Days of Python Code: 319. Choose Your Destiny! 1min
-100 Days of Python Code: 320. Solution & Walkthrough for Step 1 - Check for Stock Price Movements 15min
-100 Days of Python Code: 321. Solution & Walkthrough for Step 2 - Get the News Articles 7min
-100 Days of Python Code: 322. Solution & Walkthrough for Step 3 - Send the SMS Messages 8min
-100 Days of Python Code: 323. Day 37 Goals: what you will make by the end of the day 3min
-100 Days of Python Code: 324. HTTP Post Requests 8min
-100 Days of Python Code: 325. Advanced Authentication using an HTTP Header 11min
-100 Days of Python Code: 326. Challenge: Add a Pixel to the Habit Tracker using a Post Request 6min
-100 Days of Python Code: 327. Autofilling today's date using strftime 4min
-100 Days of Python Code: 328. How to use HTTP Put and Delete Requests 7min
-100 Days of Python Code: 329. Day 38 Goals: what you will make by the end of the day 4min
-100 Days of Python Code: 330. Step 1 - Setup API Credentials and Google Spreadsheet 1min
-100 Days of Python Code: 331. Step 2 - Get Exercise Stats with Natural Language Queries 1min
-100 Days of Python Code: 332. Step 3 - Setup Your Google Sheet with Sheety 1min
-100 Days of Python Code: 333. Step 4 - Saving Data into Google Sheets 1min 
-100 Days of Python Code: 33. Step 5 - Authenticate Your Sheety API 1min
-100 Days of Python Code: 335. Step 6 - Environment Variables in Repl.it 1min
-100 Days of Python Code: 336. Day 39 Goals: what you will make by the end of the day 5min
-100 Days of Python Code: 337. Step 1 - Choose Your Path and Download the ing Project 2min
-100 Days of Python Code: 338. Step 2 - Use Sheety to Read and Write Data to the Google Sheet 1min
-100 Days of Python Code: 339. Step 3 - Get the IATA Codes using the Kiwi Partners API 1min
-100 Days of Python Code: 340. Step 4 - Search for Cheap Flights 1min
-100 Days of Python Code: 341. Step 5 - If Flight Price Lower than in Google Sheet send an SMS 
-100 Days of Python Code: 342. Day 40 Goals: what you will make by the end of the day 3min
-100 Days of Python Code: 343. Step 1 - Create the Customer Acquisition Code 1min
-100 Days of Python Code: 344. Step 2 - Download the ing Project 1min
-100 Days of Python Code: 345. Step 3 - Exception Handling for Destinations without Flights 1min
-100 Days of Python Code: 346. Step 4 - Destinations without Direct Flights 1min
-100 Days of Python Code: 347. Step 5 - Email all our customers 1min'
-100 Days of Python Code Bootcamp@Udemy: 420. Day 49 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 421. Step 1 - Setup Your LinkedIn Account
-100 Days of Python Code Bootcamp@Udemy: 422. Step 2 - Automatically Login
-100 Days of Python Code Bootcamp@Udemy: 423. Step 3 - Apply for a Job
-100 Days of Python Code Bootcamp@Udemy: 424. Step 4 - Apply for all the jobs
-100 Days of Python Code Bootcamp@Udemy: 425. Day 50 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 426. Step 1 - Setup your account on Tinder
-100 Days of Python Code Bootcamp@Udemy: 427. Step 2 - Navigate to Login Page
-100 Days of Python Code Bootcamp@Udemy: 428. Step 3 - Login with Facebook
-100 Days of Python Code Bootcamp@Udemy: 429. Step 4 - Dismiss all requests
-----------------------------------------------------------------------------------------------------
-Monday 1.8.24
-----------------------------------------------------------------------------------------------------
-100 Days of Python Code Bootcamp@Udemy: 431. Day 51 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 432. Step 1 - Setup Your Twitter Account
-100 Days of Python Code Bootcamp@Udemy: 433. Step 2 - Create a Class
-100 Days of Python Code Bootcamp@Udemy: 434. Step 3 - Get Internet Speeds
-100 Days of Python Code Bootcamp@Udemy: 435. Step 4 - Building a Twitter Bot to Tweet at your Internet Provider
-100 Days of Python Code Bootcamp@Udemy: 436. Day 52 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 437. Step 1 - Get Your Instagram Credentials
-100 Days of Python Code Bootcamp@Udemy: 438. Step 2 - Create a Class
-100 Days of Python Code Bootcamp@Udemy: 439. Step 3 - Login to Instagram
-100 Days of Python Code Bootcamp@Udemy: 440. Step 4 - Find the followers of the target account
-100 Days of Python Code Bootcamp@Udemy: 441. Step 5 - Follow all the followerson Code Bootcamp@Udemy: 430. Step 5 - Hit Like!
-100 Days of Python Code Bootcamp@Udemy: 442. Day 53 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 443. Capstone Project Program Requirements
-100 Days of Python Code Bootcamp@Udemy: 444. HINTS & SOLUTION
-100 Days of Python Code Bootcamp@Udemy: 445. Day 54 Understanding Backend Web Development with Pytho
-100 Days of Python Code Bootcamp@Udemy: 446. Create your First Web Server with Flask
-100 Days of Python Code Bootcamp@Udemy: 447. Understand the Command Line on Windows and Mac
-100 Days of Python Code Bootcamp@Udemy: 448. __name__ and __main__ : Special Attributes built into Pytho
-100 Days of Python Code Bootcamp@Udemy: 449. Python Functions as First Class Objects: Passing & Nesting Functions
-100 Days of Python Code Bootcamp@Udemy: 450. Understanding Python Decorator Functions and the @ Synta
-100 Days of Python Code Bootcamp@Udemy: 451. [Interactive Coding Exercise] Create Your Own Python Decorator
-100 Days of Python Code Bootcamp@Udemy: 452. Day 55 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 453. Working Flask URL Paths and the Flask Debugger
-100 Days of Python Code Bootcamp@Udemy: 454. Rendering HTML Elements with Flas
-100 Days of Python Code Bootcamp@Udemy: 455. Challenge: Use Python Decorators to Style HTML Tag
-100 Days of Python Code Bootcamp@Udemy: 456. Advanced Decorators with *args and **kwarg
-100 Days of Python Code Bootcamp@Udemy: 457. [Interactive Coding Exercise] Advanced Decorators
-100 Days of Python Code Bootcamp@Udemy: 458. Final Project - Higher or Lower URLs
-----------------------------------------------------------------------------------------------------
-Monday 1.15.24
-----------------------------------------------------------------------------------------------------
-100 Days of Python Code Bootcamp@Udemy: 459. Day 56 Goals: what you will make by the end of the day
-100 Days of Python Code Bootcamp@Udemy: 460. Rendering HTML Files with Flas
-100 Days of Python Code Bootcamp@Udemy: 461. Serving Static Files using Flas
-100 Days of Python Code Bootcamp@Udemy: 462. How to Use Website Templates to Speed Up Web Development
-100 Days of Python Code Bootcamp@Udemy: 463. Final Project - Name Card Website Template
-100 Days of Python Code Bootcamp@Udemy: 464. Solution and Walkthrough for the Name Card Final Projec
-100 Days of Python Code Bootcamp@Udemy: 465. Day 57 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 466. Using Jinja to Produce Dynamic HTML Pages
-100 Days of Python Code Bootcamp@Udemy: 467. Challenge: Combining Jinja Templating with APIs
-100 Days of Python Code Bootcamp@Udemy: 468. Multiline Statements with Jinj
-100 Days of Python Code Bootcamp@Udemy: 469. URL Building with Flas
-100 Days of Python Code Bootcamp@Udemy: 470. Blog Capstone Project Part 1 - Templating
-100 Days of Python Code Bootcamp@Udemy: 471. Day 58 Goals: What You'll Learn By the End of Today
-100 Days of Python Code Bootcamp@Udemy: 472. What is Bootstrap?
-100 Days of Python Code Bootcamp@Udemy: 473. Installing Bootstra
-100 Days of Python Code Bootcamp@Udemy: 474. Web Design 101 - Wireg
-100 Days of Python Code Bootcamp@Udemy: 475. The Bootstrap Navigation Bar
-100 Days of Python Code Bootcamp@Udemy: 2476. What We'll Make - Tindog
-100 Days of Python Code Bootcamp@Udemy: 477. Download the ng Files
-100 Days of Python Code Bootcamp@Udemy: 478. Setting Up Our New Projec
-100 Days of Python Code Bootcamp@Udemy: 479. The Bootstrap Grid Layout System
-100 Days of Python Code Bootcamp@Udemy: 480. Getting Custom Fonts and Montserrat Black to Work
-100 Days of Python Code Bootcamp@Udemy: 481. Adding Grid Layouts to Our Website
-100 Days of Python Code Bootcamp@Udemy: 482. A Note About CSS Link Order
-100 Days of Python Code Bootcamp@Udemy: 483. Bootstrap Container
-100 Days of Python Code Bootcamp@Udemy: 484. Bootstrap Buttons and Font Awesome
-100 Days of Python Code Bootcamp@Udemy: 485. Styling Our Website Challenges and Solutions
-100 Days of Python Code Bootcamp@Udemy: 486. Bootstrap Challenge 1
-100 Days of Python Code Bootcamp@Udemy: 487. Solution to Bootstrap Challenge 1
-100 Days of Python Code Bootcamp@Udemy: 488. The Bootstrap Carousel Part 1
-100 Days of Python Code Bootcamp@Udemy: 489. The Bootstrap Carousel Part 2
-100 Days of Python Code Bootcamp@Udemy: 490. Bootstrap Cards
-100 Days of Python Code Bootcamp@Udemy: 491. CSS Z-index and Stacking Order
-100 Days of Python Code Bootcamp@Udemy: 2492. Advanced CSS - Media Query Breakpoints
-100 Days of Python Code Bootcamp@Udemy: 493. Bootstrap Challenge 2
-100 Days of Python Code Bootcamp@Udemy: 494. Solution to Bootstrap Challenge 2
-100 Days of Python Code Bootcamp@Udemy: 495. Code Refactoring
-100 Days of Python Code Bootcamp@Udemy: 496. Refactor Our Website Part 1
-100 Days of Python Code Bootcamp@Udemy: 497. Advanced CSS - Combining Selectors
-100 Days of Python Code Bootcamp@Udemy: 498. Refactoring Our Website Part 2
-100 Days of Python Code Bootcamp@Udemy: 499. Advanced CSS - Selector Priority
-100 Days of Python Code Bootcamp@Udemy: 500. Completing the Website
-100 Days of Python Code Bootcamp@Udemy: 501. Day 59 Goals: What you'll make by the end of today
-100 Days of Python Code Bootcamp@Udemy: 502. Step 1 - Download the ng project
-100 Days of Python Code Bootcamp@Udemy: 503. Step 2 - Get the home page to work
-100 Days of Python Code Bootcamp@Udemy: 504. Step 3 - Fix the header and footer
-100 Days of Python Code Bootcamp@Udemy: 505. Step 4 - Using Jinja Include fo Render Templates
-100 Days of Python Code Bootcamp@Udemy: 506. Step 5 - Make the About and Contact Pages Work
-100 Days of Python Code Bootcamp@Udemy: 507. Step 6 - Fetch and render the blog posts from an API
-100 Days of Python Code Bootcamp@Udemy: 508. Step 7 - Rendering Individual Posts
-100 Days of Python Code Bootcamp@Udemy: 509. Day 60 goals - Make the Contact Form Work
-100 Days of Python Code Bootcamp@Udemy: 510. HTML Forms Revision - Creating a Form from Scratch
-100 Days of Python Code Bootcamp@Udemy: 511. Handle POST Requests with Flask Servers
-100 Days of Python Code Bootcamp@Udemy: 512. POST Requests in Flask Solution
-100 Days of Python Code Bootcamp@Udemy: 513. Getting the Contact Form to Work
-100 Days of Python Code Bootcamp@Udemy: 514. Sending Email with smtplib
-----------------------------------------------------------------------------------------------------
-Monday 1.22.24
-----------------------------------------------------------------------------------------------------
-100 Days of Python Code Bootcamp@Udemy: 515. Day 61 Goals: Building Advanced Form
-100 Days of Python Code Bootcamp@Udemy: 516. Installing Flask-WT
-100 Days of Python Code Bootcamp@Udemy: 517. Creating Forms with Flask-WT
-100 Days of Python Code Bootcamp@Udemy: 518. Code Improvements for Our WTForm
-100 Days of Python Code Bootcamp@Udemy: 519. Adding Validation to Forms with Flask-WT
-100 Days of Python Code Bootcamp@Udemy: 520. Receiving Form Data with WTForm
-100 Days of Python Code Bootcamp@Udemy: 521. Inheriting Templates Using Jinja
-100 Days of Python Code Bootcamp@Udemy: 522. Using Flask-Bootstrap as an Inherited Templat
-100 Days of Python Code Bootcamp@Udemy: 523. Flask-Bootstrap Supports WTForm
-100 Days of Python Code Bootcamp@Udemy: 524. Day 62: Download the Starrting Projec
-100 Days of Python Code Bootcamp@Udemy: 525. Look at the Desired Final Produc
-100 Days of Python Code Bootcamp@Udemy: 526. Check Off Each Requirement
-100 Days of Python Code Bootcamp@Udemy: 527. Day 63 Goals: Creating a Virtual Bookshel
-100 Days of Python Code Bootcamp@Udemy: 528. Download the Starrting Projec
-100 Days of Python Code Bootcamp@Udemy: 529. Make the Website Wor
-100 Days of Python Code Bootcamp@Udemy: 530. What Happens When You Refresh the Server
-100 Days of Python Code Bootcamp@Udemy: 531. SQLite Database
-100 Days of Python Code Bootcamp@Udemy: 532. SQLAlchem
-100 Days of Python Code Bootcamp@Udemy: 533. CRUD Operations with SQLAlchem
-100 Days of Python Code Bootcamp@Udemy: 534. Build a SQLite Database into the Flask Websit
-100 Days of Python Code Bootcamp@Udemy: 535. Day 64 Goals: What We'll Buil
-100 Days of Python Code Bootcamp@Udemy: 536. Download the Starrting Projec
-100 Days of Python Code Bootcamp@Udemy: 537. Requirement 1 - Be Able to View Movie List Item
-100 Days of Python Code Bootcamp@Udemy: 538. Requirement 2 - Be Able to Edit a Movie's Rating and Revie
-100 Days of Python Code Bootcamp@Udemy: 539. Requirement 3 - Be Able to Delete Movies from the Databas
-100 Days of Python Code Bootcamp@Udemy: 540. Requirement 4 - Be Able to Add New Movies Via the Add Pag
-100 Days of Python Code Bootcamp@Udemy: 541. Requirement 5 - Be Able to Sort and Rank the Movies By Ratin
-100 Days of Python Code Bootcamp@Udemy: 542. Day 65 Introduction to Web Desig
-100 Days of Python Code Bootcamp@Udemy: 543. Understanding Color Theor
-100 Days of Python Code Bootcamp@Udemy: 544. Understanding Typography and How to Choose Fonts
-100 Days of Python Code Bootcamp@Udemy: 545. Manage ATTENTION with effective User Interface (UI) Design
-100 Days of Python Code Bootcamp@Udemy: 546. User Experience (UX) Design
-100 Days of Python Code Bootcamp@Udemy: 547. Web Design in Practice - Let's apply what we've learnt!
-----------------------------------------------------------------------------------------------------
-Monday 1.29.24
-----------------------------------------------------------------------------------------------------
-100 Days of Python Code Bootcamp@Udemy: 548. Day 66 Goals: Build Your Own REST API Servic
-100 Days of Python Code Bootcamp@Udemy: 549. What is REST?
-100 Days of Python Code Bootcamp@Udemy: 550. Download the Starrting Projec
-100 Days of Python Code Bootcamp@Udemy: 551. HTTP GET - a Random Caf
-100 Days of Python Code Bootcamp@Udemy: 552. HTTP GET - All the Cafe
-100 Days of Python Code Bootcamp@Udemy: 553. HTTP GET - Find a Caf
-100 Days of Python Code Bootcamp@Udemy: 554. Postman - The all in one API Testing Too
-100 Days of Python Code Bootcamp@Udemy: 555. HTTP POST - A New Caf
-100 Days of Python Code Bootcamp@Udemy: 556. HTTP PUT vs. PATC
-100 Days of Python Code Bootcamp@Udemy: 557. HTTP PATCH - A Cafe's Coffee Pric
-100 Days of Python Code Bootcamp@Udemy: 558. HTTP DELETE - A Cafe that's Close
-100 Days of Python Code Bootcamp@Udemy: 559. Build Documentation for Your API
-100 Days of Python Code Bootcamp@Udemy: 560. Day 67 Goals: Building a RESTful Blog with Editing
-100 Days of Python Code Bootcamp@Udemy: 561. Download the Starrting Projec
-100 Days of Python Code Bootcamp@Udemy: 562. Requirement 1 - Be Able to GET Blog Post Item
-100 Days of Python Code Bootcamp@Udemy: 563. Requirement 2 - Be Able to POST a New Blog Pos
-100 Days of Python Code Bootcamp@Udemy: 564. Requirement 3 - Be Able to Edit Existing Blog Post
-100 Days of Python Code Bootcamp@Udemy: 565. Requirement 4- Be Able DELETE Blog Post
-100 Days of Python Code Bootcamp@Udemy: 566. Day 68 Goals - Login and Registering Users with Authenticatio
-100 Days of Python Code Bootcamp@Udemy: 567. What is Authentication
-100 Days of Python Code Bootcamp@Udemy: 568. Download the Starrting Projec
-100 Days of Python Code Bootcamp@Udemy: 569. Register New User
-100 Days of Python Code Bootcamp@Udemy: 570. Downloading File
-100 Days of Python Code Bootcamp@Udemy: 571. Encryption and Hashing
-100 Days of Python Code Bootcamp@Udemy: 572. How to Hack Passwords 101
-100 Days of Python Code Bootcamp@Udemy: 573. Salting Password
-100 Days of Python Code Bootcamp@Udemy: 574. Hashing Passwords using Werkzeu
-100 Days of Python Code Bootcamp@Udemy: 575. Authenticating Users with Flask-Logi
-100 Days of Python Code Bootcamp@Udemy: 576. Flask Flash Message
-100 Days of Python Code Bootcamp@Udemy: 577. Passing Authentication Status to Template
-100 Days of Python Code Bootcamp@Udemy: 578. Day 69 Goals - Adding Users to Our Blog Projec
-100 Days of Python Code Bootcamp@Udemy: 579. Download the Starrting Projec
-100 Days of Python Code Bootcamp@Udemy: 580. Requirement 1 - Register New User
-100 Days of Python Code Bootcamp@Udemy: 581. Requirement 2 - Login Registered User
-100 Days of Python Code Bootcamp@Udemy: 582. Requirement 3 - Protect Route
-100 Days of Python Code Bootcamp@Udemy: 583. Creating Relational Database
-100 Days of Python Code Bootcamp@Udemy: 584. Requirement 4 - Allow Any User to Add Comments to BlogPost
-100 Days of Python Code Bootcamp@Udemy: 585. Day 70 Goals - Learn to Deploy Your Websit
-100 Days of Python Code Bootcamp@Udemy: 586. Version Control and Git
-100 Days of Python Code Bootcamp@Udemy: 587. What is GitHub?
-100 Days of Python Code Bootcamp@Udemy: 588. Step 1 - Upload Your Project to GitHu
-100 Days of Python Code Bootcamp@Udemy: 589. Step 2 - Use gunicorn and Heroku to host your websit
-100 Days of Python Code Bootcamp@Udemy: 590. Step 3 - Setup a WSGI server with gunicor
-100 Days of Python Code Bootcamp@Udemy: 591. Step 4 - Upgrade SQLite Database to PostgreSQ
-----------------------------------------------------------------------------------------------------
-Monday 2.5.24
-----------------------------------------------------------------------------------------------------
-100 Days of Python Code Bootcamp@Udemy: 592. Day 71 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 593. Getting Set Up for Data Scienc
-100 Days of Python Code Bootcamp@Udemy: 594. Upload the Data and Read the .csv Fil
-100 Days of Python Code Bootcamp@Udemy: 595. Prelimiinary Data Exploration and Data Cleaning with Panda
-100 Days of Python Code Bootcamp@Udemy: 596. Accessing Columns and Individual Cells in a Datafram
-100 Days of Python Code Bootcamp@Udemy: 597. Solution: Highest and Lowest Earning Degree
-100 Days of Python Code Bootcamp@Udemy: 598. Sorting Values & Adding Columns: Majors with the Most Potential vs Lowest Ris
-100 Days of Python Code Bootcamp@Udemy: 599. Solution: Degrees with the Highest Potentia
-100 Days of Python Code Bootcamp@Udemy: 600. Grouping and Pivoting Data with Panda
-100 Days of Python Code Bootcamp@Udemy: 601. Learning Points & Summar
-100 Days of Python Code Bootcamp@Udemy: 602. Day 72 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 603. Download and Open the r Noteboo
-100 Days of Python Code Bootcamp@Udemy: 604. Solution: Prelimiinary Data Exploratio
-100 Days of Python Code Bootcamp@Udemy: 605. Solution: Analysis by Programmiing Languag
-100 Days of Python Code Bootcamp@Udemy: 606. Data Cleaning: Working with Time Stamp
-100 Days of Python Code Bootcamp@Udemy: 607. Data Manipulation: Pivoting DataFrame
-100 Days of Python Code Bootcamp@Udemy: 608. Data Visualisation with Matplotli
-100 Days of Python Code Bootcamp@Udemy: 609. Multi-Line Charts with Matploti
-100 Days of Python Code Bootcamp@Udemy: 610. Smoothing out Time-Series Dat
-100 Days of Python Code Bootcamp@Udemy: Quiz 18: Programmiing Language Data Analysis
-100 Days of Python Code Bootcamp@Udemy: 611. Learning Points & Summar
-100 Days of Python Code Bootcamp@Udemy: 612. Day 73 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 613. Use HTML Markdown to Make Your Notebook Look Prett
-100 Days of Python Code Bootcamp@Udemy: 614. Solution: Exploring the LEGO Brick Colour
-100 Days of Python Code Bootcamp@Udemy: 615. Find the Oldest and Largest LEGO Set
-100 Days of Python Code Bootcamp@Udemy: 616. Visualise the Number of Sets Published over Tim
-100 Days of Python Code Bootcamp@Udemy: 617. How to use the Pandas .agg() functio
-100 Days of Python Code Bootcamp@Udemy: 618. Superimposing Line Charts with Separate Axe
-100 Days of Python Code Bootcamp@Udemy: 619. Scatter Plots: Average Number of Parts per LEGO Se
-100 Days of Python Code Bootcamp@Udemy: 620. Relational Database Schemas: Primary and Foreign Key
-100 Days of Python Code Bootcamp@Udemy: 621. How to Merge DataFrames and Create Bar Chart
-100 Days of Python Code Bootcamp@Udemy: 622. Learning Points & Summar
-100 Days of Python Code Bootcamp@Udemy: 623. Day 74 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 624. Data Exploration - Making Sense of Google Search Dat
-100 Days of Python Code Bootcamp@Udemy: 625. Data Cleaning - Resampling Time Series Dat
-100 Days of Python Code Bootcamp@Udemy: 626. Data Visualisation - Tesla Line Charts in Matplotli
-100 Days of Python Code Bootcamp@Udemy: 627. Using Locators and DateFormatters to generate Tick Marks on a Time Lin
-100 Days of Python Code Bootcamp@Udemy: 628. Data Visualisation - Bitcoin: Line Style and Marker
-100 Days of Python Code Bootcamp@Udemy: 629. Data Visualisation - Unemployment: How to use Grid
-100 Days of Python Code Bootcamp@Udemy: 630. Data Visualisation - Unemployment: The Effect of New Dat
-100 Days of Python Code Bootcamp@Udemy: 631. Learning Points & Summar
-100 Days of Python Code Bootcamp@Udemy: 632. Day 75 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 633. Data Cleaning: Removing NaN Values and Duplicate
-100 Days of Python Code Bootcamp@Udemy: 634. Prelimiinary Exploration: The Highest Ratings, Most Reviews, and Largest Siz
-100 Days of Python Code Bootcamp@Udemy: 635. Data Visualisation with Plotly: Create Pie and Donut Chart
-100 Days of Python Code Bootcamp@Udemy: 636. Numeric Type Conversions for the Installations & Price Dat
-100 Days of Python Code Bootcamp@Udemy: 637. Plotly Bar Charts & Scatter Plots: The Most Competitive & Popular App Categorie
-100 Days of Python Code Bootcamp@Udemy: 638. Extracting Nested Column Data using .stack(
-100 Days of Python Code Bootcamp@Udemy: 639. Grouped Bar Charts and Box Plots with Plotl
-100 Days of Python Code Bootcamp@Udemy: 640. Learning Points & Summar
-----------------------------------------------------------------------------------------------------
-Monday 2.12.24
-----------------------------------------------------------------------------------------------------
-100 Days of Python Code Bootcamp@Udemy: 641. Day 76 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 642. NumPy's ndarray - Incredible Power at Your Fingertips
-100 Days of Python Code Bootcamp@Udemy: 643. Generating and Manipulating ndarray
-100 Days of Python Code Bootcamp@Udemy: 644. Broadcasting, Scalars and Matrix Multiplicatio
-100 Days of Python Code Bootcamp@Udemy: 645. Manipulating Images as ndarray
-100 Days of Python Code Bootcamp@Udemy: 646. Learning Points & Summar
-100 Days of Python Code Bootcamp@Udemy: 647. Day 77 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 648. Explore and Clean the Dat
-100 Days of Python Code Bootcamp@Udemy: 649. Investigate the Films that had Zero Revenu
-100 Days of Python Code Bootcamp@Udemy: 650. Filter on Multiple Conditions: International Film
-100 Days of Python Code Bootcamp@Udemy: 651. Seaborn Data Visualisation: Bubble Chart
-100 Days of Python Code Bootcamp@Udemy: 652. Floor Division: A Trick to Convert Years to Decade
-100 Days of Python Code Bootcamp@Udemy: 653. Plotting Linear Regressions with Seabor
-100 Days of Python Code Bootcamp@Udemy: 654. Use scikit-learn to Run Your Own Regressio
-100 Days of Python Code Bootcamp@Udemy: 655. Learning Points & Summar
-100 Days of Python Code Bootcamp@Udemy: 656. Day 78 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 657. Update Packages in Google Colab & Explore and Clean the Datase
-100 Days of Python Code Bootcamp@Udemy: 658. plotly Bar & Donut Charts: Analyse Prize Categories & Women Winning Prize
-100 Days of Python Code Bootcamp@Udemy: 659. Using Matplotlib to Visualise Trends over Tim
-100 Days of Python Code Bootcamp@Udemy: 660. A Choropleth Map and the Countries with the Most Prize
-100 Days of Python Code Bootcamp@Udemy: 661. Create Sunburst Charts for a Detailed Regional Breakdown of Research Location
-100 Days of Python Code Bootcamp@Udemy: 662. Unearthing Patterns in the Laureate Age at the Time of the Awar
-100 Days of Python Code Bootcamp@Udemy: 663. Learning Points & Summar
-100 Days of Python Code Bootcamp@Udemy: 664. Day 79 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 665. Prelimiinary Data Exploration and Visualising Births & Deaths at Vienna Hospita
-100 Days of Python Code Bootcamp@Udemy: 666. Analysing the Yearly Data Split By Clini
-100 Days of Python Code Bootcamp@Udemy: 667. The Effect of Handwashin
-100 Days of Python Code Bootcamp@Udemy: 668. Visualising Distributions and Testing for Statistical Significanc
-100 Days of Python Code Bootcamp@Udemy: 669. Learning Points & Summar
-100 Days of Python Code Bootcamp@Udemy: 670. Day 80 Goals: what you will make by the end of the da
-100 Days of Python Code Bootcamp@Udemy: 671. Solution & Learning Point
-100 Days of Python Code Bootcamp@Udemy: 672. The Road to Becomiing a Professional Develope
-----------------------------------------------------------------------------------------------------
-Monday 2.19.24 (Just do the ones most related to what I am doing!)
-----------------------------------------------------------------------------------------------------
-100 Days of Python Code Bootcamp@Udemy: Assignment 1: Text to Morse Code Converter
-100 Days of Python Code Bootcamp@Udemy: 673. Where are the Videos and the Solution Code
-100 Days of Python Code Bootcamp@Udemy: Assignment 2: Portfolio Website
-100 Days of Python Code Bootcamp@Udemy: Assignment 3: Tic Tac Toe
-100 Days of Python Code Bootcamp@Udemy: Assignment 4: Image Watermarking Desktop App
-100 Days of Python Code Bootcamp@Udemy: Assignment 5: Typing Speed Test
-100 Days of Python Code Bootcamp@Udemy: Assignment 6: Breakout Game
-100 Days of Python Code Bootcamp@Udemy: Assignment 7: Cafe and Wifi Website
-100 Days of Python Code Bootcamp@Udemy: Assignment 8: Todo List
-100 Days of Python Code Bootcamp@Udemy: Assignment 9: Disappearing Text Writing App
-100 Days of Python Code Bootcamp@Udemy: Assignment 10: Convert PDF to Audiobook
-100 Days of Python Code Bootcamp@Udemy: Assignment 11: Image Colour Palette Generator
-100 Days of Python Code Bootcamp@Udemy: Assignment 12: Custom Web Scraper
-----------------------------------------------------------------------------------------------------
-Monday 2.26.24 (Just do the ones most related to what I am doing!)
-----------------------------------------------------------------------------------------------------
-100 Days of Python Code Bootcamp@Udemy: Assignment 13: Automate the Google Dinosaur Game
-100 Days of Python Code Bootcamp@Udemy: Assignment 14: Space Invaders
-100 Days of Python Code Bootcamp@Udemy: Assignment 15: Custom API Based Website
-100 Days of Python Code Bootcamp@Udemy: Assignment 16: An Online Shop
-100 Days of Python Code Bootcamp@Udemy: Assignment 17: Custom Automation
-100 Days of Python Code Bootcamp@Udemy: Assignment 18: Analyse and Visualise the Space Race
-100 Days of Python Code Bootcamp@Udemy: Assignment 19: Analyse Deaths involving Police in the United States
-100 Days of Python Code Bootcamp@Udemy: Assignment 20: Predict Earnings using Multivariable Regression
-100 Days of Python Code Bootcamp@Udemy: 674. Recording of our Live AMA (aka AAA - Ask Angela Anything) 1hr
-100 Days of Python Code Bootcamp@Udemy: 675. Study With Me
-100 Days of Python Code Bootcamp@Udemy: 676. Bonus Lecture: Check out my other course
--------------------------------------------------------------------------------------------------------
+GKE with DevOps 75 Real Demos@udemy: 26. Step-01: Introduction to Kubernetes Deployments 3min
+GKE with DevOps 75 Real Demos@udemy: 27. Step-02: Create Kubernetes Deployment and Verify 10min
+GKE with DevOps 75 Real Demos@udemy: 28. Step-03: Scale Deployment and Expose Deployment as Service 7min
+GKE with DevOps 75 Real Demos@udemy: 29. Step-01: Update Kubernetes Deployment with Set Image Option 13min
+GKE with DevOps 75 Real Demos@udemy: 30. Step-02: Update Kubernetes Deployment with Edit Option 7min
+GKE with DevOps 75 Real Demos@udemy: 31. Step-01: Deployment - Rollback to Previous Version 7min
+GKE with DevOps 75 Real Demos@udemy: 32. Step-02: Deployment - Rollback to Specific Version and Rolling Restarts 4min
+GKE with DevOps 75 Real Demos@udemy: 33. Step-01: Pause and Resume Kubernetes Deployments 11min
+GKE with DevOps 75 Real Demos@udemy: 34. Step-01: Kubernetes Services Introduction min
+GKE with DevOps 75 Real Demos@udemy: 35. Step-02: Kubernetes ClusterIP and Load Balancer Service Demo 13min
+GKE with DevOps 75 Real Demos@udemy: 36. Step-01: Kubernetes YAML Basics 9min
+take the two days after jan 17 holiday in wf time request site.
+Python Mega Course@Udemy: 26. ⚙️ Programming Tool/Concept of the Day: How to Find the Code You Need 9min
+Python Mega Course@Udemy: 27. ❓ FAQ 1min
+Python Mega Course@Udemy: 28. ◼️ Cheat Sheet 0min
+Python Mega Course@Udemy: 29. ⬅️ Recap of Yesterday 1min
+Python Mega Course@Udemy: 30. ▶️ Todo List View and Program Exit #match-case 7min
+Python Mega Course@Udemy: 31. ▶️ Improving the Program Output #for-loops 6min
+Python Mega Course@Udemy: 32. ❗️Good to Know #discord 1min
+Python Mega Course@Udemy: 33. ⚛️ Code Experiments 7min
+Python Mega Course@Udemy: 34. ⭐️ Bonus Example 4min
+Python Mega Course@Udemy: Quiz 3: ☑️ Quiz of the Day
+Python Mega Course@Udemy: Coding Exercise 6: Coding Exercise 1
+Python Mega Course@Udemy: Coding Exercise 7: Coding Exercise 2
+Python Mega Course@Udemy: Coding Exercise 8: Coding Exercise 3
+Python Mega Course@Udemy: 35. ✔️ Bug-Fixing Exercises 1min
+Python Mega Course@Udemy: 36. ⚙️ Programming Tool/Concept of the Day: What Surprisingly is Python 4min
+Python Mega Course@Udemy: 37. ❓FAQ 1min
+Python Mega Course@Udemy: 38. ◼️ Cheat Sheet 0min
+GKE with DevOps 75 Real Demos@udemy: 37. Step-01: Create YAML Kubernetes Pod Manifest 14min
+GKE with DevOps 75 Real Demos@udemy: 38. Step-02: Create Load Balancer Service YAML Manifest and Test 10min
+GKE with DevOps 75 Real Demos@udemy: 39. Step-01: Create ReplicaSet YAML Manifest 8min
+GKE with DevOps 75 Real Demos@udemy: 40. Step-02: Create Load Balancer Service for ReplicaSet and Test 3min
+GKE with DevOps 75 Real Demos@udemy: 41. Step-01: Create Deployment YAML Manifest and Test 6min
+GKE with DevOps 75 Real Demos@udemy: 42. Step-01: Create Backend Deployment and Service 7min
+GKE with DevOps 75 Real Demos@udemy: 43. Step-02: Create Frontend Deployment and Service and Test 8min
+GKE with DevOps 75 Real Demos@udemy: 44. Step-01: Introduction to Kubernetes NodePort Service 6min
+GKE with DevOps 75 Real Demos@udemy: 45. Step-02: Implement NodePort Service and Test 11min
+GKE with DevOps 75 Real Demos@udemy: 46. Step-01: Introduction to Kubernetes Headless Service 3min
+GKE with DevOps 75 Real Demos@udemy: 47. Step-02: Implement Headless Service Demo 11min
+Python Mega Course@Udemy: 39. ⬅️ Recap of Yesterday 2min
+Python Mega Course@Udemy: 40. ▶️ Add an "Edit" Feature #type-conversion #list-indexing 15min
+Python Mega Course@Udemy: 41. ⚛️ Coding Experiments 12min
+Python Mega Course@Udemy: 42. ⭐️ Bonus Example #tuples 13min
+Python Mega Course@Udemy: Quiz 4: ☑️ Quiz of the Day
+Python Mega Course@Udemy: Coding Exercise 9: Coding Exercise 1
+Python Mega Course@Udemy: Coding Exercise 10: Coding Exercise 2
+Python Mega Course@Udemy: Coding Exercise 11: Coding Exercise 3
+Python Mega Course@Udemy: Coding Exercise 12: Coding Exercise 4
+Python Mega Course@Udemy: Coding Exercise 13: Coding Exercise 5
+Python Mega Course@Udemy: Coding Exercise 14: Coding Exercise 6
+Python Mega Course@Udemy: Coding Exercise 15: Coding Exercise 7
+Python Mega Course@Udemy: 43. ✔️ Bug-Fixing Exercises 1min
+Python Mega Course@Udemy: 44. ⚙️ Programming Tool/Concep of the Day: Text Editors, Code Editors, IDE, PyCharm 15min
+Python Mega Course@Udemy: 45. ❓ FAQ 1min
+Python Mega Course@Udemy: 46. ◼️ Cheat Sheet 0min
+GKE with DevOps 75 Real Demos@udemy: 48. Step-01: Introduction-to-GKE-Private-Clusters 13min
+GKE with DevOps 75 Real Demos@udemy: 49. Step-02: Create GKE Standard Cluster of Type Private 16min
+GKE with DevOps 75 Real Demos@udemy: 50. Step-03: Review, Deploy k8s manifests and Test without CloudNAT 8min
+GKE with DevOps 75 Real Demos@udemy: 51. Step-04: Create CloudNAT, Deploy k8s manifests, Test and Clean-Up 7min
+GKE with DevOps 75 Real Demos@udemy: 52. Step-05: Understand GKE Authorized Network Feature 6min
+GKE with DevOps 75 Real Demos@udemy: 53. Step-01: Introduction to GKE Storage - Persistent Disks 22min
+GKE with DevOps 75 Real Demos@udemy: 54. Step-02: Introduction to Demo 21 - Use standard-rwo 12min
+GKE with DevOps 75 Real Demos@udemy: 55. Step-03: Create PVC, ConfigMap YAML Manifests 15min
+GKE with DevOps 75 Real Demos@udemy: 56. Step-04: Create MySQL Deployment & Service YAML Manifests 20min
+GKE with DevOps 75 Real Demos@udemy: 57. Step-05: Create UMS WebApp Deployment & Service YAML Manifests 11min
+GKE with DevOps 75 Real Demos@udemy: 58. Step-06: Deploy UMS WebApp and Verify 18min
+GKE with DevOps 75 Real Demos@udemy: 59. Step-07: Review GCE PD Logs and CleanUp 3min
+Python Mega Course@Udemy: 47. ⬅️ Recap of Yesterday 2min
+Python Mega Course@Udemy: 48. ▶️ Numbered Todos #enumerate 5min
+Python Mega Course@Udemy: 49. ▶️ Improving the Program Output ▶️ #f-strings #formatting-strings 4min
+Python Mega Course@Udemy: 50. ▶️ Add a "Complete Todo" Feature 9min
+Python Mega Course@Udemy: 51. ❗️Good to Know #Q&A 1min
+Python Mega Course@Udemy: 52. ⚛️ Code Experiments 10min
+Python Mega Course@Udemy: 53. ⭐️ Bonus Example 6min
+Python Mega Course@Udemy: Quiz 5: ☑️ Quiz of the Day
+Python Mega Course@Udemy: Coding Exercise 16: Coding Exercise 1
+Python Mega Course@Udemy: Coding Exercise 17: Coding Exercise 2
+Python Mega Course@Udemy: Coding Exercise 18: Coding Exercise 3
+Python Mega Course@Udemy: Coding Exercise 19: Coding Exercise 4
+Python Mega Course@Udemy: Coding Exercise 20: Coding Exercise 5
+Python Mega Course@Udemy: 54. ✔️ Bug-Fixing Exercises 1min
+Python Mega Course@Udemy: 55. ⚙️ Programming Tool/Concept of the Day: How to Ask Good Programming Questions 10min
+Python Mega Course@Udemy: 56. ❓ FAQ 1min
+Python Mega Course@Udemy: 57. ◼️ Cheat Sheet 0min
+GKE with DevOps 75 Real Demos@udemy: 60. Step-01: Demo 22 - Use premium-rwo Storage Class 7min
+GKE with DevOps 75 Real Demos@udemy: 61. Step-01: Introduction to Custom Storage Class 9min
+GKE with DevOps 75 Real Demos@udemy: 62. Step-02: Implement Custom SC, Test Volume Expansion 13min
+GKE with DevOps 75 Real Demos@udemy: 63. Step-03: Test Reclaim Policy Retain 8min
+GKE with DevOps 75 Real Demos@udemy: 64. Step-01: Introduction to Preexisting PD Demo 3min
+GKE with DevOps 75 Real Demos@udemy: 65. Step-02: Create Persistent Volume YAML Manifest 8min
+GKE with DevOps 75 Real Demos@udemy: 66. Step-03: Implement Demo, Test and CleanUp 8min
+GKE with DevOps 75 Real Demos@udemy: 67. Step-01: Introduction to Regional PD Demo 5min
+GKE with DevOps 75 Real Demos@udemy: 68. Step-02: Implement Regional PD Demo, Test and CleanUp 8min
+GKE with DevOps 75 Real Demos@udemy: 69. Step-01: Introduction to PD Volume Snapshot and Volume Restore 10min
+GKE with DevOps 75 Real Demos@udemy: 70. Step-02: Deploy Project-01 and Add Users 6min
+GKE with DevOps 75 Real Demos@udemy: 71. Step-03: Review P02 and Deploy P02 Volume Snapshots 8min
+GKE with DevOps 75 Real Demos@udemy: 72. Step-04: Review P03 and Deploy P03 Volume Restore, Test and CleanUp 9min
+Python Mega Course@Udemy: 58. ⬅️ Recap of Yesterday 3min
+Python Mega Course@Udemy: 59. ▶️ Storing Items in Text Files #text-files #read #write #writelines #readlines 20min
+Python Mega Course@Udemy: 60. ▶️ Getting Todo Items from Text Files #read-text-files 4min
+Python Mega Course@Udemy: 61. ▶️ How Data Types are Created #types 3min
+Python Mega Course@Udemy: 62. ⚛️ Code Experiments 9min
+Python Mega Course@Udemy: 63. ⭐️ Bonus Example 13min
+Python Mega Course@Udemy: Quiz 6: ☑️ Quiz
+Python Mega Course@Udemy: Coding Exercise 21: Coding Exercise 1
+Python Mega Course@Udemy: Coding Exercise 22: Coding Exercise 2
+Python Mega Course@Udemy: Coding Exercise 23: Coding Exercise 3
+Python Mega Course@Udemy: Coding Exercise 24: Coding Exercise 4
+Python Mega Course@Udemy: 64. Coding Exercise 5 1min
+Python Mega Course@Udemy: 65. Coding Exercise 6 1min
+Python Mega Course@Udemy: 66. Coding Exercise 7 1min
+Python Mega Course@Udemy: 67. ✔️ Bug-Fixing Exercises 1min
+Python Mega Course@Udemy: 68. ⚙️ Programming Tool/Concept of the Day: Online Python Communities 5min
+Python Mega Course@Udemy: 69. ❓ FAQ 1min
+Python Mega Course@Udemy: 70. ◼️ Cheat Sheet 0min
+GKE with DevOps 75 Real Demos@udemy: 73. Step-01: Introduction to Cloud SQL - MySQL with Public IP 11min
+GKE with DevOps 75 Real Demos@udemy: 74. Step-02: Create Cloud SQL MySQL Database and Webappdb Schema 9min
+GKE with DevOps 75 Real Demos@udemy: 75. Step-03: Review Kubernetes Manifests for CloudSQL Public IP Demo 8min
+GKE with DevOps 75 Real Demos@udemy: 76. Step-04: Deploy, Verify and CleanUp CloudSQL Public IP Demo 8min
+GKE with DevOps 75 Real Demos@udemy: 77. Step-01: Introduction to Cloud SQL - MySQL with Private IP 3min
+GKE with DevOps 75 Real Demos@udemy: 78. Step-02: Create Private Connection between CustomerVPC and GoogleManagedVPC 6min
+GKE with DevOps 75 Real Demos@udemy: 79. Step-03: Create CloudSQL MySQL Instance with PrivateIP 5min
+GKE with DevOps 75 Real Demos@udemy: 80. Step-04: Deploy, Verify and CleanUp CloudSQL Private IP Demo 9min
+GKE with DevOps 75 Real Demos@udemy: 81. Step-01: Introduction to Cloud SQL without External Name Service 3min
+GKE with DevOps 75 Real Demos@udemy: 82. Step-02: Review, Deploy, Verify without ExternalName Svc and CleanUp 7min
+Python Mega Course@Udemy: 71. ⬅️ Recap of Yesterday 3min
+Python Mega Course@Udemy: 72. ▶️ Improving the Program Output #list-comprehensions 10min
+Python Mega Course@Udemy: 73. ⚛️ Code Experiments 6min
+Python Mega Course@Udemy: 74. ⭐️ Bonus Example 3min
+Python Mega Course@Udemy: Quiz 7: ☑️ Quiz
+Python Mega Course@Udemy: Coding Exercise 25: Coding Exercise 1
+Python Mega Course@Udemy: Coding Exercise 26: Coding Exercise 2
+Python Mega Course@Udemy: Coding Exercise 27: Coding Exercise 3
+Python Mega Course@Udemy: Coding Exercise 28: Coding Exercise 4
+Python Mega Course@Udemy: 75. ✔️ Bug-Fixing Exercises 1min
+Python Mega Course@Udemy: 76. ⚙️ Programming Tool/Concept of the Day: Usages of Python in Real Life 12min
+Python Mega Course@Udemy: 77. ❓ FAQ 1min
+Python Mega Course@Udemy: 78. ◼️ Cheat Sheet 0min
+GKE with DevOps 75 Real Demos@udemy: 83. Step-01: Introduction to File Store CSI Driver 17min
+GKE with DevOps 75 Real Demos@udemy: 84. Step-02: Enable FileStore CSI Driver and Verify 7min
+GKE with DevOps 75 Real Demos@udemy: 85. Step-03: Review Demo31 k8s YAML Manifests 12min
+GKE with DevOps 75 Real Demos@udemy: 86. Step-04: Demo31 Deploy, Verify and CleanUp 15min
+GKE with DevOps 75 Real Demos@udemy: 87. Step-01: Introduction to File Store CSI Driver - Custom Storage Class 9min
+GKE with DevOps 75 Real Demos@udemy: 88. Step-02: Demo32 Deploy, Verify and CleanUp 7min
+GKE with DevOps 75 Real Demos@udemy: 89. Step-01: Introduction to File Store Volume Snapshots and Restore 4min
+GKE with DevOps 75 Real Demos@udemy: 90. Step-02: Review and Deploy Project-1 and 2 10min
+GKE with DevOps 75 Real Demos@udemy: 91. Step-03: Deploy Project-3, Verify and CleanUp Project-1,2,3 13min
+GKE with DevOps 75 Real Demos@udemy: 92. Step-01: Ingress Basics Introduction 15min
+GKE with DevOps 75 Real Demos@udemy: 93. Step-02: Create Ingress Basics YAML Manifest 9min
+GKE with DevOps 75 Real Demos@udemy: 94. Step-03: Deploy, Verify and CleanUp Ingress Basics Demo 8min
+GKE with DevOps 75 Real Demos@udemy: 95. Step-01: Introduction to Ingress Context Path based Routing 4min
+GKE with DevOps 75 Real Demos@udemy: 96. Step-02: Create Ingress CPR YAML Manifest 12min
+GKE with DevOps 75 Real Demos@udemy: 97. Step-03: Deploy, Verify and Clean Up Ingress CPR Demo 7min
+Python Mega Course@Udemy: 79. ⬅️ Recap of Yesterday 2min
+Python Mega Course@Udemy: 80. ▶️ Optimising the Code #with-context-manager 5min
+Python Mega Course@Udemy: 81. ▶️ Editing and Completing Todo Items #with-context-manager 11min
+Python Mega Course@Udemy: 82. ⚛️ Code Experiments 8min
+Python Mega Course@Udemy: 83. ⭐️ Bonus Example 8min
+Python Mega Course@Udemy: Quiz 8: ☑️ Quiz
+Python Mega Course@Udemy: 84. ✔️ Bug-Fixing Exercises 1min
+Python Mega Course@Udemy: 85. Programming Tool/Concept of the Day: Steps of Creating and Maintaining a Program 4min
+Python Mega Course@Udemy: 86. ❓ FAQ 1min
+Python Mega Course@Udemy: 87. ◼️ Cheat Sheet 0min
+Python Mega Course@Udemy: 88. ⬅️ Recap of Yesterday 3min
+Python Mega Course@Udemy: 89. ▶️ Improving the "Add" Feature #if-conditionals #slicing 15min
+Python Mega Course@Udemy: 90. ▶️ Optimising the Program #elif #else 11min
+Python Mega Course@Udemy: 91. ⚛️ Code Experiments 9min
+Python Mega Course@Udemy: 92. ⭐️ Bonus Example 24min
+Python Mega Course@Udemy: Quiz 9: ☑️ Quiz
+Python Mega Course@Udemy: Coding Exercise 29: Coding Exercise 1
+Python Mega Course@Udemy: Coding Exercise 30: Coding Exercise 2
+Python Mega Course@Udemy: Coding Exercise 31: Coding Exercise 3
+Python Mega Course@Udemy: Coding Exercise 32: Coding Exercise 4
+Python Mega Course@Udemy: Coding Exercise 33: Coding Exercise 5
+Python Mega Course@Udemy: Coding Exercise 34: Coding Exercise 6
+Python Mega Course@Udemy: Coding Exercise 35: Coding Exercise 7
+Python Mega Course@Udemy: 93. ✔️ Bug-Fixing Exercises 1min
+Python Mega Course@Udemy: 94. ⚙️ Programming Tool/Concept of the Day: High vs. Low Level Programming Languages 5min
+Python Mega Course@Udemy: 95. ❓ FAQ 1min
+Python Mega Course@Udemy: 96. Cheat Sheet 0min
+Python Mega Course@Udemy: 97. ⬅️ Recap of Yesterday 3min
+Python Mega Course@Udemy: 98. ▶️ Fixing Two Bugs in the Program #bugs 9min
+Python Mega Course@Udemy: 99. ▶️ Anticipating Program Errors #try-except #continue 11min
+Python Mega Course@Udemy: 100. ⚛️ Code Experiments 6min
+Python Mega Course@Udemy: 101. ⭐️ Bonus Example 8min
+Python Mega Course@Udemy: Quiz 10: ☑️ Quiz
+Python Mega Course@Udemy: Coding Exercise 36: Coding Exercise 1
+Python Mega Course@Udemy: Coding Exercise 37: Coding Exercise 2
+Python Mega Course@Udemy: Coding Exercise 38: Coding Exercise 3
+Python Mega Course@Udemy: 102. ✔️ Bug-Fixing Exercises 1min
+Python Mega Course@Udemy: 103. ⚙️ Programming Tool/Concept of the Day: Cloud IDEs 8min
+Python Mega Course@Udemy: 104. ❓ FAQ 1min
+Python Mega Course@Udemy: 105. ◼️ Cheat Sheet 0min
+Python Mega Course@Udemy: 106. ⬅️ Recap of Yesterday 2min
+Python Mega Course@Udemy: 107. ▶️ Avoiding Repetitive Code #custom-functions 17min
+Python Mega Course@Udemy: 108. ⚛️ Code Experiments 8min
+Python Mega Course@Udemy: 109. ⭐️ Bonus Example 10min
+Python Mega Course@Udemy: Quiz 11: ☑️ Quiz
+Python Mega Course@Udemy: Coding Exercise 39: Coding Exercise 1
+Python Mega Course@Udemy: Coding Exercise 40: Coding Exercise 2
+Python Mega Course@Udemy: 110. ✔️ Bug-Fixing Exercises 1min
+Python Mega Course@Udemy: 111. ⚙️ Programming Tool/Concept of the Day: Python vs. Other Languages 3min
+Python Mega Course@Udemy: 112. ❓ FAQ 1min
+Python Mega Course@Udemy: 113. ◼️ Cheat Sheet 0min
