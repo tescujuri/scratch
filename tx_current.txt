@@ -56,3 +56,78 @@ GKE with DevOps 75 Real Demos@udemy: 69. Step-01: Introduction to PD Volume Snap
 GKE with DevOps 75 Real Demos@udemy: 70. Step-02: Deploy Project-01 and Add Users 6min
 GKE with DevOps 75 Real Demos@udemy: 71. Step-03: Review P02 and Deploy P02 Volume Snapshots 8min
 GKE with DevOps 75 Real Demos@udemy: 72. Step-04: Review P03 and Deploy P03 Volume Restore, Test and CleanUp 9min
+Python Mega Course@Udemy: 71. ⬅️ Recap of Yesterday 3min
+Python Mega Course@Udemy: 72. ▶️ Improving the Program Output #list-comprehensions 10min
+Python Mega Course@Udemy: 73. ⚛️ Code Experiments 6min
+Python Mega Course@Udemy: 74. ⭐️ Bonus Example 3min
+Python Mega Course@Udemy: Quiz 7: ☑️ Quiz
+Python Mega Course@Udemy: Coding Exercise 25: Coding Exercise 1
+Python Mega Course@Udemy: Coding Exercise 26: Coding Exercise 2
+Python Mega Course@Udemy: Coding Exercise 27: Coding Exercise 3
+Python Mega Course@Udemy: Coding Exercise 28: Coding Exercise 4
+Python Mega Course@Udemy: 75. ✔️ Bug-Fixing Exercises 1min
+Python Mega Course@Udemy: 76. ⚙️ Programming Tool/Concept of the Day: Usages of Python in Real Life 12min
+Python Mega Course@Udemy: 77. ❓ FAQ 1min
+Python Mega Course@Udemy: 78. ◼️ Cheat Sheet 0min
+GKE with DevOps 75 Real Demos@udemy: 73. Step-01: Introduction to Cloud SQL - MySQL with Public IP 11min
+GKE with DevOps 75 Real Demos@udemy: 74. Step-02: Create Cloud SQL MySQL Database and Webappdb Schema 9min
+GKE with DevOps 75 Real Demos@udemy: 75. Step-03: Review Kubernetes Manifests for CloudSQL Public IP Demo 8min
+GKE with DevOps 75 Real Demos@udemy: 76. Step-04: Deploy, Verify and CleanUp CloudSQL Public IP Demo 8min
+GKE with DevOps 75 Real Demos@udemy: 77. Step-01: Introduction to Cloud SQL - MySQL with Private IP 3min
+GKE with DevOps 75 Real Demos@udemy: 78. Step-02: Create Private Connection between CustomerVPC and GoogleManagedVPC 6min
+GKE with DevOps 75 Real Demos@udemy: 79. Step-03: Create CloudSQL MySQL Instance with PrivateIP 5min
+GKE with DevOps 75 Real Demos@udemy: 80. Step-04: Deploy, Verify and CleanUp CloudSQL Private IP Demo 9min
+GKE with DevOps 75 Real Demos@udemy: 81. Step-01: Introduction to Cloud SQL without External Name Service 3min
+GKE with DevOps 75 Real Demos@udemy: 82. Step-02: Review, Deploy, Verify without ExternalName Svc and CleanUp 7min
+GKE with DevOps 75 Real Demos@udemy: 83. Step-01: Introduction to File Store CSI Driver 17min
+GKE with DevOps 75 Real Demos@udemy: 84. Step-02: Enable FileStore CSI Driver and Verify 7min
+GKE with DevOps 75 Real Demos@udemy: 85. Step-03: Review Demo31 k8s YAML Manifests 12min
+GKE with DevOps 75 Real Demos@udemy: 86. Step-04: Demo31 Deploy, Verify and CleanUp 15min
+GKE with DevOps 75 Real Demos@udemy: 87. Step-01: Introduction to File Store CSI Driver - Custom Storage Class 9min
+GKE with DevOps 75 Real Demos@udemy: 88. Step-02: Demo32 Deploy, Verify and CleanUp 7min
+GKE with DevOps 75 Real Demos@udemy: 89. Step-01: Introduction to File Store Volume Snapshots and Restore 4min
+GKE with DevOps 75 Real Demos@udemy: 90. Step-02: Review and Deploy Project-1 and 2 10min
+GKE with DevOps 75 Real Demos@udemy: 91. Step-03: Deploy Project-3, Verify and CleanUp Project-1,2,3 13min
+Python Mega Course@Udemy: 79. ⬅️ Recap of Yesterday 2min
+Python Mega Course@Udemy: 80. ▶️ Optimising the Code #with-context-manager 5min
+Python Mega Course@Udemy: 81. ▶️ Editing and Completing Todo Items #with-context-manager 11min
+Python Mega Course@Udemy: 82. ⚛️ Code Experiments 8min
+Python Mega Course@Udemy: 83. ⭐️ Bonus Example 8min
+Python Mega Course@Udemy: Quiz 8: ☑️ Quiz
+Python Mega Course@Udemy: 84. ✔️ Bug-Fixing Exercises 1min
+Python Mega Course@Udemy: 85. Programming Tool/Concept of the Day: Steps of Creating and Maintaining a Program 4min
+Python Mega Course@Udemy: 86. ❓ FAQ 1min
+Python Mega Course@Udemy: 87. ◼️ Cheat Sheet 0min
+GKE with DevOps 75 Real Demos@udemy: 92. Step-01: Ingress Basics Introduction 15min
+GKE with DevOps 75 Real Demos@udemy: 93. Step-02: Create Ingress Basics YAML Manifest 9min
+GKE with DevOps 75 Real Demos@udemy: 94. Step-03: Deploy, Verify and CleanUp Ingress Basics Demo 8min
+GKE with DevOps 75 Real Demos@udemy: 95. Step-01: Introduction to Ingress Context Path based Routing 4min
+GKE with DevOps 75 Real Demos@udemy: 96. Step-02: Create Ingress CPR YAML Manifest 12min
+GKE with DevOps 75 Real Demos@udemy: 97. Step-03: Deploy, Verify and Clean Up Ingress CPR Demo 7min
+GKE with DevOps 75 Real Demos@udemy: 98. Step-01: Introduction to Custom Health Checks - Readiness Probes 11min
+GKE with DevOps 75 Real Demos@udemy: 99. Step-02: Review YAML Manifests for Custom Health check readiness Probes 5min
+GKE with DevOps 75 Real Demos@udemy: 100. Step-03: Deploy, Verify and CleanUp Custom Health Check Readiness Probes demo 5min
+GKE with DevOps 75 Real Demos@udemy: 101. Step-01: Register a Cloud Domain 4min
+GKE with DevOps 75 Real Demos@udemy: 102. Step-01: Introduction to Ingress with Static External IP and Cloud DNS 4min
+GKE with DevOps 75 Real Demos@udemy: 103. Step-02: Create ExternalIP and Add Record in Cloud DNS and Verify 6min
+GKE with DevOps 75 Real Demos@udemy: 104. Step-03: Deploy,Verify External IP Demo and CleanUp 10min
+GKE with DevOps 75 Real Demos@udemy: 105. Step-01: Introduction to Google Managed SSL Certificates 7min
+GKE with DevOps 75 Real Demos@udemy: 106. Step-02: Review YAML manifests for GMSSL and Deploy 7min
+GKE with DevOps 75 Real Demos@udemy: 107. Step-03: Verify SSL Cert and HTTP and HTTPS Urls 6min
+Python Mega Course@Udemy: 88. ⬅️ Recap of Yesterday 3min
+Python Mega Course@Udemy: 89. ▶️ Improving the "Add" Feature #if-conditionals #slicing 15min
+Python Mega Course@Udemy: 90. ▶️ Optimising the Program #elif #else 11min
+Python Mega Course@Udemy: 91. ⚛️ Code Experiments 9min
+Python Mega Course@Udemy: 92. ⭐️ Bonus Example 24min
+Python Mega Course@Udemy: Quiz 9: ☑️ Quiz
+Python Mega Course@Udemy: Coding Exercise 29: Coding Exercise 1
+Python Mega Course@Udemy: Coding Exercise 30: Coding Exercise 2
+Python Mega Course@Udemy: Coding Exercise 31: Coding Exercise 3
+Python Mega Course@Udemy: Coding Exercise 32: Coding Exercise 4
+Python Mega Course@Udemy: Coding Exercise 33: Coding Exercise 5
+Python Mega Course@Udemy: Coding Exercise 34: Coding Exercise 6
+Python Mega Course@Udemy: Coding Exercise 35: Coding Exercise 7
+Python Mega Course@Udemy: 93. ✔️ Bug-Fixing Exercises 1min
+Python Mega Course@Udemy: 94. ⚙️ Programming Tool/Concept of the Day: High vs. Low Level Programming Languages 5min
+Python Mega Course@Udemy: 95. ❓ FAQ 1min
+Python Mega Course@Udemy: 96. Cheat Sheet 0min
