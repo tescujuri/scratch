@@ -1,101 +1,19 @@
-GKE with DevOps 75 Real Demos@udemy: 26. Step-01: Introduction to Kubernetes Deployments 3min
-GKE with DevOps 75 Real Demos@udemy: 27. Step-02: Create Kubernetes Deployment and Verify 10min
-GKE with DevOps 75 Real Demos@udemy: 28. Step-03: Scale Deployment and Expose Deployment as Service 7min
-GKE with DevOps 75 Real Demos@udemy: 29. Step-01: Update Kubernetes Deployment with Set Image Option 13min
-GKE with DevOps 75 Real Demos@udemy: 30. Step-02: Update Kubernetes Deployment with Edit Option 7min
-GKE with DevOps 75 Real Demos@udemy: 31. Step-01: Deployment - Rollback to Previous Version 7min
-GKE with DevOps 75 Real Demos@udemy: 32. Step-02: Deployment - Rollback to Specific Version and Rolling Restarts 4min
-GKE with DevOps 75 Real Demos@udemy: 33. Step-01: Pause and Resume Kubernetes Deployments 11min
-GKE with DevOps 75 Real Demos@udemy: 34. Step-01: Kubernetes Services Introduction min
-GKE with DevOps 75 Real Demos@udemy: 35. Step-02: Kubernetes ClusterIP and Load Balancer Service Demo 13min
-GKE with DevOps 75 Real Demos@udemy: 36. Step-01: Kubernetes YAML Basics 9min
-take the two days after jan 17 holiday in wf time request site.
-Python Mega Course@Udemy: 26. ⚙️ Programming Tool/Concept of the Day: How to Find the Code You Need 9min
-Python Mega Course@Udemy: 27. ❓ FAQ 1min
-Python Mega Course@Udemy: 28. ◼️ Cheat Sheet 0min
-Python Mega Course@Udemy: 29. ⬅️ Recap of Yesterday 1min
-Python Mega Course@Udemy: 30. ▶️ Todo List View and Program Exit #match-case 7min
-Python Mega Course@Udemy: 31. ▶️ Improving the Program Output #for-loops 6min
-Python Mega Course@Udemy: 32. ❗️Good to Know #discord 1min
-Python Mega Course@Udemy: 33. ⚛️ Code Experiments 7min
-Python Mega Course@Udemy: 34. ⭐️ Bonus Example 4min
-Python Mega Course@Udemy: Quiz 3: ☑️ Quiz of the Day
-Python Mega Course@Udemy: Coding Exercise 6: Coding Exercise 1
-Python Mega Course@Udemy: Coding Exercise 7: Coding Exercise 2
-Python Mega Course@Udemy: Coding Exercise 8: Coding Exercise 3
-Python Mega Course@Udemy: 35. ✔️ Bug-Fixing Exercises 1min
-Python Mega Course@Udemy: 36. ⚙️ Programming Tool/Concept of the Day: What Surprisingly is Python 4min
-Python Mega Course@Udemy: 37. ❓FAQ 1min
-Python Mega Course@Udemy: 38. ◼️ Cheat Sheet 0min
-GKE with DevOps 75 Real Demos@udemy: 37. Step-01: Create YAML Kubernetes Pod Manifest 14min
-GKE with DevOps 75 Real Demos@udemy: 38. Step-02: Create Load Balancer Service YAML Manifest and Test 10min
-GKE with DevOps 75 Real Demos@udemy: 39. Step-01: Create ReplicaSet YAML Manifest 8min
-GKE with DevOps 75 Real Demos@udemy: 40. Step-02: Create Load Balancer Service for ReplicaSet and Test 3min
-GKE with DevOps 75 Real Demos@udemy: 41. Step-01: Create Deployment YAML Manifest and Test 6min
-GKE with DevOps 75 Real Demos@udemy: 42. Step-01: Create Backend Deployment and Service 7min
-GKE with DevOps 75 Real Demos@udemy: 43. Step-02: Create Frontend Deployment and Service and Test 8min
-GKE with DevOps 75 Real Demos@udemy: 44. Step-01: Introduction to Kubernetes NodePort Service 6min
-GKE with DevOps 75 Real Demos@udemy: 45. Step-02: Implement NodePort Service and Test 11min
-GKE with DevOps 75 Real Demos@udemy: 46. Step-01: Introduction to Kubernetes Headless Service 3min
-GKE with DevOps 75 Real Demos@udemy: 47. Step-02: Implement Headless Service Demo 11min
-Python Mega Course@Udemy: 39. ⬅️ Recap of Yesterday 2min
-Python Mega Course@Udemy: 40. ▶️ Add an "Edit" Feature #type-conversion #list-indexing 15min
-Python Mega Course@Udemy: 41. ⚛️ Coding Experiments 12min
-Python Mega Course@Udemy: 42. ⭐️ Bonus Example #tuples 13min
-Python Mega Course@Udemy: Quiz 4: ☑️ Quiz of the Day
-Python Mega Course@Udemy: Coding Exercise 9: Coding Exercise 1
-Python Mega Course@Udemy: Coding Exercise 10: Coding Exercise 2
-Python Mega Course@Udemy: Coding Exercise 11: Coding Exercise 3
-Python Mega Course@Udemy: Coding Exercise 12: Coding Exercise 4
-Python Mega Course@Udemy: Coding Exercise 13: Coding Exercise 5
-Python Mega Course@Udemy: Coding Exercise 14: Coding Exercise 6
-Python Mega Course@Udemy: Coding Exercise 15: Coding Exercise 7
-Python Mega Course@Udemy: 43. ✔️ Bug-Fixing Exercises 1min
-Python Mega Course@Udemy: 44. ⚙️ Programming Tool/Concep of the Day: Text Editors, Code Editors, IDE, PyCharm 15min
-Python Mega Course@Udemy: 45. ❓ FAQ 1min
-Python Mega Course@Udemy: 46. ◼️ Cheat Sheet 0min
-GKE with DevOps 75 Real Demos@udemy: 48. Step-01: Introduction-to-GKE-Private-Clusters 13min
-GKE with DevOps 75 Real Demos@udemy: 49. Step-02: Create GKE Standard Cluster of Type Private 16min
-GKE with DevOps 75 Real Demos@udemy: 50. Step-03: Review, Deploy k8s manifests and Test without CloudNAT 8min
-GKE with DevOps 75 Real Demos@udemy: 51. Step-04: Create CloudNAT, Deploy k8s manifests, Test and Clean-Up 7min
-GKE with DevOps 75 Real Demos@udemy: 52. Step-05: Understand GKE Authorized Network Feature 6min
-GKE with DevOps 75 Real Demos@udemy: 53. Step-01: Introduction to GKE Storage - Persistent Disks 22min
-GKE with DevOps 75 Real Demos@udemy: 54. Step-02: Introduction to Demo 21 - Use standard-rwo 12min
-GKE with DevOps 75 Real Demos@udemy: 55. Step-03: Create PVC, ConfigMap YAML Manifests 15min
-GKE with DevOps 75 Real Demos@udemy: 56. Step-04: Create MySQL Deployment & Service YAML Manifests 20min
-GKE with DevOps 75 Real Demos@udemy: 57. Step-05: Create UMS WebApp Deployment & Service YAML Manifests 11min
-GKE with DevOps 75 Real Demos@udemy: 58. Step-06: Deploy UMS WebApp and Verify 18min
-GKE with DevOps 75 Real Demos@udemy: 59. Step-07: Review GCE PD Logs and CleanUp 3min
-Python Mega Course@Udemy: 47. ⬅️ Recap of Yesterday 2min
 Python Mega Course@Udemy: 48. ▶️ Numbered Todos #enumerate 5min
 Python Mega Course@Udemy: 49. ▶️ Improving the Program Output ▶️ #f-strings #formatting-strings 4min
 Python Mega Course@Udemy: 50. ▶️ Add a "Complete Todo" Feature 9min
 Python Mega Course@Udemy: 51. ❗️Good to Know #Q&A 1min
 Python Mega Course@Udemy: 52. ⚛️ Code Experiments 10min
-Python Mega Course@Udemy: 53. ⭐️ Bonus Example 6min
-Python Mega Course@Udemy: Quiz 5: ☑️ Quiz of the Day
-Python Mega Course@Udemy: Coding Exercise 16: Coding Exercise 1
-Python Mega Course@Udemy: Coding Exercise 17: Coding Exercise 2
-Python Mega Course@Udemy: Coding Exercise 18: Coding Exercise 3
-Python Mega Course@Udemy: Coding Exercise 19: Coding Exercise 4
-Python Mega Course@Udemy: Coding Exercise 20: Coding Exercise 5
+Python Mega Course@Udemy: 53. ⭐️ Bonus Example 6min 
+Python Mega Course@Udemy: Quiz 5: ☑️ Quiz of the Day 
+Python Mega Course@Udemy: Coding Exercise 16: Coding Exercise 1 
+Python Mega Course@Udemy: Coding Exercise 17: Coding Exercise 2 
+Python Mega Course@Udemy: Coding Exercise 18: Coding Exercise 3 
+Python Mega Course@Udemy: Coding Exercise 19: Coding Exercise 4 
+Python Mega Course@Udemy: Coding Exercise 20: Coding Exercise 
 Python Mega Course@Udemy: 54. ✔️ Bug-Fixing Exercises 1min
 Python Mega Course@Udemy: 55. ⚙️ Programming Tool/Concept of the Day: How to Ask Good Programming Questions 10min
 Python Mega Course@Udemy: 56. ❓ FAQ 1min
 Python Mega Course@Udemy: 57. ◼️ Cheat Sheet 0min
-GKE with DevOps 75 Real Demos@udemy: 60. Step-01: Demo 22 - Use premium-rwo Storage Class 7min
-GKE with DevOps 75 Real Demos@udemy: 61. Step-01: Introduction to Custom Storage Class 9min
-GKE with DevOps 75 Real Demos@udemy: 62. Step-02: Implement Custom SC, Test Volume Expansion 13min
-GKE with DevOps 75 Real Demos@udemy: 63. Step-03: Test Reclaim Policy Retain 8min
-GKE with DevOps 75 Real Demos@udemy: 64. Step-01: Introduction to Preexisting PD Demo 3min
-GKE with DevOps 75 Real Demos@udemy: 65. Step-02: Create Persistent Volume YAML Manifest 8min
-GKE with DevOps 75 Real Demos@udemy: 66. Step-03: Implement Demo, Test and CleanUp 8min
-GKE with DevOps 75 Real Demos@udemy: 67. Step-01: Introduction to Regional PD Demo 5min
-GKE with DevOps 75 Real Demos@udemy: 68. Step-02: Implement Regional PD Demo, Test and CleanUp 8min
-GKE with DevOps 75 Real Demos@udemy: 69. Step-01: Introduction to PD Volume Snapshot and Volume Restore 10min
-GKE with DevOps 75 Real Demos@udemy: 70. Step-02: Deploy Project-01 and Add Users 6min
-GKE with DevOps 75 Real Demos@udemy: 71. Step-03: Review P02 and Deploy P02 Volume Snapshots 8min
-GKE with DevOps 75 Real Demos@udemy: 72. Step-04: Review P03 and Deploy P03 Volume Restore, Test and CleanUp 9min
 Python Mega Course@Udemy: 58. ⬅️ Recap of Yesterday 3min
 Python Mega Course@Udemy: 59. ▶️ Storing Items in Text Files #text-files #read #write #writelines #readlines 20min
 Python Mega Course@Udemy: 60. ▶️ Getting Todo Items from Text Files #read-text-files 4min
@@ -114,92 +32,27 @@ Python Mega Course@Udemy: 67. ✔️ Bug-Fixing Exercises 1min
 Python Mega Course@Udemy: 68. ⚙️ Programming Tool/Concept of the Day: Online Python Communities 5min
 Python Mega Course@Udemy: 69. ❓ FAQ 1min
 Python Mega Course@Udemy: 70. ◼️ Cheat Sheet 0min
-GKE with DevOps 75 Real Demos@udemy: 73. Step-01: Introduction to Cloud SQL - MySQL with Public IP 11min
-GKE with DevOps 75 Real Demos@udemy: 74. Step-02: Create Cloud SQL MySQL Database and Webappdb Schema 9min
-GKE with DevOps 75 Real Demos@udemy: 75. Step-03: Review Kubernetes Manifests for CloudSQL Public IP Demo 8min
-GKE with DevOps 75 Real Demos@udemy: 76. Step-04: Deploy, Verify and CleanUp CloudSQL Public IP Demo 8min
-GKE with DevOps 75 Real Demos@udemy: 77. Step-01: Introduction to Cloud SQL - MySQL with Private IP 3min
-GKE with DevOps 75 Real Demos@udemy: 78. Step-02: Create Private Connection between CustomerVPC and GoogleManagedVPC 6min
-GKE with DevOps 75 Real Demos@udemy: 79. Step-03: Create CloudSQL MySQL Instance with PrivateIP 5min
-GKE with DevOps 75 Real Demos@udemy: 80. Step-04: Deploy, Verify and CleanUp CloudSQL Private IP Demo 9min
-GKE with DevOps 75 Real Demos@udemy: 81. Step-01: Introduction to Cloud SQL without External Name Service 3min
-GKE with DevOps 75 Real Demos@udemy: 82. Step-02: Review, Deploy, Verify without ExternalName Svc and CleanUp 7min
-Python Mega Course@Udemy: 71. ⬅️ Recap of Yesterday 3min
-Python Mega Course@Udemy: 72. ▶️ Improving the Program Output #list-comprehensions 10min
-Python Mega Course@Udemy: 73. ⚛️ Code Experiments 6min
-Python Mega Course@Udemy: 74. ⭐️ Bonus Example 3min
-Python Mega Course@Udemy: Quiz 7: ☑️ Quiz
-Python Mega Course@Udemy: Coding Exercise 25: Coding Exercise 1
-Python Mega Course@Udemy: Coding Exercise 26: Coding Exercise 2
-Python Mega Course@Udemy: Coding Exercise 27: Coding Exercise 3
-Python Mega Course@Udemy: Coding Exercise 28: Coding Exercise 4
-Python Mega Course@Udemy: 75. ✔️ Bug-Fixing Exercises 1min
-Python Mega Course@Udemy: 76. ⚙️ Programming Tool/Concept of the Day: Usages of Python in Real Life 12min
-Python Mega Course@Udemy: 77. ❓ FAQ 1min
-Python Mega Course@Udemy: 78. ◼️ Cheat Sheet 0min
-GKE with DevOps 75 Real Demos@udemy: 83. Step-01: Introduction to File Store CSI Driver 17min
-GKE with DevOps 75 Real Demos@udemy: 84. Step-02: Enable FileStore CSI Driver and Verify 7min
-GKE with DevOps 75 Real Demos@udemy: 85. Step-03: Review Demo31 k8s YAML Manifests 12min
-GKE with DevOps 75 Real Demos@udemy: 86. Step-04: Demo31 Deploy, Verify and CleanUp 15min
-GKE with DevOps 75 Real Demos@udemy: 87. Step-01: Introduction to File Store CSI Driver - Custom Storage Class 9min
-GKE with DevOps 75 Real Demos@udemy: 88. Step-02: Demo32 Deploy, Verify and CleanUp 7min
-GKE with DevOps 75 Real Demos@udemy: 89. Step-01: Introduction to File Store Volume Snapshots and Restore 4min
-GKE with DevOps 75 Real Demos@udemy: 90. Step-02: Review and Deploy Project-1 and 2 10min
-GKE with DevOps 75 Real Demos@udemy: 91. Step-03: Deploy Project-3, Verify and CleanUp Project-1,2,3 13min
-GKE with DevOps 75 Real Demos@udemy: 92. Step-01: Ingress Basics Introduction 15min
-GKE with DevOps 75 Real Demos@udemy: 93. Step-02: Create Ingress Basics YAML Manifest 9min
-GKE with DevOps 75 Real Demos@udemy: 94. Step-03: Deploy, Verify and CleanUp Ingress Basics Demo 8min
-GKE with DevOps 75 Real Demos@udemy: 95. Step-01: Introduction to Ingress Context Path based Routing 4min
-GKE with DevOps 75 Real Demos@udemy: 96. Step-02: Create Ingress CPR YAML Manifest 12min
-GKE with DevOps 75 Real Demos@udemy: 97. Step-03: Deploy, Verify and Clean Up Ingress CPR Demo 7min
-Python Mega Course@Udemy: 79. ⬅️ Recap of Yesterday 2min
-Python Mega Course@Udemy: 80. ▶️ Optimising the Code #with-context-manager 5min
-Python Mega Course@Udemy: 81. ▶️ Editing and Completing Todo Items #with-context-manager 11min
-Python Mega Course@Udemy: 82. ⚛️ Code Experiments 8min
-Python Mega Course@Udemy: 83. ⭐️ Bonus Example 8min
-Python Mega Course@Udemy: Quiz 8: ☑️ Quiz
-Python Mega Course@Udemy: 84. ✔️ Bug-Fixing Exercises 1min
-Python Mega Course@Udemy: 85. Programming Tool/Concept of the Day: Steps of Creating and Maintaining a Program 4min
-Python Mega Course@Udemy: 86. ❓ FAQ 1min
-Python Mega Course@Udemy: 87. ◼️ Cheat Sheet 0min
-Python Mega Course@Udemy: 88. ⬅️ Recap of Yesterday 3min
-Python Mega Course@Udemy: 89. ▶️ Improving the "Add" Feature #if-conditionals #slicing 15min
-Python Mega Course@Udemy: 90. ▶️ Optimising the Program #elif #else 11min
-Python Mega Course@Udemy: 91. ⚛️ Code Experiments 9min
-Python Mega Course@Udemy: 92. ⭐️ Bonus Example 24min
-Python Mega Course@Udemy: Quiz 9: ☑️ Quiz
-Python Mega Course@Udemy: Coding Exercise 29: Coding Exercise 1
-Python Mega Course@Udemy: Coding Exercise 30: Coding Exercise 2
-Python Mega Course@Udemy: Coding Exercise 31: Coding Exercise 3
-Python Mega Course@Udemy: Coding Exercise 32: Coding Exercise 4
-Python Mega Course@Udemy: Coding Exercise 33: Coding Exercise 5
-Python Mega Course@Udemy: Coding Exercise 34: Coding Exercise 6
-Python Mega Course@Udemy: Coding Exercise 35: Coding Exercise 7
-Python Mega Course@Udemy: 93. ✔️ Bug-Fixing Exercises 1min
-Python Mega Course@Udemy: 94. ⚙️ Programming Tool/Concept of the Day: High vs. Low Level Programming Languages 5min
-Python Mega Course@Udemy: 95. ❓ FAQ 1min
-Python Mega Course@Udemy: 96. Cheat Sheet 0min
-Python Mega Course@Udemy: 97. ⬅️ Recap of Yesterday 3min
-Python Mega Course@Udemy: 98. ▶️ Fixing Two Bugs in the Program #bugs 9min
-Python Mega Course@Udemy: 99. ▶️ Anticipating Program Errors #try-except #continue 11min
-Python Mega Course@Udemy: 100. ⚛️ Code Experiments 6min
-Python Mega Course@Udemy: 101. ⭐️ Bonus Example 8min
-Python Mega Course@Udemy: Quiz 10: ☑️ Quiz
-Python Mega Course@Udemy: Coding Exercise 36: Coding Exercise 1
-Python Mega Course@Udemy: Coding Exercise 37: Coding Exercise 2
-Python Mega Course@Udemy: Coding Exercise 38: Coding Exercise 3
-Python Mega Course@Udemy: 102. ✔️ Bug-Fixing Exercises 1min
-Python Mega Course@Udemy: 103. ⚙️ Programming Tool/Concept of the Day: Cloud IDEs 8min
-Python Mega Course@Udemy: 104. ❓ FAQ 1min
-Python Mega Course@Udemy: 105. ◼️ Cheat Sheet 0min
-Python Mega Course@Udemy: 106. ⬅️ Recap of Yesterday 2min
-Python Mega Course@Udemy: 107. ▶️ Avoiding Repetitive Code #custom-functions 17min
-Python Mega Course@Udemy: 108. ⚛️ Code Experiments 8min
-Python Mega Course@Udemy: 109. ⭐️ Bonus Example 10min
-Python Mega Course@Udemy: Quiz 11: ☑️ Quiz
-Python Mega Course@Udemy: Coding Exercise 39: Coding Exercise 1
-Python Mega Course@Udemy: Coding Exercise 40: Coding Exercise 2
-Python Mega Course@Udemy: 110. ✔️ Bug-Fixing Exercises 1min
-Python Mega Course@Udemy: 111. ⚙️ Programming Tool/Concept of the Day: Python vs. Other Languages 3min
-Python Mega Course@Udemy: 112. ❓ FAQ 1min
-Python Mega Course@Udemy: 113. ◼️ Cheat Sheet 0min
+GKE with DevOps 75 Real Demos@udemy: 49. Step-02: Create GKE Standard Cluster of Type Private 16min
+GKE with DevOps 75 Real Demos@udemy: 50. Step-03: Review, Deploy k8s manifests and Test without CloudNAT 8min
+GKE with DevOps 75 Real Demos@udemy: 51. Step-04: Create CloudNAT, Deploy k8s manifests, Test and Clean-Up 7min
+GKE with DevOps 75 Real Demos@udemy: 52. Step-05: Understand GKE Authorized Network Feature 6min
+GKE with DevOps 75 Real Demos@udemy: 53. Step-01: Introduction to GKE Storage - Persistent Disks 22min
+GKE with DevOps 75 Real Demos@udemy: 54. Step-02: Introduction to Demo 21 - Use standard-rwo 12min
+GKE with DevOps 75 Real Demos@udemy: 55. Step-03: Create PVC, ConfigMap YAML Manifests 15min
+GKE with DevOps 75 Real Demos@udemy: 56. Step-04: Create MySQL Deployment & Service YAML Manifests 20min
+GKE with DevOps 75 Real Demos@udemy: 57. Step-05: Create UMS WebApp Deployment & Service YAML Manifests 11min
+GKE with DevOps 75 Real Demos@udemy: 58. Step-06: Deploy UMS WebApp and Verify 18min
+GKE with DevOps 75 Real Demos@udemy: 59. Step-07: Review GCE PD Logs and CleanUp 3min
+GKE with DevOps 75 Real Demos@udemy: 60. Step-01: Demo 22 - Use premium-rwo Storage Class 7min
+GKE with DevOps 75 Real Demos@udemy: 61. Step-01: Introduction to Custom Storage Class 9min
+GKE with DevOps 75 Real Demos@udemy: 62. Step-02: Implement Custom SC, Test Volume Expansion 13min
+GKE with DevOps 75 Real Demos@udemy: 63. Step-03: Test Reclaim Policy Retain 8min
+GKE with DevOps 75 Real Demos@udemy: 64. Step-01: Introduction to Preexisting PD Demo 3min
+GKE with DevOps 75 Real Demos@udemy: 65. Step-02: Create Persistent Volume YAML Manifest 8min
+GKE with DevOps 75 Real Demos@udemy: 66. Step-03: Implement Demo, Test and CleanUp 8min
+GKE with DevOps 75 Real Demos@udemy: 67. Step-01: Introduction to Regional PD Demo 5min
+GKE with DevOps 75 Real Demos@udemy: 68. Step-02: Implement Regional PD Demo, Test and CleanUp 8min
+GKE with DevOps 75 Real Demos@udemy: 69. Step-01: Introduction to PD Volume Snapshot and Volume Restore 10min
+GKE with DevOps 75 Real Demos@udemy: 70. Step-02: Deploy Project-01 and Add Users 6min
+GKE with DevOps 75 Real Demos@udemy: 71. Step-03: Review P02 and Deploy P02 Volume Snapshots 8min
+GKE with DevOps 75 Real Demos@udemy: 72. Step-04: Review P03 and Deploy P03 Volume Restore, Test and CleanUp 9min
