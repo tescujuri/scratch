@@ -1,0 +1,14 @@
+---
+- name:  
+  hosts: clientservers
+
+  tasks:
+  - name: 
+    ignore_errors: yes
+    shell: "pgrep -f top"
+    register: running_process
+
+  - name: 
+    ignore_errors: yes
+    shell: "kill {{ item }}"
+    with_items: "{{ running_process.stdout_lines }}"
