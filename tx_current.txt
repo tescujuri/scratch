@@ -1,74 +1,30 @@
-K8s 4Beginners-HandsOn @KodeKloud: Deployments (04:33)
-K8s 4Beginners-HandsOn @KodeKloud: Demo: Deployments (04:29)
-K8s 4Beginners-HandsOn @KodeKloud: Labs: Deployments
-K8s 4Beginners-HandsOn @KodeKloud: Lab Solution (07:07)
-K8s 4Beginners-HandsOn @KodeKloud: Deployments - Update and Rollback (06:43)
-K8s 4Beginners-HandsOn @KodeKloud: Demo - Deployments - Update and Rollback (14:35)
-K8s 4Beginners-HandsOn @KodeKloud: Lab: Practice Test Rolling Updates and Rollbacks
-K8s 4Beginners-HandsOn @KodeKloud: Lab Solution (09:05)
-K8s 4Beginners-HandsOn @KodeKloud: Basics of Networking in Kubernetes (05:36)
-K8s 4Beginners-HandsOn @KodeKloud: Services - NodePort (13:43)
-K8s 4Beginners-HandsOn @KodeKloud: Demo - Services (04:59)
-K8s 4Beginners-HandsOn @KodeKloud: Services - ClusterIP (04:00)
-K8s 4Beginners-HandsOn @KodeKloud: Services - Load balancer (03:42)
-K8s 4Beginners-HandsOn @KodeKloud: Labs: Services
-K8s 4Beginners-HandsOn @KodeKloud: Lab Solution (09:28)
-espanol111
--------------------------------------------------------------------------------------
-K8s 4Beginners-HandsOn @KodeKloud: Microservices Architecture (07:33)
-K8s 4Beginners-HandsOn @KodeKloud: Deploying voting app on Kubernetes (08:39)
-K8s 4Beginners-HandsOn @KodeKloud: Demo - Deploying voting app on Kubernetes (20:46)
-K8s 4Beginners-HandsOn @KodeKloud: Demo - Deploying voting app on Kubernetes with Deployments (10:02)
-K8s 4Beginners-HandsOn @KodeKloud: A Note for the Previous Demo
-K8s 4Beginners-HandsOn @KodeKloud: Section Introduction (03:27)
-K8s 4Beginners-HandsOn @KodeKloud: Kubernetes on GCP (GKE) (08:23)
-K8s 4Beginners-HandsOn @KodeKloud: Kubernetes on AWS (EKS) (09:56)
-K8s 4Beginners-HandsOn @KodeKloud: Kubernetes on Azure (AKS) (06:40)
-K8s 4Beginners-HandsOn @KodeKloud: Conclusion (01:16)
-espanol111
-------------------------------------------------------------------------
-CKAD @KodeKloud: Introduction (05:55)
-CKAD @KodeKloud: Kubernetes Series of Courses (04:34) 11
-CKAD @KodeKloud: Kubernetes for Beginners Course 12
-CKAD @KodeKloud: Certification Details (03:14) 16
-CKAD @KodeKloud: CNCF Certification 17
-CKAD @KodeKloud: A note on Course Curriculum 18
-CKAD @KodeKloud: Join Our Community 19
-CKAD @KodeKloud: Recap-Architecture (06:16) 26
-CKAD @KodeKloud: Docker-vs-ContainerD (13:05) 40
-CKAD @KodeKloud: Recap-Pods (09:13) 50
-CKAD @KodeKloud: Lab- YAML Basics 55
-CKAD @KodeKloud: Recap - Pods with YAML (07:00) 62
-CKAD @KodeKloud: Recap - Demo - Creating Pods with YAML (10:16) 73
-espanol111
-------------------------------------------------------------------------
-CKAD @KodeKloud: Introduction (05:45) 79
-CKAD @KodeKloud: Practice Test - Kubernetes - CKAD - Pods
-CKAD @KodeKloud: Solution - Pods (optional) (11:32)
-CKAD @KodeKloud: Edit Pods
-CKAD @KodeKloud: Download Course Deck
-CKAD @KodeKloud: Recap-ReplicaSets (16:09)
-CKAD @KodeKloud: Practice Test - Kubernetes - CKAD - ReplicaSets
-CKAD @KodeKloud: Solution - ReplicaSets (optional) (14:09)
-CKAD @KodeKloud: Recap-Deployments (04:26)
-CKAD @KodeKloud: Practice Test - Kubernetes - CKAD - Deployments
-CKAD @KodeKloud: Solution: Deployments (optional) (07:07)
-espanol111
-------------------------------------------------------------------------
-CKAD @KodeKloud: Recap - Namespaces (08:23)
-CKAD @KodeKloud: Practice Test - Kubernetes - CKAD - Namespaces
-CKAD @KodeKloud: Solution: Namespaces (optional) (06:04)
-CKAD @KodeKloud: Certification Tip - Imperative Commands!
-CKAD @KodeKloud: Certification Tip: Formatting Output with kubectl
-CKAD @KodeKloud: Practice Test - Imperative Commands
-CKAD @KodeKloud: Solution: Imperative Commands (optional) (13:25)
-CKAD @KodeKloud: A Quick Reminder (01:10)
-CKAD @KodeKloud: Define, build and modify container images (07:30)
-CKAD @KodeKloud: Practice test Docker Images
-CKAD @KodeKloud: Commands and Arguments in Docker (07:25)
-CKAD @KodeKloud: Commands and Arguments in Kubernetes (02:40)
-CKAD @KodeKloud: A quick note on editing Pods and Deployments
-CKAD @KodeKloud: Practice Test - Kubernetes - CKAD - Commands and Arguments
-CKAD @KodeKloud: Solution: Commands and Arguments (Optional) (19:31)
-espanol111
-------------------------------------------------------------------------
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 47. Amazon Q Business 7min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 54. Amazon Q for AWS Services 3min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 57. AI, ML, Deep Learning, and GenAI 15min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 58. ML Terms You May Encounter in the Exam 3min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 59. Training Data 5min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 60. Supervised Learning 10min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 61. Unsupervised Learning 5min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 64. Model Fit, Bias, and Variance 6min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 65. Model Evaluation Metrics 10min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 66. Machine Learning - Inferencing 3min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 67. Phases of a Machine Learning Project 6min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 68. Hyperparameters 5min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 69. When is ML not appropriate? 2min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 105. Amazon SageMaker - Summary 2min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 107. AI Challenges and Responsibilities - Overview 2min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 108. Responsible AI 10min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 109. GenAI Challenges 10min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 110. Compliance for AI 4min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 111. Governance for AI 7min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 112. Security and Privacy for AI 7min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 113. GenAI Security Scoping Matrix 2min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 114. MLOps 2min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 133. AWS Audit Manager 2min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 136. AWS Security Services - Summary 3min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 137. Scenarios for Security 5min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: 139. Example Sample Exam Questions Walkthrough 12min
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy Practice Exam 2 
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy Practice Exam 3
+AWS Ulti AWS Cert. AI Practitioner AIF-C01@Udemy: AWS Certified AI Practitioner - 20 question 
+AWS Ulti AWS Cert. AI Practitioner AIF-C01 Official Exam @ HOME 
