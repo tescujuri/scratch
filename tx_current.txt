@@ -1,1 +1,40 @@
+Tuesday
+CKAD @KodeKloud: Practice Test - Kubernetes - CKAD - Rolling Updates and Rollbacks
+CKAD @KodeKloud: Practice Test - Deployment strategies
+CKAD @KodeKloud: Practice Test - Kubernetes - CKAD - Jobs and CronJobs
+CKAD @KodeKloud: Practice Test - CKAD - Kubernetes Services
+CKAD @KodeKloud: Practice Test - Kubernetes - CKAD - Network Policies
+CKAD @KodeKloud: Practice Test - CKAD - Ingress Networking - 1
+CKAD @KodeKloud: Practice Test - CKAD - Ingress Networking - 2
+CKAD @KodeKloud: Practice Test - Kubernetes - CKAD - Persistent Volumes
+CKAD @KodeKloud: Practice Test - Storage Class
+CKAD @KodeKloud: Practice Test - KubeConfig
+CKAD @KodeKloud: Practice Test - Role Based Access Controls
+CKAD @KodeKloud: Practice Test - Cluster Roles
+CKAD @KodeKloud: Practice Test – Install Helm
+CKAD @KodeKloud: Practice Test – Admission Controllers
+CKAD @KodeKloud: Practice Test – Validating and Mutating Admission Controllers
+CKAD @KodeKloud: Practice Test – API Versions/Deprecations
+CKAD @KodeKloud: Practice Test - Custom Resource Definition
+CKAD @KodeKloud: Practice Test – Helm Concepts
+killercoda
 
+Wednesday
+CKAD @KodeKloud: Lightning Lab - 1 100%
+CKAD @KodeKloud: Lightning Lab - 2 100%
+CKAD @KodeKloud: Mock Exam - 1 100%
+CKAD @KodeKloud: Mock Exam - 2 100%
+
+Thursday
+killer.sh
+
+Friday
+killer.sh
+
+Saturday/Sunday
+CKAD @KodeKloud: Lightning Lab - 1 100%
+CKAD @KodeKloud: Lightning Lab - 2 100%
+CKAD @KodeKloud: Mock Exam - 1 100%
+CKAD @KodeKloud: Mock Exam - 2 100%
+
+Monday CKAD Exam
