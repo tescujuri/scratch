@@ -3,12 +3,7 @@ import re
 
 # List of commands to run
 commands = [
-    r'aws s3 sync C:\Users\tescu\Downloads s3://j141701012025/downloads_01012025 --delete',
-    r'aws s3 sync C:\Users\tescu\code s3://j141701012025/code_01012025 --delete',
-    r'aws s3 sync C:\Users\tescu\Videos s3://j141701012025/videos_01012025 --delete',
-    r'aws s3 sync C:\Users\tescu\AppData\Roaming\Thunderbird s3://j141701012025/thunderbird_01012025  --delete',
-    r'aws s3 sync C:\Users\tescu\Documents s3://j141701012025/docs_01012025  --delete',
-    r'aws s3 sync C:\Users\tescu\Pictures s3://j141701012025/pics_01012025 --delete',
+blah blah
 ]
 
 def run_commands(commands):
