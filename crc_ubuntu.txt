@@ -1,0 +1,13 @@
+install crc on ubuntu:
+# do not run the below as root....  as local .items will be needed in user home
+# make sure the install package is in your home directory
+
+sudo apt update
+sudo apt install qemu-kvm libvirt-daemon libvirt-daemon-system
+kvm-ok # The kvm-ok command should indicate that virtualization is supported and enabled in your BIOS.
+sudo apt install qemu-system virtiofsd
+sudo usermod -aG libvirt $USER
+newgrp libvirt
+tar -xvf crc-linux-amd64.tar.xz
+sudo mv crc-linux-*/crc /usr/local/bin/
+sudo chmod +x /usr/local/bin/crc
