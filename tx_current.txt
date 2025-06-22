@@ -1,1 +1,75 @@
-
+Monday
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 4.7: Lab: Network Security 13 
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 5.1: Expose non-HTTP/SNI Applications  4min 17
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 5.2: Guided Exercise: Load Balancer Services 4 21
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 5.3: Multus Secondary Networks 12 33
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 5.4: Guided Exercise: Multus Secondary Networks 6 39
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 5.5: Lab: Expose non-HTTP/SNI Applications 12 51
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 6.1: Project and Cluster Quotas 11 62
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 6.2: Guided Exercise: Project and Cluster Quotas 8 70
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 6.3: Per-Project Resource Constraints: Limit Ranges 5 75
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 6.4: Guided Exercise: Per-Project Resource Constraints: Limit Ranges 6 81
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 6.5: The Project Template and the Self-Provisioner Role 5 86
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 6.6: Guided Exercise: The Project Template and the Self-Provisioner Role 11 97
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 6.7: Lab: Enable Developer Self-Service 8 105
+Tuesday
+100 Days of Code: 114. Walkthrough and Solution for the OOP Coffee Machine 15min
+100 Days of Code: 115. Don't forget to review occasionally 1min
+100 Days of Code: 116. Day 17 Goals: what we will make by the end of the day 1min
+100 Days of Code: 117. How to create your own Class in Python 5min
+100 Days of Code: 118. Working with Attributes, Class Constructors and the __init__() Function 11min
+100 Days of Code: 119. Adding Methods to a Class 4min
+100 Days of Code: 120. Quiz Project Part 1: Creating the Question Class 6min
+100 Days of Code: 121. Quiz Project Part 2: Creating the List of Question Objects from the Data 8min
+100 Days of Code: 122. Quiz Project Part 3: The QuizBrain and the next_question() Method 8min
+100 Days of Code: 123. Quiz Project Part 4: How to continue showing new Questions 5min
+100 Days of Code: 124. Quiz Project Part 5: Checking Answers and Keeping Score 8min
+100 Days of Code: 125. The Benefits of OOP: Use Open Trivia DB to Get New Questions 6min
+100 Days of Code: 126. Run for that Bus! 1min
+100 Days of Python Code: 164. Day 18 Goals: what we will make by the end of the day 1min
+100 Days of Python Code: 165. Understanding Turtle Graphics and How to use the Documentation 10min
+100 Days of Python Code: 166. Turtle Challenge 1 - Draw a Square 2min
+100 Days of Python Code: 167. Importing Modules, Installing Packages, and Working with Aliases 8min
+Wednesday
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 7.1: Kubernetes Operators and the Operator Lifecycle Manager 9 33
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 7.2: Quiz: Kubernetes Operators and the Operator Lifecycle Manager 5 38
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 7.3: Install Operators with the Web Console 6 44
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 7.4: Guided Exercise: Install Operators with the Web Console 6 50
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 7.5: Install Operators with the CLI 9 59
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 7.6: Guided Exercise: Install Operators with the CLI 8 67
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 7.7: Lab: Manage Kubernocetes Operators 6 73
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 8.1: Control Application Permissions with Security Context Constraints
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 8.2: Guided Exercise: Control Application Permissions with Security Context Constraints
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 8.3: Allow Application Access to Kubernetes APIs
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 8.4: Guided Exercise: Allow Application Access to Kubernetes APIs
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 8.5: Cluster and Node Maintenance with Kubernetes Cron Jobs
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 8.6: Guided Exercise: Cluster and Node Maintenance with Kubernetes Cron Jobs
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 8.7: Lab: Application Security
+Thursday
+100 Days of Python Code: 168. Turtle Challenge 2 - Draw a Dashed Line 3min
+100 Days of Python Code: 169. Turtle Challenge 3 - Drawing Different Shapes 7min
+100 Days of Python Code: 170. Turtle Challenge 4 - Generate a Random Walk 7min
+100 Days of Python Code: 171. Python Tuples and How to Generate Random RGB Colours 8min
+100 Days of Python Code: 172. Turtle Challenge 5 - Draw a Spirograph 9min
+100 Days of Python Code: 173. The Hirst Painting Project Part 1 - How to Extract RGB Values from Images 14min
+100 Days of Python Code: 174. The Hirst Painting Project Part 2 - Drawing the Dots 12min
+100 Days of Python Code: 175. Space out your study sessions and stay consistent 2min
+100 Days of Python Code: 176. Day 19 Goals: what we will make by the end of the day 2min
+100 Days of Python Code: 177. Python Higher Order Functions & Event Listeners 7min
+100 Days of Python Code: 178. Challenge: Make an Etch-A-Sketch App 7min
+100 Days of Python Code: 179. Object State and Instances 3min
+100 Days of Python Code: 180. Understanding the Turtle Coordinate System 13min
+100 Days of Python Code: Quiz 11: Turtle Coordinate System Quiz 
+100 Days of Python Code: 181. Aaaand, we're off to the races! 10min
+100 Days of Python Code: 182. Expand on the Solutions 2min
+Friday
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 9.1: The Cluster Update Process
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 9.3: Detect Deprecated Kubernetes API Usage
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 9.2: Quiz: The Cluster Update Process
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 9.4: Quiz: Detect Deprecated Kubernetes API Usage
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 9.5: Update Operators with the OLM
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 9.6: Quiz: Update Operators with the OLM
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 9.7: Quiz: OpenShift Updates
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 10.2: Lab: Cluster Self-service Setup
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 10.3: Lab: Secure Applications
+ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 10.4: Lab: Deploy Packaged Applications
