@@ -1,3 +1,6 @@
+Dailys
+5am kunda33+ 10x3 - PUs N SUs (+5 weekly to 100)
+5:50am - Walk the Dogs 2 laps (big dogs) 1 lap little dogs
 Monday
 ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 4.7: Lab: Network Security 13 
 ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 5.1: Expose non-HTTP/SNI Applications  4min 17
