@@ -1,78 +1,67 @@
-Dailys
-5am kunda33+ 10x3 - PUs N SUs (+5 weekly to 100)
-5:50am - Walk the Dogs 2 laps (big dogs) 1 lap little dogs
-Monday
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 4.7: Lab: Network Security 13 
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 5.1: Expose non-HTTP/SNI Applications  4min 17
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 5.2: Guided Exercise: Load Balancer Services 4 21
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 5.3: Multus Secondary Networks 12 33
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 5.4: Guided Exercise: Multus Secondary Networks 6 39
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 5.5: Lab: Expose non-HTTP/SNI Applications 12 51
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 6.1: Project and Cluster Quotas 11 62
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 6.2: Guided Exercise: Project and Cluster Quotas 8 70
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 6.3: Per-Project Resource Constraints: Limit Ranges 5 75
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 6.4: Guided Exercise: Per-Project Resource Constraints: Limit Ranges 6 81
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 6.5: The Project Template and the Self-Provisioner Role 5 86
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 6.6: Guided Exercise: The Project Template and the Self-Provisioner Role 11 97
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 6.7: Lab: Enable Developer Self-Service 8 105
-Tuesday
-100 Days of Code: 114. Walkthrough and Solution for the OOP Coffee Machine 15min
-100 Days of Code: 115. Don't forget to review occasionally 1min
-100 Days of Code: 116. Day 17 Goals: what we will make by the end of the day 1min
-100 Days of Code: 117. How to create your own Class in Python 5min
-100 Days of Code: 118. Working with Attributes, Class Constructors and the __init__() Function 11min
-100 Days of Code: 119. Adding Methods to a Class 4min
-100 Days of Code: 120. Quiz Project Part 1: Creating the Question Class 6min
-100 Days of Code: 121. Quiz Project Part 2: Creating the List of Question Objects from the Data 8min
-100 Days of Code: 122. Quiz Project Part 3: The QuizBrain and the next_question() Method 8min
-100 Days of Code: 123. Quiz Project Part 4: How to continue showing new Questions 5min
-100 Days of Code: 124. Quiz Project Part 5: Checking Answers and Keeping Score 8min
-100 Days of Code: 125. The Benefits of OOP: Use Open Trivia DB to Get New Questions 6min
-100 Days of Code: 126. Run for that Bus! 1min
-100 Days of Python Code: 164. Day 18 Goals: what we will make by the end of the day 1min
-100 Days of Python Code: 165. Understanding Turtle Graphics and How to use the Documentation 10min
-100 Days of Python Code: 166. Turtle Challenge 1 - Draw a Square 2min
-100 Days of Python Code: 167. Importing Modules, Installing Packages, and Working with Aliases 8min
-Wednesday
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 7.1: Kubernetes Operators and the Operator Lifecycle Manager 9 33
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 7.2: Quiz: Kubernetes Operators and the Operator Lifecycle Manager 5 38
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 7.3: Install Operators with the Web Console 6 44
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 7.4: Guided Exercise: Install Operators with the Web Console 6 50
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 7.5: Install Operators with the CLI 9 59
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 7.6: Guided Exercise: Install Operators with the CLI 8 67
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 7.7: Lab: Manage Kubernocetes Operators 6 73
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 8.1: Control Application Permissions with Security Context Constraints
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 8.2: Guided Exercise: Control Application Permissions with Security Context Constraints
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 8.3: Allow Application Access to Kubernetes APIs
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 8.4: Guided Exercise: Allow Application Access to Kubernetes APIs
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 8.5: Cluster and Node Maintenance with Kubernetes Cron Jobs
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 8.6: Guided Exercise: Cluster and Node Maintenance with Kubernetes Cron Jobs
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 8.7: Lab: Application Security
-Thursday
-100 Days of Python Code: 168. Turtle Challenge 2 - Draw a Dashed Line 3min
-100 Days of Python Code: 169. Turtle Challenge 3 - Drawing Different Shapes 7min
-100 Days of Python Code: 170. Turtle Challenge 4 - Generate a Random Walk 7min
-100 Days of Python Code: 171. Python Tuples and How to Generate Random RGB Colours 8min
-100 Days of Python Code: 172. Turtle Challenge 5 - Draw a Spirograph 9min
-100 Days of Python Code: 173. The Hirst Painting Project Part 1 - How to Extract RGB Values from Images 14min
-100 Days of Python Code: 174. The Hirst Painting Project Part 2 - Drawing the Dots 12min
-100 Days of Python Code: 175. Space out your study sessions and stay consistent 2min
-100 Days of Python Code: 176. Day 19 Goals: what we will make by the end of the day 2min
-100 Days of Python Code: 177. Python Higher Order Functions & Event Listeners 7min
-100 Days of Python Code: 178. Challenge: Make an Etch-A-Sketch App 7min
-100 Days of Python Code: 179. Object State and Instances 3min
-100 Days of Python Code: 180. Understanding the Turtle Coordinate System 13min
-100 Days of Python Code: Quiz 11: Turtle Coordinate System Quiz 
-100 Days of Python Code: 181. Aaaand, we're off to the races! 10min
-100 Days of Python Code: 182. Expand on the Solutions 2min
-Friday
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 9.1: The Cluster Update Process
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 9.3: Detect Deprecated Kubernetes API Usage
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 9.2: Quiz: The Cluster Update Process
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 9.4: Quiz: Detect Deprecated Kubernetes API Usage
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 9.5: Update Operators with the OLM
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 9.6: Quiz: Update Operators with the OLM
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 9.7: Quiz: OpenShift Updates
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 10.2: Lab: Cluster Self-service Setup
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 10.3: Lab: Secure Applications
-ROL: DO280 - OCP ADMIN II: Configuring a Production Cluster: Section 10.4: Lab: Deploy Packaged Applications
+ROL: Linux Automation with Ansible: 2.8: Guided Exercise: Implementing Multiple Plays 12 
+ROL: Linux Automation with Ansible: 2.9: Lab: Implementing an Ansible Playbook 15 27
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 99. Hands-on: Dataset Group (Amazon Personalize) 13min 40
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 100. Hands-on: Training Dataset (Amazon Personalize) 4min 44
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 101. Hands-on: Train Model (Amazon Personalize) 6min 50
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 102. Hands-on: Make Predictions (Amazon Personalize) 7min 57
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 103. Amazon Fraud Detector 7min 64
+AWS Certified Machine Learning Engineer mla-c01 @udemy: Quiz 16: AWS Machine Learning Services 74
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 104. Setup & Event Type (Amazon Fraud Detector) 12min 86
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 105. Build & Train Model (Amazon Fraud Detector) 5min 91
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 106. Evaluate our Model (Amazon Fraud Detector) 9min 100
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 107. Create Detector & Make Predictions (Amazon Fraud Detector) 10min 110
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 108. Cleaning up Resources (Amazon Fraud Detector) 7min  117
+---------------------------------------------------------------------------------------------------------------------------
+ROL: Linux Automation with Ansible: 3.1: Managing Variables 43 43
+ROL: Linux Automation with Ansible: 3.2: Guided Exercise: Managing Variabl es 15 58
+ROL: Linux Automation with Ansible: 3.3: Managing Secrets 17 75
+ROL: Linux Automation with Ansible: 3.4: Guided Exercise: Managing Secret 10 85
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 109. Amazon Augmented AI 4min 89
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 110. Amazon Comprehend 7min 96
+AWS Certified Machine Learning Engineer mla-c01 @udemy: Quiz 17: AWS Machine Learning Services 101
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 111. Hands-on: Amazon Comprehend 7min 108
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 112. Amazon Comprehend Medical Hands on 5min 113
+------------------------------------------------------------------------------------------------------------------------------
+ROL: Linux Automation with Ansible: 3.5: Managing Facts 13 
+ROL: Linux Automation with Ansible: 3.6: Guided Exercise: Managing Facts 11  24
+ROL: Linux Automation with Ansible: 3.7: Lab: Managing Variables and Facts 20  44
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 113. Amazon Rekognition 3min 47
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 114. Hands-on: Amazon Rekognition 5min  53
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 115. Hands-on: Using Rekognition in Lambda Function 10min 63
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 116. Amazon Textract 7min 70
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 117. Hands-on: Amazon Textract 8min 78
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 118. Amazon Kendra 6min 84
+AWS Certified Machine Learning Engineer mla-c01 @udemy: Quiz 18: AWS Machine Learning Services  89
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 119. Hands-on: Create an Index & Sync (Amazon Kendra) 11min 100
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 120. Hands-on: Create Experience (Amazon Kendra)9min 109
+------------------------------------------------------------------------------------------------------------------------------
+ROL: Linux Automation with Ansible: 4.1: Writing Loops and Conditional Tasks 40
+ROL: Linux Automation with Ansible: 4.2: Guided Exercise: Writing Loops and Conditional Tasks 45
+ROL: Linux Automation with Ansible: 4.3: Implementing Handlers 14 59
+ROL: Linux Automation with Ansible: 4.4: Guided Exercise: Implementing Handlers 15  74
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 121. AWS S3 - Basics 9mi 83
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 122. Create a Bucket in S3 (Hands-on) 4m 87
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 123. Uploading files to S3 (Hands-on) 2min 89
+AWS Certified Machine Learning Engineer mla-c01 @udemy: Quiz 19: Data Ingestion  94
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 124. Streaming vs Batch Ingestion 3min 97
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 125. AWS Glue 7min 104
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 126 30 109
+AWS Certified Machine Learning Engineer mla-c01 @udemy: Quiz 20: Data Ingestion  104
+------------------------------------------------------------------------------------------------------------------------------
+ROL: Linux Automation with Ansible: 4.5: Handling Task Failure 11 
+ROL: Linux Automation with Ansible: 4.6: Guided Exercise: Handling Task Failure 15 26
+ROL: Linux Automation with Ansible: 4.7: Lab: Implementing Task Control 15 41
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 127. AWS Athena - Overview 4min 45
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 128. Query data using Athena (Hands-on) 5min 50
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 129. Federated Queries 2min 52
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 130. Performance & Cost 10min 62
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 131. Workgroups 3min 63
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 132. Workgroups (Hands-on) 3min 66
+AWS Certified Machine Learning Engineer mla-c01 @udemy: Quiz 21: Querying with Athena 71
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 133. Glue Costs 8min 79
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 134. Run Glue ETL Jobs (Hands-on) 13m 92
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 135. Scheduling Crawlers & ETL Jobs (Hands-on) 4min 96
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 136. Stateful vs Stateless 5min 101
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 137. Stateless Data Ingestion in Glue (Hands-on) 4min 105
+AWS Certified Machine Learning Engineer mla-c01 @udemy: 138. Stateful Ingestion with Bookmarks (Hands-on) 5min 110
+AWS Certified Machine Learning Engineer mla-c01 @udemy: Quiz 22: AWS Data Processing Services 115
